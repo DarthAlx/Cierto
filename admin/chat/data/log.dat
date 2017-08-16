@@ -1,0 +1,147 @@
+Application path: /admin/chat/php/app.php?install-wizard-2
+2016-09-20 22:31:50 [error] SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Stack trace:
+/home/cierto/public_html/admin/chat/php/service/Database.php:44 (Logger:error())
+/home/cierto/public_html/admin/chat/php/service/Database.php:62 (Database:connect())
+/home/cierto/public_html/admin/chat/php/service/Database.php:25 (Database:reconnect())
+/home/cierto/public_html/admin/chat/php/lib/Service.php:17 (Database:onRegister())
+/home/cierto/public_html/admin/chat/php/lib/ServiceContainer.php:47 (Service:setServiceContainer())
+/home/cierto/public_html/admin/chat/php/lib/Controller.php:33 (ServiceContainer:get())
+/home/cierto/public_html/admin/chat/php/controller/InstallController.php:49 (Controller:get())
+/home/cierto/public_html/admin/chat/php/app/Application.php:155 (InstallController:wizard2Action())
+/home/cierto/public_html/admin/chat/php/app/Application.php:79 (Application:runAction())
+/home/cierto/public_html/admin/chat/php/app.php:26 (Application:run())
+
+Application path: /admin/chat/php/app.php?install-wizard-3
+2016-09-20 22:31:59 [info] Application installed
+Application path: /admin/chat/php/app.php?logout
+2016-09-20 22:40:03 [info] Log out, user: admin
+Application path: /admin/chat/php/app.php?login
+2016-09-20 22:40:14 [info] Successful login, user: alx.morales@outlook.com
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:19 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:24 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:29 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:34 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:39 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:44 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:49 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:54 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:40:59 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-get-typing-status
+2016-09-20 22:41:04 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?operator-update-typing-status
+2016-09-20 22:41:06 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+2016-09-20 22:41:06 parse_ini_file(/home/cierto/public_html/admin/chat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+2016-09-20 22:41:06 array_merge(): Argument #1 is not an array on line 102 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+2016-09-20 22:41:06 array_keys() expects parameter 1 to be array, boolean given on line 104 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+2016-09-20 22:41:06 Invalid argument supplied for foreach() on line 104 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+2016-09-20 22:41:06 Invalid argument supplied for foreach() on line 79 in /home/cierto/public_html/admin/chat/php/service/Memory.php
+Application path: /admin/chat/php/app.php?logout
+2016-09-20 22:48:47 [info] Log out, user: alexis
+Application path: /admin/chat/php/app.php?login
+2016-10-06 21:53:44 [info] Failed login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2016-10-06 21:53:50 [info] Successful login, user: alx.morales@outlook.com
+Application path: /admin/chat/php/app.php?logout
+2016-10-06 21:54:19 [info] Log out, user: alexis
+Application path: /admin/chat/php/app.php?login
+2016-10-06 21:54:27 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2016-10-11 20:57:57 [info] Successful login, user: alx.morales@outlook.com
+Application path: /admin/chat/php/app.php?login
+2016-12-15 06:21:18 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2016-12-15 17:31:59 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-06-23 16:02:36 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:15:22 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:31:19 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 16:35:05 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:35:14 [info] Successful login, user: alx.morales@outlook.com
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 16:45:16 [info] Log out, user: alexis
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:50:06 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 16:52:26 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:52:45 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 16:57:44 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 16:57:55 [info] Successful login, user: fraan.reza@gmail.com
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:00:26 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:13:12 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:21:47 [info] Log out, user: Info
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:22:50 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:23:58 [info] Failed login, user: info@ciertoglobar.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:24:11 [info] Successful login, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:36:15 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:36:17 [info] Log out, user: info@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:36:41 [info] Successful login, user: calvarez@ciertoglobal.org
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:37:07 [info] Failed login, user: fraan.reza@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:37:13 [info] Successful login, user: fraan.reza@gmail.com
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:45:26 [info] Log out, user: CESAR
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 17:45:31 [info] Log out, user: Info
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:49:11 [info] Failed login, user: t1@gmail.com.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:49:24 [info] Failed login, user: t1@gmail.com.
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:49:42 [info] Failed login, user: t1@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:50:11 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:50:42 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:50:50 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:51:30 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:51:58 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:53:00 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:53:32 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:53:49 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:53:57 [info] Failed login, user: t3@gmail.com
+Application path: /admin/chat/php/app.php?login
+2017-07-19 17:56:11 [info] Successful login, user: fraan.reza@gmail.com
+Application path: /admin/chat/php/app.php?logout
+2017-07-19 18:09:22 [info] Log out, user: Info
+Application path: /admin/chat/php/app.php?login
+2017-07-27 03:51:36 [info] Successful login, user: calvarez@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-27 03:54:43 [info] Log out, user: CESAR
+Application path: /admin/chat/php/app.php?login
+2017-07-28 15:22:28 [info] Successful login, user: calvarez@ciertoglobal.org
+Application path: /admin/chat/php/app.php?logout
+2017-07-28 15:31:39 [info] Log out, user: CESAR
