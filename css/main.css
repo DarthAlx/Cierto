@@ -29,6 +29,33 @@ p{
   color: #333333;
   font-size: 20px;
 }
+
+ul li{
+  font-family: 'Lato', sans-serif;
+  color: #333333;
+  font-size: 20px;
+}
+.modal-dialog {
+    width: 93vw;
+
+}
+.modal-body {
+    min-height: 100vh;
+}
+.modal-content {
+     border: 0px;
+     border-radius: 0px;
+}
+.modal h3{
+  color: #333333;
+}
+.modal h4{
+  font-size: 20px;
+}
+.modal i{
+  color: #ff6600;
+  cursor: pointer;
+}
 .linea{
     background: #ff6600;
     position: absolute;
@@ -104,6 +131,13 @@ p{
   width: 100%;
   height: 100vh;
 }
+.frases .fondo{
+  background: url(../images/frases.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: left;
+}
 .contacto .fondo{
   background: url(../images/contacto.jpg) no-repeat center center;
   background-size: cover;
@@ -113,7 +147,15 @@ p{
 .servicios .fondo{
   background: #f4f4f4;
   width: 100%;
-  height: 100vh;
+  /*height: 100vh;*/
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.maqueta .fondo{
+  background: #f4f4f4;
+  width: 100%;
+  /*height: 100vh;*/
   padding-top: 50px;
   padding-left: 30px;
   padding-right: 30px;
@@ -132,7 +174,7 @@ p{
 .servicio .texto{
   font-family: 'Merriweather', serif;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 30px;
   color: #333333;
   float: right;
   margin-top: 25px;
@@ -170,4 +212,150 @@ p{
 .text p{
 
   color: white;
+}
+.frases .carousel .item .col-md-6 h2{
+  font-family: 'Amaranth', sans-serif;
+  font-weight: bold;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 40vh;
+  text-align: right;
+}
+.lineablanca{
+  background: #fff;
+  height: 7px;
+  width: 80px;
+
+}
+
+.maqueta .servicio{
+  cursor: pointer;
+  display: inline-block;
+}
+.maqueta .servicio .numero{
+  line-height: 1;
+  font-size: 70px;
+}
+.maqueta .servicio .texto{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+
+.servicio.maqueta1{
+    position: absolute;
+
+}
+
+.servicio.maqueta2{
+    position: absolute;
+
+}
+.servicio.maqueta3{
+    position: absolute;
+
+}
+.servicio.maqueta4{
+    position: absolute;
+
+}
+
+
+
+@media (max-width: 766px) {
+  h3{
+    font-size: 30px;
+  }
+  h4{
+    font-size: 18px;
+  }
+  p{
+    font-size: 16px;
+  }
+  .servicio .numero{
+    font-size: 70px;
+  }
+  .servicio .texto{
+    font-size: 28px;
+  }
+  .frases .carousel .item .col-md-6 h2{
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 767px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+
+
+@media (min-width: 1200px) {
+
+}
+
+
+/* The Overlay (background) */
+.menu .overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */
+    height: 100%;
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 99999999999; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: #EF7E19; /* Black fallback color */
+    background-color: #EF7E19; /* Black w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+		color: #fff;
+}
+
+/* Position the content inside the overlay */
+.menu .overlay-content {
+    position: relative;
+     /* 25% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.menu .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #fff;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.menu .overlay a:hover, .overlay a:focus {
+    color: #e0e0e0;
+}
+
+/* Position the close button (top right corner) */
+.menu .overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+    .menu .overlay a {font-size: 20px}
+    .menu .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+.menu{
+  font-family: 'Amaranth', sans-serif;
+  font-weight: bold;
 }
