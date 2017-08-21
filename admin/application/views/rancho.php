@@ -11,7 +11,7 @@
    echo "<div class='alert alert-danger alert-dismissible' role='alert'><button type='button' class='close' data-dismiss='alert' aria-label='Cerrar'><span aria-hidden='true'>&times;</span></button>El rancho ya se encuentra registrado. <a href='javascript:history.go(-1);'>Regresar</a></div>";
  }
  else{
- 
+
     if ($this->session->userdata('tipo')=="1") {
       # code...
 
@@ -37,6 +37,12 @@
                           </div>
 
 
+                          <div class="form-group ">
+                              <label for="marca" class="control-label col-lg-2">Nombre de marca comercial *</label>
+                              <div class="col-lg-10">
+                                  <input class=" form-control" id="marca" name="marca" type="text" required/>
+                              </div>
+                          </div>
                           <div class="form-group ">
                               <label for="nombrerancho" class="control-label col-lg-2">Nombre del Rancho *</label>
                               <div class="col-lg-10">
@@ -477,6 +483,6 @@
   </div>
 <?php } ?>
 
-  <?php 
+  <?php
 }     ?>
 </div>

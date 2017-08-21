@@ -12,6 +12,7 @@
   <thead>
   <tr>
       <th>Fecha de registro</th>
+      <th>Marca Comercial</th>
       <th>Nombre</th>
       <th>Dirección</th>
       <th>Municipio</th>
@@ -25,6 +26,7 @@
     <?php foreach($ranchos as $rancho):?>
   <tr onclick="location='<?php echo base_url() ?>index.php/rancho/detalle/<?php echo $rancho->id?>'" style="cursor: pointer;">
       <td><?php echo $rancho->fechaderegistro?></td>
+      <td><?php echo $rancho->marca?></td>
       <td><?php echo $rancho->nombrerancho?></td>
       <td><?php echo $rancho->direccion?></td>
       <td><?php echo $rancho->municipio?></td>
@@ -38,6 +40,7 @@
   <tfoot>
   <tr>
     <th>Fecha de registro</th>
+    <th>Marca Comercial</th>
     <th>Nombre</th>
     <th>Dirección</th>
     <th>Municipio</th>

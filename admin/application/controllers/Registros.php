@@ -125,7 +125,7 @@ class Registros extends CI_Controller {
 				'exp6' => $this->input->post('exp6'),
 				'exp7' => $this->input->post('exp7'),
 				'exp8' => $this->input->post('exp8'),
-                'exp8.5' => $this->input->post('exp8.5'),
+                'exp8_5' => $this->input->post('exp8_5'),
 				'exp9' => $this->input->post('exp9'),
 				'exp10' => $this->input->post('exp10'),
 				'exp11' => $this->input->post('exp11'),
@@ -167,7 +167,7 @@ class Registros extends CI_Controller {
 				 if(!$bandera){
 					$this->queries_model->guardar("productos", $nuevoproducto);
 					$registros['exp12']=implode(",",$this->input->post('exp12')) . "," . ucfirst($this->input->post('nuevoproducto'));
-				
+
 				}
                                                   }
 			if(!$data['existe']){
@@ -237,7 +237,8 @@ class Registros extends CI_Controller {
 				$registros = array(
 				'fechaderegistro' => $this->input->post('fechaderegistro'),
 				'semestre' => '',
-				'nombrerancho' => $this->input->post('nombrerancho'),
+				'marca' => $this->input->post('nombrerancho'),
+				'nombrerancho' => $this->input->post('marca'),
 				'direccion' => $this->input->post('direccion'),
 				'municipio' => $this->input->post('municipio'),
 				'estado' => $this->input->post('estado'),

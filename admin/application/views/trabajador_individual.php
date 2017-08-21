@@ -157,7 +157,7 @@
               <td>¿Has trabajado en México?</td>
               <td><?php echo $trabajador->exp3?></td>
           </tr>
-          
+
           <tr>
               <td>¿En qué estado?</td>
               <td><?php echo $trabajador->exp5?></td>
@@ -176,7 +176,7 @@
           </tr>
             <tr>
               <td>¿Ha permanecido más de 1 año en EU, sin documentos?</td>
-              <td><?php echo $trabajador->exp8.5?></td>
+              <td><?php echo $trabajador->exp8_5?></td>
           </tr>
           <tr>
               <td>¿Tiene experiencia en el campo?</td>

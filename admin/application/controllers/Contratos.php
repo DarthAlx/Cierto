@@ -261,6 +261,7 @@ if($this->input->post('contrato')&&$this->input->post('vacante')&&$this->input->
 				'rancho' => $this->input->post('rancho'),
 				'sedes' => $this->input->post('sedes'),
 				'tipocontrato' => $this->input->post('tipocontrato'),
+				'asignacioncontrato' => $this->input->post('asignacioncontrato'),
 				'temporada' => $this->input->post('temporada'),
 				'fechadeemision' => $this->input->post('fechadeemision'),
 				'fechadetermino' => $this->input->post('fechadetermino'),

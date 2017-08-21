@@ -32,6 +32,10 @@
             <td><?php echo $rancho->semestre?></td>
         </tr>
         <tr>
+            <td>Marca comercial</td>
+            <td><?php echo $rancho->marca?></td>
+        </tr>
+        <tr>
             <td>Nombre</td>
             <td><?php echo $rancho->nombrerancho?></td>
         </tr>

@@ -17,6 +17,7 @@
       <th>Rancho</th>
       <th>Sedes</th>
       <th>Tipo de contrato</th>
+            <th>Asignación de contrato</th>
 
   </tr>
   </thead>
@@ -37,6 +38,7 @@
       </td>
       <td><?php echo $contrato->sedes?></td>
       <td><?php echo $contrato->tipocontrato?></td>
+            <td><?php echo $contrato->asignacioncontrato?></td>
 
   </tr>
   <?php endforeach; ?>
@@ -50,6 +52,7 @@
     <th>Rancho</th>
     <th>Sedes</th>
     <th>Tipo de contrato</th>
+        <th>Asignación de contrato</th>
 
   </tr>
   </tfoot>

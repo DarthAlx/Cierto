@@ -90,6 +90,16 @@ if($visible){
                                 <input class="form-control" id="nuevotipocontrato" name="nuevotipocontrato" placeholder="Si no está registrada, escribe aquí su nombre." type="text"/>
                             </div>
                         </div>
+                        <div class="form-group">
+                          <label for="asignacioncontrato" class="control-label col-lg-2">Asignación de contrato *</label>
+                          <div class="col-lg-10">
+                            <select class="form-control" id="asignacioncontrato" name="asignacioncontrato" required>
+                              <option value="">Seleccionar Tipo</option>
+                              <option value="Contrato H2A">Contrato H2A</option>
+                              <option value="Contrato interno">Contrato interno</option>
+                            </select>
+                          </div>
+                        </div>
                         <div class="form-group row">
 
                           <label for="temporada" class="control-label col-lg-2">Temporada *</label>

@@ -371,14 +371,14 @@
                                   </select>
                                 </div>
                             </div>
-                          
-                            
+
+
                             <div class="form-group ">
                                 <label for="exp5" class="control-label col-lg-4">¿En qué estado? </label>
                                 <div class="col-lg-8">
                                   <select class="selectorestado form-control" name="exp5" id="exp5">
                                     <option value="">Elige un estado</option>
-                                    
+
                                       <option value="Aguascalientes">Aguascalientes</option>
                                       <option value="Baja California">Baja California</option>
                                       <option value="Baja California Sur">Baja California Sur</option>
@@ -410,8 +410,8 @@
                                       <option value="Veracruz de Ignacio de la Llave">Veracruz de Ignacio de la Llave</option>
                                       <option value="Yucatán">Yucatán</option>
                                       <option value="Zacatecas">Zacatecas</option>
-                                    
-                                    
+
+
                                   </select>
                                 </div>
                             </div>
@@ -448,14 +448,14 @@
                           <div class="form-group ">
                                 <label for="exp8.5" class="control-label col-lg-4">¿Ha permanecido más de 1 año en EU, sin documentos? *</label>
                                 <div class="col-lg-8">
-                                  <select class="form-control" name="exp8.5" id="exp8.5" required>
+                                  <select class="form-control" name="exp8_5" id="exp8_5" required>
                                     <option value="">Elige una opción</option>
                                     <option value="Si">Si</option>
                                     <option value="No">No</option>
                                   </select>
                                 </div>
                             </div>
-                            
+
                             <div class="form-group ">
                                 <label for="exp10" class="control-label col-lg-4">¿Tiene experiencia  en el campo? *</label>
                                 <div class="col-lg-8">
@@ -485,9 +485,9 @@
                                         <?php foreach($productos as $producto): ?>
                                             <label><input type='checkbox' class="recurrentes" name="exp12[]"  value="<?php echo $producto->producto ?>"><?php echo $producto->producto ?></label><br>
                                         <?php endforeach; ?>
-                                              
+
                                            </div>
-                                    
+
                                 </div>
                             </div>
                           <div class="form-group">
