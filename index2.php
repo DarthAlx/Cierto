@@ -73,6 +73,7 @@
                   <span class="linea"></span>
                   <h3>CIERTO</h3>
                   <h4>Centro de Investigación, Entrenamiento y Reclutamiento del Trabajador Organizado</h4>
+                  <p>&nbsp;</p>
                   <p>CIERTO es un Contratista de Trabajo Agrícola certificado que recluta, entrena y coloca a trabajadores agrícolas experimentados de México en granjas de los Estados Unidos. Nuestra misión es crear una fuerza de trabajo agrícola profesional cualificada y certificada que aporte valor agregado a la cadena de suministro de alimentos.</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
@@ -89,12 +90,15 @@
               <div class="row">
                 <div class="col-md-12">
 
-                  <h3 class=" wow bounceInRight">NUESTRO SERVICIO</h3>
-                  <p class=" wow bounceInRight">Nuestro proceso probado de seis pasos está diseñado para satisfacer las necesidades y representar los mejores intereses tanto de los productores como de los trabajadores agrícolas.</p>
+                  <h3 class=" wow bounceInRight" style="margin-top:0px;">OUR SERVICE</h3>
+                  <p>&nbsp;</p>
+                  <p class=" wow bounceInRight">Our proven six-step process is designed to meet the needs and represent the best <br> interests of both growers and farmworkers.</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
                   <p>&nbsp;</p>
                   <div class="container-fluid">
                     <div class="row  wow bounceInDown">
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -110,7 +114,7 @@
                         </div>
                       </div>
 
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -121,11 +125,11 @@
                             02
                           </div>
                           <div class="texto col-xs-8">
-                            Reclutamiento de mano de obra de confianza
+                            Trusted Labor <br>Recruitment
                           </div>
                         </div>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -143,7 +147,7 @@
                     </div>
 
                     <div class="row wow bounceInUp">
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -158,7 +162,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -173,7 +177,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
@@ -230,6 +234,7 @@
               <div class="row">
                 <div class="col-md-12 text-center" style="padding:0px;">
                   <h3 class="text-center wow bounceInDown">El IMPACTO DE CIERTO <br> EN LA CADENA PRODUCTIVA</h3>
+                  <p>&nbsp;</p><p>&nbsp;</p>
                   <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  wow bounceInUp" data-alias="cierto" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                   <!-- START REVOLUTION SLIDER 5.2.4 auto mode -->
                   	<div id="rev_slider_7_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.4">
@@ -446,20 +451,20 @@
 
                         <div class="item active">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS</h2>
+                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS</h2>
-
+                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
+                            <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS</h2>
-
+                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
+                            <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
 
@@ -501,20 +506,26 @@
         <div class="modal-content">
           <div class="modal-body">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
-            <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-            <h3>01. TRABAJADOR</h3>
-            <h4>¿Por qué es importante ser un trabajador calificado?</h4>
-            <p>&nbsp;</p>
-              <ul>
-                <li>Ser un trabajador calificado es ser un elemento profesional dentro de la producción agrícola.</li>
-                <li>Mejora tus capacidades como trabajador agrícola y  favorece tus oportunidades de empleo.</li>
-                <li>Mejora tus ingresos y un trabajo constante y seguro.</li>
-                <li>Te permite acceder a beneficios de seguridad y salud laboral. Profesionaliza tu trabajo.</li>
-                <li>Ofreces productos de excelencia en calidad.</li>
-                <li>Permite desarrollar tus habilidades financieras.</li>
-                <li>Mejora tu sensación de bienestar.</li>
-              </ul>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+                  <h3>01. TRABAJADOR</h3>
+                  <h4>¿Por qué es importante ser un trabajador calificado?</h4>
+                  <p>&nbsp;</p>
+                    <ul>
+                      <li>Ser un trabajador calificado es ser un elemento profesional dentro de la producción agrícola.</li>
+                      <li>Mejora tus capacidades como trabajador agrícola y  favorece tus oportunidades de empleo.</li>
+                      <li>Mejora tus ingresos y un trabajo constante y seguro.</li>
+                      <li>Te permite acceder a beneficios de seguridad y salud laboral. Profesionaliza tu trabajo.</li>
+                      <li>Ofreces productos de excelencia en calidad.</li>
+                      <li>Permite desarrollar tus habilidades financieras.</li>
+                      <li>Mejora tu sensación de bienestar.</li>
+                    </ul>
+                </div>
 
+            </div>
+          </div>
           </div>
         </div>
       </div>
@@ -526,39 +537,46 @@
         <div class="modal-content">
           <div class="modal-body">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
-            <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-            <div class="col-md-6">
-              <h3>02. AGROINDUSTRIA</h3>
-              <p>&nbsp;</p>
-              <h4>La importancia de contar con trabajadores calificados</h4>
-              <p>&nbsp;</p>
-                <ul>
-                  <li>Mejora la calidad de la producción agroindustrial. </li>
-                  <li>Aumenta su valor agregado mediante la producción de alimentos con responsabilidad social, asegurando la excelencia en la calidad de sus productos.</li>
-                  <li>Favorece la comercialización de productos agrícolas a través de calidad y responsabilidad social.</li>
-                </ul>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6">
+                  <p>&nbsp;</p><p>&nbsp;</p>
+                  <h3 style="margin-top:0px;">02. AGROINDUSTRIA</h3>
+                  <p>&nbsp;</p>
+                  <h4>La importancia de contar con trabajadores calificados</h4>
+                  <p>&nbsp;</p>
+                    <ul>
+                      <li>Mejora la calidad de la producción agroindustrial. </li>
+                      <li>Aumenta su valor agregado mediante la producción de alimentos con responsabilidad social, asegurando la excelencia en la calidad de sus productos.</li>
+                      <li>Favorece la comercialización de productos agrícolas a través de calidad y responsabilidad social.</li>
+                    </ul>
+    <p>&nbsp;</p>
+                    <h4>Empresas Socialmente Responsables</h4>
+                    <p>&nbsp;</p>
+                      <ul>
+                        <li>El dinero en la producción agrícola no se encuentra tanto en el campo sino en la comercialización de los productos, por ello el consumidor tiene un papel crucial en el rumbo de las relaciones laborales y las buenas prácticas de producción de alimentos agrícolas. </li>
+                        <li>86 % de los consumidores globales consideran que las empresas deben equilibrar el interés de sus negocios con los intereses de la sociedad, esto refleja la inclinación de los consumidores a la exigencia de productos o servicios socialmente más responsables.</li>
+                        <li>Las buenas prácticas en producción y relaciones laborales serán una condición que se valorará,  que se pagará en un intercambio justo, que se preferirá y que hará ganar a toda la cadena productiva:  trabajador agrícola,reclutador, agroindustria, vendedor  y consumidor.</li>
+                      </ul>
+                      <p>&nbsp;</p>
+                      <p>&nbsp;</p>
+                </div>
+                <div class="col-md-6">
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <h4>Beneficios del modelo de Reclutamiento CIERTO </h4>
+                  <p>&nbsp;</p>
+                  <p>Capital Humano:
+    Trabajadores comprometidos y capacitados en procesos de calidad.
+    Gestión de Riesgos y Licencias para operar:
+    contar con mecanismos de responsabilidad social y prevención de malas condiciones de reclutamiento y laborales.
+    Posicionamiento de marca y apertura de mercados:
+    contar con un mecanismo de responsabilidad social permite abrir oportunidades de mercado a nuevos consumidores y ser  tendencia en los consumidores.
+    </p>
+                </div>
+              </div>
+            </div>
 
-                <h4>Empresas Socialmente Responsables</h4>
-                <p>&nbsp;</p>
-                  <ul>
-                    <li>El dinero en la producción agrícola no se encuentra tanto en el campo sino en la comercialización de los productos, por ello el consumidor tiene un papel crucial en el rumbo de las relaciones laborales y las buenas prácticas de producción de alimentos agrícolas. </li>
-                    <li>86 % de los consumidores globales consideran que las empresas deben equilibrar el interés de sus negocios con los intereses de la sociedad, esto refleja la inclinación de los consumidores a la exigencia de productos o servicios socialmente más responsables.</li>
-                    <li>Las buenas prácticas en producción y relaciones laborales serán una condición que se valorará,  que se pagará en un intercambio justo, que se preferirá y que hará ganar a toda la cadena productiva:  trabajador agrícola,reclutador, agroindustria, vendedor  y consumidor.</li>
-                  </ul>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-            </div>
-            <div class="col-md-6">
-              <h4>Beneficios del modelo de Reclutamiento CIERTO </h4>
-              <p>&nbsp;</p>
-              <p>Capital Humano:
-Trabajadores comprometidos y capacitados en procesos de calidad.
-Gestión de Riesgos y Licencias para operar:
-contar con mecanismos de responsabilidad social y prevención de malas condiciones de reclutamiento y laborales.
-Posicionamiento de marca y apertura de mercados:
-contar con un mecanismo de responsabilidad social permite abrir oportunidades de mercado a nuevos consumidores y ser  tendencia en los consumidores.
-</p>
-            </div>
 
 
 
@@ -574,6 +592,9 @@ contar con un mecanismo de responsabilidad social permite abrir oportunidades de
         <div class="modal-content">
           <div class="modal-body">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
             <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
             <h3>03. VENDEDOR</h3>
             <h4>Ventajas de comercializar productos libres de explotación laboral</h4>
@@ -584,6 +605,10 @@ contar con un mecanismo de responsabilidad social permite abrir oportunidades de
                 <li>Aumenta ganancias y añade una propuesta de valor agregado al cliente.</li>
                 <li>Se fomenta el consumo con valor humano.</li>
               </ul>
+            </div>
+
+        </div>
+      </div>
           </div>
         </div>
       </div>
@@ -595,6 +620,9 @@ contar con un mecanismo de responsabilidad social permite abrir oportunidades de
         <div class="modal-content">
           <div class="modal-body">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
             <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
             <h3>04. CONSUMIDOR</h3>
             <h4>Por qué es importante consumir productos libres de explotación laboral </h4>
@@ -606,6 +634,10 @@ contar con un mecanismo de responsabilidad social permite abrir oportunidades de
                 <li>Obtener el mejor producto no solo en calidad y precio, sino tambien por su impacto ambiental y social.</li>
                 <li>Busquemos juntos avanzar y generar un cambio en la forma de consumir a nivel mundial.</li>
               </ul>
+            </div>
+
+        </div>
+      </div>
           </div>
         </div>
       </div>

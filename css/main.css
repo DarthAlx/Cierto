@@ -16,24 +16,25 @@ h3{
   font-family: 'Amaranth', sans-serif;
   font-weight: bold;
   color: #006600;
-  font-size: 40px;
+  font-size: 36px;
 }
 h4{
   font-family: 'Merriweather', serif;
   font-weight: bold;
   color: #333333;
-  font-size: 30px;
+  font-size: 26px;
+  line-height: 1.3;
 }
 p{
   font-family: 'Lato', sans-serif;
   color: #333333;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 ul li{
   font-family: 'Lato', sans-serif;
   color: #333333;
-  font-size: 20px;
+  font-size: 18px;
 }
 .modal-dialog {
     width: 93vw;
@@ -50,7 +51,7 @@ ul li{
   color: #333333;
 }
 .modal h4{
-  font-size: 20px;
+  font-size: 18px;
 }
 .modal i{
   color: #ff6600;
@@ -148,33 +149,32 @@ ul li{
   background: #f4f4f4;
   width: 100%;
   /*height: 100vh;*/
-  padding-top: 50px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-top: 12vh;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 12vh;
 }
 .maqueta .fondo{
   background: #f4f4f4;
   width: 100%;
   /*height: 100vh;*/
-  padding-top: 50px;
+      padding-top: 12vh;
   padding-left: 30px;
   padding-right: 30px;
+      padding-bottom: 12vh;
 }
 .servicio {
   border-top: 10px solid #ff6600;
-  min-height: 300px;
 }
 .servicio .numero{
   font-family: 'Amaranth', sans-serif;
   font-weight: bold;
-  font-size: 100px;
   color: #666666;
   float: left;
 }
 .servicio .texto{
   font-family: 'Merriweather', serif;
   font-weight: bold;
-  font-size: 30px;
   color: #333333;
   float: right;
   margin-top: 25px;
@@ -208,6 +208,9 @@ ul li{
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
 }
 .text p{
 
@@ -272,11 +275,14 @@ ul li{
   p{
     font-size: 16px;
   }
-  .servicio .numero{
-    font-size: 70px;
-  }
   .servicio .texto{
-    font-size: 28px;
+    font-size: 20px;
+  }
+  .servicio .numero{
+    font-size: 75px;
+  }
+  .servicio {
+    min-height: 165px;
   }
   .frases .carousel .item .col-md-6 h2{
     font-size: 30px;
@@ -284,17 +290,41 @@ ul li{
 }
 
 @media (min-width: 767px) {
-
+  .servicio .texto{
+    font-size: 20px;
+  }
+  .servicio .numero{
+    font-size: 75px;
+  }
+  .servicio {
+    min-height: 165px;
+  }
 }
+
 
 @media (min-width: 992px) {
-
+  .servicio .texto{
+    font-size: 20px;
+  }
+  .servicio .numero{
+    font-size: 75px;
+  }
+  .servicio {
+    min-height: 165px;
+  }
 }
 
 
-
-@media (min-width: 1200px) {
-
+@media (min-width: 1150px) {
+  .servicio .texto{
+    font-size: 30px;
+  }
+  .servicio .numero{
+    font-size: 100px;
+  }
+  .servicio {
+    min-height: 230px;
+  }
 }
 
 
