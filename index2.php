@@ -72,10 +72,10 @@
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>CIERTO</h3>
-                  <h4>Centro de Investigación, Entrenamiento y Reclutamiento del Trabajador Organizado</h4>
+                  <h4>Workers’ Center for Research, <br>Recruitment and Training</h4>
                   <p>&nbsp;</p>
-                  <p>CIERTO es un Contratista de Trabajo Agrícola certificado que recluta, entrena y coloca a trabajadores agrícolas experimentados de México en granjas de los Estados Unidos. Nuestra misión es crear una fuerza de trabajo agrícola profesional cualificada y certificada que aporte valor agregado a la cadena de suministro de alimentos.</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -102,14 +102,14 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>Priorizamos las relaciones sobre las transacciones.</p>
+                              <p>We prioritize relationships over transactions.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
                             01
                           </div>
                           <div class="texto col-xs-8">
-                            Consulta inicial <br> y selección
+                            Initial Consultation <br>and Screening
                           </div>
                         </div>
                       </div>
@@ -118,7 +118,7 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>La transparencia y la integridad en el proceso de contratación son fundamentales para nuestro trabajo.</p>
+                              <p>Transparency and integrity in the recruitment process are core to our work.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
@@ -133,14 +133,14 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>Todo está en los detalles.</p>
+                              <p>It’s all in the details.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
                             03
                           </div>
                           <div class="texto col-xs-8">
-                            Petición de visa H-2A
+                            H-2A Visa <br>Petition
                           </div>
                         </div>
                       </div>
@@ -151,14 +151,14 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>Profesionalizamos el trabajo agrícola.</p>
+                              <p>We professionalize farmwork.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
                             04
                           </div>
                           <div class="texto col-xs-8">
-                            Apoyo y evaluación
+                            Training
                           </div>
                         </div>
                       </div>
@@ -166,14 +166,14 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>Entregamos.</p>
+                              <p>We deliver.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
                             05
                           </div>
                           <div class="texto col-xs-8">
-                            Viajes y orientación
+                            Travel and <br>Orientation
                           </div>
                         </div>
                       </div>
@@ -181,21 +181,21 @@
                         <div class="servicio">
                           <div class="overlay">
                             <div class="text col-xs-12">
-                              <p>Estamos contigo hasta el final.</p>
+                              <p>We are with you till the end.</p>
                             </div>
                           </div>
                           <div class="numero col-xs-4">
                             06
                           </div>
                           <div class="texto col-xs-8">
-                            Entrenamiento
+                            Support and <br>Evaluation
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                 </div>
@@ -212,10 +212,10 @@
               <div class="row">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
-                  <h3>LO QUE NOS HACE DIFERENTES</h3>
+                  <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
-                  <p>Nuestros procesos de contratación, reclutamiento, capacitación y administración son confiables y transparentes, eliminamos prácticas fraudulentas y protegemos los intereses de productores y trabajadores, nuestros procesos de contratación están supervisados para garantizar integridad.</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <p>CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships. </p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -233,7 +233,7 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12 text-center" style="padding:0px;">
-                  <h3 class="text-center wow bounceInDown">El IMPACTO DE CIERTO <br> EN LA CADENA PRODUCTIVA</h3>
+                  <h3 class="text-center wow bounceInDown">Cierto's impact on the Agricultural <br>Production Chain</h3>
                   <p>&nbsp;</p><p>&nbsp;</p>
                   <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  wow bounceInUp" data-alias="cierto" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                   <!-- START REVOLUTION SLIDER 5.2.4 auto mode -->
@@ -286,7 +286,7 @@
                               A
                             </div>
                             <div class="texto col-xs-8">
-                              Trabajador
+                              Farm worker
                             </div>
                           </div>
 
@@ -317,7 +317,7 @@
                             B
                           </div>
                           <div class="texto col-xs-8">
-                            Agroindustria
+                            Agroindustry
                           </div>
                         </div>
                       </div>
@@ -346,7 +346,7 @@
                             C
                           </div>
                           <div class="texto col-xs-8">
-                            Vendedor
+                            &nbsp; Vendor
                           </div>
                         </div>
 
@@ -375,7 +375,7 @@
                             D
                           </div>
                           <div class="texto col-xs-8">
-                            Consumidor
+                            &nbsp; Consumer
                           </div>
                         </div>
                       </div>
@@ -434,6 +434,25 @@
       </section>
 
 
+      <section class="seccion entrenamiento">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row">
+                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
+                  <span class="linea"></span>
+                  <h3>TRAINING</h3>
+                  <p>&nbsp;</p>
+                  <p>CIERTO, implements a methodology that aims to professionalize the field staff with the acknowledge to their value and each one’s dignity with improvements on the productive chain. </p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
       <section class="seccion frases">
         <div class="container-fluid">
           <div class="row">
@@ -484,12 +503,56 @@
               <div class="row">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
-                  <h3>CONTÁCTANOS</h3>
+                  <h3>CONTACT US</h3>
                   <p>&nbsp;</p>
-                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondrémos en contacto contigo.</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <p>For questions, please send us a message and we will get back <br>to you promptly.</p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="seccion footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-2">
+              <h3>Menu</h3>
+              <br>
+              <p>
+                <a href="#">CIERTO</a><br>
+                <a href="#">About</a><br>
+                <a href="#">Service</a><br>
+                <a href="#">Team</a><br>
+                <a href="#">Training</a><br>
+                <a href="#">Contact us</a><br>
+                <a href="#">Access</a><br>
+                <a href="#">Lenguages</a>
+              </p>
+            </div>
+            <div class="col-sm-2">
+              <h3>Divisions</h3>
+              <br>
+              <p>
+                <a href="#">What makes us different</a><br>
+                <a href="#">Your partners in successfully </a><br>
+                <a href="#">Recruiting a quality workforce</a><br>
+                <a href="#">What search CIERTO?</a><br>
+                <a href="#">Know the program H2A</a><br>
+                <a href="#">Our Training</a><br>
+              </p>
+            </div>
+            <div class="col-sm-offset-6 col-sm-2">
+              <h3>Data</h3>
+              <br>
+              <p>
+                <a href="#">info@ciertoglobal.org</a><br>
+                <a href="#">P.O. Box 8337.  </a><br>
+                <a href="#">Tacoma, WA 98419</a><br>
+                <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+              </p>
             </div>
           </div>
         </div>
@@ -510,20 +573,19 @@
               <div class="row">
                 <div class="col-sm-12">
                   <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-                  <h3>01. TRABAJADOR</h3>
-                  <h4>¿Por qué es importante ser un trabajador calificado?</h4>
+                  <h3>01. WORKER</h3>
+                  <h4>Why is it important to be a qualified worker?</h4>
                   <p>&nbsp;</p>
                     <ul>
-                      <li>Ser un trabajador calificado es ser un elemento profesional dentro de la producción agrícola.</li>
-                      <li>Mejora tus capacidades como trabajador agrícola y  favorece tus oportunidades de empleo.</li>
-                      <li>Mejora tus ingresos y un trabajo constante y seguro.</li>
-                      <li>Te permite acceder a beneficios de seguridad y salud laboral. Profesionaliza tu trabajo.</li>
-                      <li>Ofreces productos de excelencia en calidad.</li>
-                      <li>Permite desarrollar tus habilidades financieras.</li>
-                      <li>Mejora tu sensación de bienestar.</li>
+                      <li>To be a qualified worker is to be a professional component in the agricultural production chain.</li>
+                      <li>Improves your abilities as a farmworker and promote your employment opportunities.</li>
+                      <li>Improves your income as well as a secure and continuous employment</li>
+                      <li>It allows you to access safety and health occupational benefits professionalizing your work.</li>
+                      <li>Offer products of excellent quality.</li>
+                      <li>It allows you to develop your financial skills.</li>
+                      <li>It improves your sense of wellbeing.</li>
                     </ul>
                 </div>
-
             </div>
           </div>
           </div>
@@ -539,39 +601,41 @@
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
             <div class="container">
               <div class="row">
-                <div class="col-md-6">
+                <div class="col-sm-6">
                   <p>&nbsp;</p><p>&nbsp;</p>
-                  <h3 style="margin-top:0px;">02. AGROINDUSTRIA</h3>
+                  <h3 style="margin-top:0px;">02. AGROINDUSTRY</h3>
                   <p>&nbsp;</p>
-                  <h4>La importancia de contar con trabajadores calificados</h4>
+                  <h4>Why is it important to have qualified workers?</h4>
                   <p>&nbsp;</p>
                     <ul>
-                      <li>Mejora la calidad de la producción agroindustrial. </li>
-                      <li>Aumenta su valor agregado mediante la producción de alimentos con responsabilidad social, asegurando la excelencia en la calidad de sus productos.</li>
-                      <li>Favorece la comercialización de productos agrícolas a través de calidad y responsabilidad social.</li>
+                      <li>It improves the quality of the agro industrial production.</li>
+                      <li>Increases its value added by food production with social responsibility, guaranteeing excellence in the quality of your products.</li>
+                      <li>It promotes marketing of agricultural products through quality and social responsibility.</li>
                     </ul>
+
     <p>&nbsp;</p>
-                    <h4>Empresas Socialmente Responsables</h4>
+                    <h4>The importance of being socially responsible</h4>
                     <p>&nbsp;</p>
                       <ul>
-                        <li>El dinero en la producción agrícola no se encuentra tanto en el campo sino en la comercialización de los productos, por ello el consumidor tiene un papel crucial en el rumbo de las relaciones laborales y las buenas prácticas de producción de alimentos agrícolas. </li>
-                        <li>86 % de los consumidores globales consideran que las empresas deben equilibrar el interés de sus negocios con los intereses de la sociedad, esto refleja la inclinación de los consumidores a la exigencia de productos o servicios socialmente más responsables.</li>
-                        <li>Las buenas prácticas en producción y relaciones laborales serán una condición que se valorará,  que se pagará en un intercambio justo, que se preferirá y que hará ganar a toda la cadena productiva:  trabajador agrícola,reclutador, agroindustria, vendedor  y consumidor.</li>
+                        <li>Earnings in the agricultural production are not mostly in the fields but in the marketing of products, that is why the consumer has a crucial role in regards to labor relations and good production practices of agricultural supplies.</li>
+                        <li>The moral production practices and labor relationships will be a condition that will be greatly valued, to be paid in a fair exchange that will be favored and will prevail that entire production chain: Farmworker, recruiter, agroindustry, vendor and consumer.</li>
+
                       </ul>
                       <p>&nbsp;</p>
                       <p>&nbsp;</p>
                 </div>
-                <div class="col-md-6">
+                <div class="col-sm-6">
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
-                  <h4>Beneficios del modelo de Reclutamiento CIERTO </h4>
+                  <h4>What are the benefits to agroindustry of
+cierto’s recruitment model? </h4>
                   <p>&nbsp;</p>
-                  <p>Capital Humano:
-    Trabajadores comprometidos y capacitados en procesos de calidad.
-    Gestión de Riesgos y Licencias para operar:
-    contar con mecanismos de responsabilidad social y prevención de malas condiciones de reclutamiento y laborales.
-    Posicionamiento de marca y apertura de mercados:
-    contar con un mecanismo de responsabilidad social permite abrir oportunidades de mercado a nuevos consumidores y ser  tendencia en los consumidores.
+                  <p><strong>Human Capital: </strong><br>
+Committed and skilled workers in quality processes.<br>
+<strong>Risk management and operating licenses: </strong><br>
+Ensure social mechanism responsibility and prevention of poor recruitment conditions and employment.<br>
+<strong>Brand positioning and market introduction: </strong><br>
+Ensure a mechanism with social responsibility allows the unlocking of market opportunities to new consumers and be a trend in the consumers.<br>
     </p>
                 </div>
               </div>
@@ -595,20 +659,19 @@
             <div class="container">
               <div class="row">
                 <div class="col-sm-12">
-            <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-            <h3>03. VENDEDOR</h3>
-            <h4>Ventajas de comercializar productos libres de explotación laboral</h4>
-            <p>&nbsp;</p>
-              <ul>
-                <li>Mejora radicalmente la imagen de su marca.</li>
-                <li>Abarca nuevos mercados y llega a un mayor número de clientes.</li>
-                <li>Aumenta ganancias y añade una propuesta de valor agregado al cliente.</li>
-                <li>Se fomenta el consumo con valor humano.</li>
-              </ul>
+                  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+                  <h3>03. SMALL/GREAT VENDOR</h3>
+                  <h4>Advantages of marketing products free of labor exploitation</h4>
+                  <p>&nbsp;</p>
+                    <ul>
+                      <li>Radically improves the brands image.</li>
+                      <li>It covers new markets and reaches a greater number of customers.</li>
+                      <li>Significantly increases profits and adds a proposal with added value to the customer.</li>
+                      <li>Consumption with human value is encouraged.</li>
+                    </ul>
+                  </div>
+              </div>
             </div>
-
-        </div>
-      </div>
           </div>
         </div>
       </div>
@@ -624,15 +687,15 @@
               <div class="row">
                 <div class="col-sm-12">
             <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-            <h3>04. CONSUMIDOR</h3>
-            <h4>Por qué es importante consumir productos libres de explotación laboral </h4>
+            <h3>04. CONSUMER</h3>
+            <h4>Why is it important to consume products that are free of labor exploitation? </h4>
             <p>&nbsp;</p>
               <ul>
-                <li>Adquieres productos de excelente calidad, recolectados por trabajadores calificados y satisfechos con su trabajo.</li>
-                <li>Contribuyes a mejorar las condiciones económicas en las comunidades de origen de trabajadores agrícolas a través de un consumo responsable.</li>
-                <li>Un consumo responsable y libre de explotación laboral es al mismo tiempo ayudar.</li>
-                <li>Obtener el mejor producto no solo en calidad y precio, sino tambien por su impacto ambiental y social.</li>
-                <li>Busquemos juntos avanzar y generar un cambio en la forma de consumir a nivel mundial.</li>
+                <li>You purchase excellent quality products, collected by qualified workers and content with their work.</li>
+                <li>Through responsible consumption, you contribute in the improvement of the economic conditions in the communities of origin of the agricultural workers.</li>
+                <li>Responsible consumption and free of labor exploitation is one way of helping.</li>
+                <li>Obtain the best product not only in quality and price, but also for its environmental and social impact.</li>
+                <li>Together let us seek to advance and generate a change in the way people consume worldwide.</li>
               </ul>
             </div>
 
