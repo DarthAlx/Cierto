@@ -24,7 +24,7 @@ h4{
   font-weight: bold;
   color: #333333;
   font-size: 26px;
-  line-height: 1.3;
+  line-height: 1.5;
 }
 p{
   font-family: 'Lato', sans-serif;
@@ -62,7 +62,7 @@ ul li{
   background: #ff6600;
   position: absolute;
   height: 10px;
-  width: 80px;
+  width: 60px;
   top: -10px;
   left: 0px;
 }
@@ -73,9 +73,10 @@ ul li{
   background: #ff6600;
   color: #fff;
   border-color: #ff6600;
+  font-weight: lighter;
 }
 .menu{
-  background: #3a6639;
+  background: #006600;
   color: #fff;
   text-align: center;
   padding-top: 20px;
@@ -118,7 +119,7 @@ ul li{
   bottom: 0;
   position: absolute;
   background: #fff;
-  padding: 80px 50px 80px 50px;
+  padding: 80px 60px 80px 60px;
 }
 
 .diferentes .fondo{
@@ -170,14 +171,15 @@ padding-bottom: 12vh;
 }
 .footer h3{
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-size: 22px;
+  font-weight: bold;
 }
 .footer p a{
   color: #7e7e7e;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 2;
 }
 .footer p a i{
@@ -186,14 +188,18 @@ padding-bottom: 12vh;
   line-height: 2;
   padding-right: 20px;
 }
-.servicio {
-  border-top: 10px solid #ff6600;
+.servicios .servicio {
+  border-top: 7px solid #ff6600;
 }
 .servicio .numero{
   font-family: 'Amaranth', sans-serif;
   font-weight: bold;
   color: #666666;
   float: left;
+}
+.maqueta .servicio .numero, .maqueta .servicio .texto{
+
+  color: #333333;
 }
 .servicio .texto{
   font-family: 'Merriweather', serif;
@@ -203,18 +209,19 @@ padding-bottom: 12vh;
   margin-top: 25px;
 }
 
-.overlay {
+.servicio .overlay {
   position: absolute;
   bottom: 100%;
   left: 0;
   right: 0;
   background-color: #ff6600;
   overflow: hidden;
-  width: 100%;
-  height:0;
+  width: calc(100% - 30px);
+  height: 0;
   transition: .5s ease;
   z-index: 9999;
   color: #fff;
+  margin-left: 15px;
 }
 
 .servicio:hover .overlay {
@@ -268,6 +275,15 @@ padding-bottom: 12vh;
   font-size: 20px;
   font-weight: 600 !important;
 }
+.maqueta .servicio .linea {
+
+  -webkit-transition: width 1s !important; /* Safari */
+    transition: width 1s !important;
+    width: 65px !important;
+}
+.maqueta .servicio:hover .linea {
+  width: 100% !important;
+}
 
 
 .servicio.maqueta1{
@@ -312,6 +328,9 @@ padding-bottom: 12vh;
   .frases .carousel .item .col-md-6 h2{
     font-size: 30px;
   }
+  .footer {
+    padding: 1vh !important;
+}
 }
 
 @media (min-width: 767px) {

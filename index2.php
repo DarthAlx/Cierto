@@ -75,6 +75,7 @@
                   <h4>Workers’ Center for Research, <br>Recruitment and Training</h4>
                   <p>&nbsp;</p>
                   <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
+                  <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
@@ -215,6 +216,7 @@
                   <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
                   <p>CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships. </p>
+                  <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
@@ -233,7 +235,7 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12 text-center" style="padding:0px;">
-                  <h3 class="text-center wow bounceInDown">Cierto's impact on the Agricultural <br>Production Chain</h3>
+                  <h3 class="text-center wow bounceInDown">CIERTO'S IMPACT ON THE AGRICULTURAL<br>PRODUCTION CHAIN</h3>
                   <p>&nbsp;</p><p>&nbsp;</p>
                   <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  wow bounceInUp" data-alias="cierto" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                   <!-- START REVOLUTION SLIDER 5.2.4 auto mode -->
@@ -280,8 +282,9 @@
 
                   			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
 
-                        <div class="servicio maqueta1"  data-toggle="modal" data-target="#trabajador">
-                          <div class="row">
+                        <div class="servicio maqueta1"  data-toggle="modal" data-target="#trabajador" style="width:18vw;">
+                          <span class="linea"></span>
+                          <div class="row" style="margin-left: -1vw;">
                             <div class="numero col-xs-4">
                               A
                             </div>
@@ -312,12 +315,15 @@
 
 
                   			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-                        <div class="servicio maqueta2"  data-toggle="modal" data-target="#agroindustria">
+                        <div class="servicio maqueta2"  data-toggle="modal" data-target="#agroindustria" style="width:18vw;">
+                          <span class="linea"></span>
+                          <div class="row" style="margin-left: -1vw;">
                           <div class="numero col-xs-4">
                             B
                           </div>
                           <div class="texto col-xs-8">
                             Agroindustry
+                          </div>
                           </div>
                         </div>
                       </div>
@@ -341,12 +347,15 @@
 
                   			style="z-index: 8; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
 
-                        <div class="servicio maqueta3" data-toggle="modal" data-target="#vendedor">
+                        <div class="servicio maqueta3" data-toggle="modal" data-target="#vendedor" style="width:18vw;">
+                          <span class="linea"></span>
+                          <div class="row" style="margin-left: -1vw;">
                           <div class="numero col-xs-4">
                             C
                           </div>
                           <div class="texto col-xs-8">
                             &nbsp; Vendor
+                          </div>
                           </div>
                         </div>
 
@@ -355,7 +364,7 @@
                   		<!-- LAYER NR. 5 -->
                   		<div class="tp-caption   tp-resizeme"
                   			 id="slide-11-layer-5"
-                  			 data-x="40"
+                  			 data-x="45"
                   			 data-y="300"
                   						data-width="['auto']"
                   			data-height="['auto']"
@@ -370,12 +379,15 @@
 
 
                   			style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-                        <div class="servicio maqueta4" data-toggle="modal" data-target="#consumidor">
+                        <div class="servicio maqueta4" data-toggle="modal" data-target="#consumidor" style="width:18vw;">
+                          <span class="linea"></span>
+                          <div class="row" style="margin-left: -1vw;">
                           <div class="numero col-xs-4">
                             D
                           </div>
                           <div class="texto col-xs-8">
                             &nbsp; Consumer
+                          </div>
                           </div>
                         </div>
                       </div>
@@ -444,6 +456,7 @@
                   <h3>TRAINING</h3>
                   <p>&nbsp;</p>
                   <p>CIERTO, implements a methodology that aims to professionalize the field staff with the acknowledge to their value and each one’s dignity with improvements on the productive chain. </p>
+                  <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
@@ -506,6 +519,7 @@
                   <h3>CONTACT US</h3>
                   <p>&nbsp;</p>
                   <p>For questions, please send us a message and we will get back <br>to you promptly.</p>
+                  <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
@@ -517,7 +531,7 @@
       <section class="seccion footer">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-sm-2">
+            <div class="col-sm-2 col-xs-6">
               <h3>Menu</h3>
               <br>
               <p>
@@ -531,19 +545,18 @@
                 <a href="#">Lenguages</a>
               </p>
             </div>
-            <div class="col-sm-2">
-              <h3>Divisions</h3>
+            <div class="col-sm-2 col-xs-6">
+              <h3>Seccions</h3>
               <br>
               <p>
                 <a href="#">What makes us different</a><br>
-                <a href="#">Your partners in successfully </a><br>
-                <a href="#">Recruiting a quality workforce</a><br>
+                <a href="#">Your partners in successfully recruiting a quality workforce</a><br>
                 <a href="#">What search CIERTO?</a><br>
                 <a href="#">Know the program H2A</a><br>
                 <a href="#">Our Training</a><br>
               </p>
             </div>
-            <div class="col-sm-offset-6 col-sm-2">
+            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
               <h3>Data</h3>
               <br>
               <p>
