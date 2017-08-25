@@ -11,7 +11,10 @@
     <link rel="stylesheet" href="styles/font-awesome.css">
     <link href="https://fonts.googleapis.com/css?family=Amaranth:400,400i,700,700i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="css/settings.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/extralayers.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
+
     <link rel="stylesheet" href="styles/animate.css">
     <link rel="stylesheet" href="css/main.css">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
@@ -64,24 +67,248 @@
       </div>
 
 
-      <section class="entrada inicio">
+      <section class="entrada about">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <div class="row">
-                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
-                  <span class="linea"></span>
-                  <h3>CIERTO</h3>
-                  <h4>Workers’ Center for Research, <br>Recruitment and Training</h4>
-                  <p>&nbsp;</p>
-                  <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
-                  <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
-                </div>
-              </div>
+
             </div>
           </div>
         </div>
+      </section>
+
+      <section class="seccion infografia">
+        <div class="container-fluid" >
+            <div class="row">
+              <div class="col-md-5 col-md-offset-1">
+                <div class=" wow bounceInRight">
+                  <h3>CIERTO</h3>
+                  <h4>
+                    Workers’ Center for Research, <br>
+                    Recruitment and Training
+                  </h4>
+                  <p>&nbsp;</p>
+
+                  <h3>WHAT MAKES US DIFFERENT</h3>
+                  <p>&nbsp;</p>
+                  <p>
+                    CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain.
+                  </p>
+                  <p>
+                    CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships.
+                    We protect the interests of both growers and farmworkers––from recruitment using trusted networks across Mexico and ensuring the proper filing of H-2A petitions to offering training and managing all details to ensure full labor contract compliance.
+
+                  </p>
+                  <p>
+                    CIERTO is the only farm labor contractor monitored by an independent third party to ensure the integrity of the recruitment process. We eliminate the fraudulent, corrupt and often dangerous practices that face many farmworkers coming to work in the United States and endanger the operations of growers.
+
+                  </p>
+
+
+                </div>
+              </div>
+              <div class="col-md-6" >
+                <div data-wow-delay="0.5s" class="wow bounceInRight">
+
+
+
+
+                  <div class="tp-banner-container" >
+    <div class="tp-banner1">
+      <ul>
+      <!-- SLIDE  -->
+  <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
+    <!-- MAIN IMAGE -->
+    <img src="images/dummy.png"  alt="slidebg1" data-lazyload="img/info/info.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+    <!-- LAYERS -->
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="20"
+      data-y="20"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="2000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/1.png"  >
+    </div>
+
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="540"
+      data-y="25"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="3000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/2.png"  >
+    </div>
+
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="10"
+      data-y="575"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="4000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/3.png"  >
+    </div>
+
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="50"
+      data-y="340"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="5000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/4.png"  >
+    </div>
+
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="540"
+      data-y="574"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="6000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/5.png"  >
+    </div>
+
+    <div class="tp-caption customin rs-parallaxlevel-0"
+      data-x="580"
+      data-y="350"
+      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+      data-speed="500"
+      data-start="7000"
+      data-easing="Power3.easeInOut"
+      data-elementdelay="0.1"
+      data-endelementdelay="0.1"
+      style="z-index: 4;">
+      <img src="img/info/6.png"  >
+    </div>
+
+  </li>
+
+
+</ul>
+<div class="tp-bannertimer"></div>  </div>
+</div>
+
+      <script type="text/javascript">
+
+        jQuery(document).ready(function() {
+
+
+
+          jQuery('.tp-banner1').show().revolution(
+          {
+            dottedOverlay:"none",
+            delay:5000,
+            startwidth:769,
+            startheight:1000,
+            hideThumbs:200,
+
+            thumbWidth:0,
+            thumbHeight:0,
+            thumbAmount:0,
+
+            navigationType:"bullet",
+            navigationArrows:"none",
+            navigationStyle:"preview2",
+
+            touchenabled:"off",
+            onHoverStop:"off",
+
+            swipe_velocity: 0.7,
+            swipe_min_touches: 1,
+            swipe_max_touches: 1,
+            drag_block_vertical: false,
+
+                        parallax:"mouse",
+            parallaxBgFreeze:"on",
+            parallaxLevels:[7,4,3,2,5,4,3,2,1,0],
+
+            keyboardNavigation:"off",
+
+            navigationHAlign:"center",
+            navigationVAlign:"bottom",
+            navigationHOffset:0,
+            navigationVOffset:20,
+
+            soloArrowLeftHalign:"left",
+            soloArrowLeftValign:"center",
+            soloArrowLeftHOffset:20,
+            soloArrowLeftVOffset:0,
+
+            soloArrowRightHalign:"right",
+            soloArrowRightValign:"center",
+            soloArrowRightHOffset:20,
+            soloArrowRightVOffset:0,
+
+            shadow:0,
+            fullWidth:"on",
+            fullScreen:"off",
+
+            spinner:"none",
+
+            stopLoop:"off",
+            stopAfterLoops:-1,
+            stopAtSlide:-1,
+
+            shuffle:"off",
+
+            autoHeight:"off",
+            forceFullWidth:"off",
+
+
+
+            hideThumbsOnMobile:"on",
+            hideNavDelayOnMobile:"on",
+            hideBulletsOnMobile:"off",
+            hideArrowsOnMobile:"off",
+            hideThumbsUnderResolution:0,
+
+            hideSliderAtLimit:0,
+            hideCaptionAtLimit:0,
+            hideAllCaptionAtLilmit:0,
+            startWithSlide:0,
+            videoJsPath:"rs-plugin/videojs/",
+            fullScreenOffsetContainer: ""
+          });
+
+
+
+
+        }); //ready
+
+      </script>
+
+
+
+                </div>
+
+              </div>
+
+
+            </div>
+
+
+
+
+          </div>
+
       </section>
 
       <section class="servicios inicio">
@@ -229,221 +456,7 @@
 
 
 
-      <section class="seccion maqueta">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 fondo">
-              <div class="row">
-                <div class="col-md-12 text-center" style="padding:0px;">
-                  <h3 class="text-center wow bounceInDown">CIERTO'S IMPACT ON THE AGRICULTURAL<br>PRODUCTION CHAIN</h3>
-                  <p>&nbsp;</p><p>&nbsp;</p>
-                  <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  wow bounceInUp" data-alias="cierto" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-                  <!-- START REVOLUTION SLIDER 5.2.4 auto mode -->
-                  	<div id="rev_slider_7_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.4">
-                  <ul>	<!-- SLIDE  -->
-                      <li data-index="rs-11" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                  		<!-- MAIN IMAGE -->
-                          <img src="assets/transparent.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                  		<!-- LAYERS -->
 
-                  		<!-- LAYER NR. 1 -->
-                  		<div class="tp-caption   tp-resizeme"
-                  			 id="slide-11-layer-1"
-                  			 data-x="-32"
-                  			 data-y="-202"
-                  						data-width="['none','none','none','none']"
-                  			data-height="['none','none','none','none']"
-                  			data-transform_idle="o:1;"
-
-                  			 data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
-                  			 data-transform_out="opacity:0;s:300;"
-                  			data-start="500"
-                  			data-responsive_offset="on"
-
-
-                  			style="z-index: 5;"><img src="assets/ac901-maquetanueva.png" alt="" data-ww="auto" data-hh="auto" data-no-retina> </div>
-
-                  		<!-- LAYER NR. 2 -->
-                  		<div class="tp-caption   tp-resizeme"
-                  			 id="slide-11-layer-2"
-                  			 data-x="540"
-                  			 data-y="742"
-                  			 data-width="['auto']"
-                  			 data-height="['auto']"
-                  			 data-transform_idle="o:1;"
-
-                  			 data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
-                  			 data-transform_out="opacity:0;s:300;"
-                  			data-start="1000"
-                  			data-splitin="none"
-                  			data-splitout="none"
-                  			data-responsive_offset="on"
-
-
-                  			style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-
-                        <div class="servicio maqueta1"  data-toggle="modal" data-target="#trabajador">
-                          <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                            <div class="numero col-xs-4">
-                              A
-                            </div>
-                            <div class="texto col-xs-8">
-                              Farm worker
-                            </div>
-                          </div>
-
-                        </div>
-
-                      </div>
-
-                  		<!-- LAYER NR. 3 -->
-                  		<div class="tp-caption   tp-resizeme"
-                  			 id="slide-11-layer-3"
-                  			 data-x="1010"
-                  			 data-y="320"
-                  						data-width="['auto']"
-                  			data-height="['auto']"
-                  			data-transform_idle="o:1;"
-
-                  			 data-transform_in="opacity:0;s:1500;e:Power2.easeInOut;"
-                  			 data-transform_out="opacity:0;s:300;"
-                  			data-start="1500"
-                  			data-splitin="none"
-                  			data-splitout="none"
-                  			data-responsive_offset="on"
-
-
-                  			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-                        <div class="servicio maqueta2"  data-toggle="modal" data-target="#agroindustria">
-                          <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            B
-                          </div>
-                          <div class="texto col-xs-8">
-                            Agroindustry
-                          </div>
-                          </div>
-                        </div>
-                      </div>
-
-                  		<!-- LAYER NR. 4 -->
-                  		<div class="tp-caption   tp-resizeme"
-                  			 id="slide-11-layer-4"
-                  			 data-x="572"
-                  			 data-y="60"
-                  						data-width="['auto']"
-                  			data-height="['auto']"
-                  			data-transform_idle="o:1;"
-
-                  			 data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;"
-                  			 data-transform_out="opacity:0;s:300;"
-                  			data-start="2000"
-                  			data-splitin="none"
-                  			data-splitout="none"
-                  			data-responsive_offset="on"
-
-
-                  			style="z-index: 8; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-
-                        <div class="servicio maqueta3" data-toggle="modal" data-target="#vendedor">
-                          <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            C
-                          </div>
-                          <div class="texto col-xs-8">
-                            &nbsp; Vendor
-                          </div>
-                          </div>
-                        </div>
-
-                      </div>
-
-                  		<!-- LAYER NR. 5 -->
-                  		<div class="tp-caption   tp-resizeme"
-                  			 id="slide-11-layer-5"
-                  			 data-x="45"
-                  			 data-y="300"
-                  						data-width="['auto']"
-                  			data-height="['auto']"
-                  			data-transform_idle="o:1;"
-
-                  			 data-transform_in="opacity:0;s:2500;e:Power2.easeInOut;"
-                  			 data-transform_out="opacity:0;s:300;"
-                  			data-start="2500"
-                  			data-splitin="none"
-                  			data-splitout="none"
-                  			data-responsive_offset="on"
-
-
-                  			style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
-                        <div class="servicio maqueta4" data-toggle="modal" data-target="#consumidor">
-                          <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            D
-                          </div>
-                          <div class="texto col-xs-8">
-                            &nbsp; Consumer
-                          </div>
-                          </div>
-                        </div>
-                      </div>
-                  	</li>
-                  </ul>
-                  <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
-                  </div><!-- END REVOLUTION SLIDER -->
-                  		<script type="text/javascript">
-                  						var tpj=jQuery;
-
-                  			var revapi7;
-                  			tpj(document).ready(function() {
-                  				if(tpj("#rev_slider_7_1").revolution == undefined){
-                  					revslider_showDoubleJqueryError("#rev_slider_7_1");
-                  				}else{
-                  					revapi7 = tpj("#rev_slider_7_1").show().revolution({
-                  						sliderType:"standard",
-                  jsFileLocation:"//hadoukendev.com/revslider/revslider/public/assets/js/",
-                  						sliderLayout:"auto",
-                  						dottedOverlay:"none",
-                  						delay:9000,
-                  						navigation: {
-                  							onHoverStop:"off",
-                  						},
-                  						visibilityLevels:[1240,1024,778,480],
-                  						gridwidth:1240,
-                  						gridheight:950,
-                  						lazyType:"none",
-                  						shadow:0,
-                  						spinner:"spinner0",
-                  						stopLoop:"off",
-                  						stopAfterLoops:-1,
-                  						stopAtSlide:-1,
-                  						shuffle:"off",
-                  						autoHeight:"off",
-                  						disableProgressBar:"on",
-                  						hideThumbsOnMobile:"off",
-                  						hideSliderAtLimit:0,
-                  						hideCaptionAtLimit:0,
-                  						hideAllCaptionAtLilmit:0,
-                  						debugMode:false,
-                  						fallbacks: {
-                  							simplifyAll:"off",
-                  							nextSlideOnWindowFocus:"off",
-                  							disableFocusListener:false,
-                  						}
-                  					});
-                  				}
-                  			});	/*ready*/
-                  		</script>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
 
       <section class="seccion entrenamiento">
@@ -728,7 +741,8 @@ Ensure a mechanism with social responsibility allows the unlocking of market opp
 
 
 
-
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
     <script src="scripts/vendor/wow.min.js"></script>
     <script src="scripts/vendor/bootstrap.js"></script>
     <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
