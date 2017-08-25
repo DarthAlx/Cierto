@@ -80,8 +80,8 @@
       <section class="seccion infografia">
         <div class="container-fluid" >
             <div class="row">
-              <div class="col-md-5 col-md-offset-1">
-                <div class=" wow bounceInRight">
+              <div class="col-md-6">
+                <div class=" wow bounceInLeft">
                   <h3>CIERTO</h3>
                   <h4>
                     Workers’ Center for Research, <br>
@@ -108,7 +108,7 @@
                 </div>
               </div>
               <div class="col-md-6" >
-                <div data-wow-delay="0.5s" class="wow bounceInRight">
+                <div  class="wow bounceInLeft">
 
 
 
@@ -216,7 +216,7 @@
           {
             dottedOverlay:"none",
             delay:5000,
-            startwidth:769,
+            startwidth:800,
             startheight:1000,
             hideThumbs:200,
 

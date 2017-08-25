@@ -1,130 +1,118 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Cierto Global</title>
-    <meta name="description" content="Home Page Version 1">
+    <meta name="description" content="Cierto Global Org">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory-->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700">
-    <link rel="stylesheet" href="styles/font-awesome.css">
-    <link rel="stylesheet" href="styles/owl.carousel.css">
-    <link rel="stylesheet" href="styles/owl.theme.css">
-    <link rel="stylesheet" href="styles/slit-slider-style.css">
-    <link rel="stylesheet" href="styles/slit-slider-custom.css">
-    <link rel="stylesheet" href="styles/idangerous.swiper.css">
-    <link rel="stylesheet" href="styles/yamm.css">
-    <link rel="stylesheet" href="styles/animate.css">
-    <link rel="stylesheet" href="styles/prettyPhoto.css">
-    <link rel="stylesheet" href="styles/bootstrap-slider.css">
-    <link rel="stylesheet" href="styles/device-mockups2.css">
+
     <link rel="stylesheet" href="styles/bootstrap.min.css">
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="styles/main-responsive.css">
-    <link id="primary_color_scheme" rel="stylesheet" href="styles/theme_meadow.css">
+    <link rel="stylesheet" href="styles/font-awesome.css">
+    <link href="https://fonts.googleapis.com/css?family=Amaranth:400,400i,700,700i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
-    <!--Fuentes-->
-    <link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
-
-    <script src="scripts/vendor/modernizr.js"></script>
-    <noscript>
-      <link rel="stylesheet" href="styles/styleNoJs.css">
-    </noscript>
-
-
-    <script language="javascript">
-function entrar(valor)
-{
-  document.getElementById(valor).style.display = "block";
-
-}
-function salir(valor)
-{
-  document.getElementById(valor).style.display = "none";
-}
-function cambiar(valor,img)
-{
-  document.getElementById(valor).src = img;
-}
-
-</script>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
-
-    <!-- CSS STYLE-->
     <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
-
-
-
-
-    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-  <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
     <link rel="stylesheet" type="text/css" href="css/extralayers.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
 
-
+    <link rel="stylesheet" href="styles/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
   </head>
   <body>
 
+    <div class="barra">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="columna col-sm-1 col-xs-3">
+            <div class="menu" id="nav-icon0" onclick="openNav()">
+              <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div class="col-sm-11 col-xs-9">
+            <div class="logo">
+              <img class="img-responsive" src="img/logo.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-      <section class="sep-top-2x sep-bottom-2x" style="background-image: url(img/info/bg.png); " >
-        <div class="container" >
+    <div class="menu">
+      <div id="myNav" class="overlay">
+        <!-- Button to close the overlay navigation -->
+        <div class="container-fluid">
           <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <div data-wow-delay="0.5s" class="text-center wow bounceInLeft">
-                <h4 class="upper" style="font-family: 'Amaranth', serif;">¿Qué es CIERTO?</h3>
-
-
-               <br><br>
-
+            <div class="columna col-sm-1 col-xs-3">
+              <div class="menu" style="background: transparent;">
+                <i class="fa fa-times fa-3x pull-left" onclick="closeNav()" aria-hidden="true"></i>
               </div>
-
             </div>
+          </div>
+        </div>
+        <!-- Overlay content -->
+        <div class="overlay-content">
+          <a href="#">INICIO</a>
+           <a href="#">ACERCA DE CIERTO</a>
+          <a href="#">CADENA DE PRODUCCIÓN</a>
+          <a href="#">SERVICIO</a>
+          <a href="#">EQUIPO CIERTO</a>
+          <a href="#">ENTRENAMIENTO</a>
+          <a href="#">CONTACTO</a>
+          <a href="#">ENTRAR</a>
+          <a href="#">IDIOMA</a>
+        </div>
 
-            </div>
+      </div>
+    </div>
 
 
+    <section class="entrada about">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 fondo">
+
+          </div>
+        </div>
+      </div>
+    </section>
 
 
-
-
+      <section class="infografia">
+        <div class="container-fluid" >
             <div class="row" style="">
 
-              <div class="col-md-4 " style="">
-                <div data-wow-delay="0.5s" class=" wow bounceInRight" style=" text-align: left; color: #4a2f22; font-family: 'Bree Serif', serif; font-size: 1.1em;"  >
+              <div class="col-md-5 col-md-offset-1">
+                <div class=" wow bounceInLeft">
+                  <h3>CIERTO</h3>
+                  <h4>
+                    Workers’ Center for Research, <br>
+                    Recruitment and Training
+                  </h4>
+                  <p>&nbsp;</p>
 
-                  <div  style=" font-family: 'Amaranth', serif; top:100px;"  >
+                  <h3>WHAT MAKES US DIFFERENT</h3>
+                  <p>&nbsp;</p>
+                  <p>
+                    CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain.
+                  </p>
+                  <p>
+                    CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships.
+                    We protect the interests of both growers and farmworkers––from recruitment using trusted networks across Mexico and ensuring the proper filing of H-2A petitions to offering training and managing all details to ensure full labor contract compliance.
 
-                  CIERTO <br>
-                  Centro de Investigación Entrenamiento y Reclutamiento del
-                  Trabajador Organizado.
-                  </div>
-                  <hr style="border-top: 1px solid #4a2f22;">
-                  Somos un Centro que busca, a través
-                  de la Investigación, el
-                  Entrenamiento y el Reclutamiento
-                  garantizar una producción eficiente
-                  del campo, sana y libre de
-                  explotación laboral; que rinda
-                  beneficios al consumidor, al gran
-                  vendedor, a la agroindustria y por
-                  supuesto al trabajador.
-                  <br><br><br>
+                  </p>
+                  <p>
+                    CIERTO is the only farm labor contractor monitored by an independent third party to ensure the integrity of the recruitment process. We eliminate the fraudulent, corrupt and often dangerous practices that face many farmworkers coming to work in the United States and endanger the operations of growers.
+
+                  </p>
 
 
                 </div>
-
               </div>
 
 
 
-              <div class="col-md-8 " >
+              <div class="col-md-6 " >
                 <div data-wow-delay="0.5s" class="text-right wow bounceInRight">
 
 
@@ -234,7 +222,7 @@ function cambiar(valor,img)
             dottedOverlay:"none",
             delay:5000,
             startwidth:769,
-            startheight:701,
+            startheight:900,
             hideThumbs:200,
 
             thumbWidth:0,
@@ -311,21 +299,240 @@ function cambiar(valor,img)
         }); //ready
 
       </script>
-
-
-
                 </div>
+              </div>
+            </div>
+          </div>
+      </section>
 
+
+      <section class="entrada about2">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row">
+                <div class="col-md-7 col-md-offset-5 text-right textabout2">
+                  <h4>“Workers that are prepared and content with their job, provide the added value of labor commitment, product quality and productivity improvement for agroindustry”
+                  </h4>
+                </div>
               </div>
 
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="entrada about3">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <h3>YOUR PARTNERS IN SUCCESSFULLY RECRUITING A QUALITY WORKFORCE</h3>
+              <p>&nbsp;</p>
+              <h4>As your farm labor contractor, CIERTO</h4>
+              <p>&nbsp;</p>
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      01
+                    </div>
+                    <div class="texto col-xs-8">
+                      Hire
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      02
+                    </div>
+                    <div class="texto col-xs-8">
+                      Ensures
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      03
+                    </div>
+                    <div class="texto col-xs-8">
+                      Compliance standards
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      04
+                    </div>
+                    <div class="texto col-xs-8">
+                      Productivity
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      05
+                    </div>
+                    <div class="texto col-xs-8">
+                      Value
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      06
+                    </div>
+                    <div class="texto col-xs-8">
+                      Position
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      07
+                    </div>
+                    <div class="texto col-xs-8">
+                      Solutions
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="entrada about4">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
 
             </div>
-
-
-
-
           </div>
+        </div>
+      </section>
 
+      <section class="seccion contacto">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
+                <div class="col-sm-6 col-sm-offset-3">
+                  <img src="images/iconos.png" class="img-responsive" alt="" style="width: 100%">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
+                  <span class="linea"></span>
+                  <h3>CONTACT US</h3>
+                  <p>&nbsp;</p>
+                  <p>For questions, please send us a message and we will get back <br>to you promptly.</p>
+                  <p>&nbsp;</p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="seccion footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-2 col-xs-6">
+              <h3>Menu</h3>
+              <br>
+              <p>
+                <a href="#">CIERTO</a><br>
+                <a href="#">About</a><br>
+                <a href="#">Service</a><br>
+                <a href="#">Team</a><br>
+                <a href="#">Training</a><br>
+                <a href="#">Contact us</a><br>
+                <a href="#">Access</a><br>
+                <a href="#">Lenguages</a>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-6">
+              <h3>Seccions</h3>
+              <br>
+              <p>
+                <a href="#">What makes us different</a><br>
+                <a href="#">Your partners in successfully recruiting a quality workforce</a><br>
+                <a href="#">What search CIERTO?</a><br>
+                <a href="#">Know the program H2A</a><br>
+                <a href="#">Our Training</a><br>
+              </p>
+            </div>
+            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+              <h3>Data</h3>
+              <br>
+              <p>
+                <a href="#">info@ciertoglobal.org</a><br>
+                <a href="#">P.O. Box 8337.  </a><br>
+                <a href="#">Tacoma, WA 98419</a><br>
+                <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+              </p>
+            </div>
+          </div>
+        </div>
       </section>
 
 
@@ -337,13 +544,22 @@ function cambiar(valor,img)
 
 
 
-    <script src="scripts/vendor/wow.min.js"></script>
-
-    <script src="scripts/vendor/bootstrap.js"></script>
-
-
-
-    <script src="scripts/main.js"></script>
+      <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+      <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+      <script src="scripts/vendor/wow.min.js"></script>
+      <script src="scripts/vendor/bootstrap.js"></script>
+      <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+  		<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.carousel.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.kenburn.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.layeranimation.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.migration.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.navigation.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.parallax.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.slideanims.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script>
+      <script type="text/javascript" src="js/main.js"></script>
 
   </body>
 </html>
