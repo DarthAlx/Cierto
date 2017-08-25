@@ -68,32 +68,11 @@ function cambiar(valor,img)
     <link rel="stylesheet" type="text/css" href="css/extralayers.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
 
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800' rel='stylesheet' type='text/css'>
 
   </head>
   <body>
-    <div></div><!--[if lt IE 9]>
-    <p class="browsehappy">You are using an strong outdated browser. <br>Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    <div class="page">
-      <!-- Start Nav Section-->
-
-      <!-- Start Header Section-->
 
 
-
-
-
-
-
-
-
-
-
-
-      <!-- End Header Section-->
-      <!-- Start About section-->
-      <a name="infografia">
       <section class="sep-top-2x sep-bottom-2x" style="background-image: url(img/info/bg.png); " >
         <div class="container" >
           <div class="row">
@@ -348,26 +327,14 @@ function cambiar(valor,img)
           </div>
 
       </section>
-      </a>
-      <!-- End About section-->
 
 
 
 
 
 
-      <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,700,800,900' rel='stylesheet' type='text/css'>
 
 
-
-
-    </div>
-
-
-
-
-    
 
 
     <script src="scripts/vendor/wow.min.js"></script>
@@ -377,13 +344,6 @@ function cambiar(valor,img)
 
 
     <script src="scripts/main.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'XX-XXXXXXXX-XX', 'auto');
-      ga('send', 'pageview');
-    </script>
+
   </body>
 </html>
