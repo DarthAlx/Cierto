@@ -312,7 +312,7 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-7 col-md-offset-5 text-right textabout2">
-                  <h4>“Workers that are prepared and content with their job, provide the added value of labor commitment, product quality and productivity improvement for agroindustry”
+                  <h4 class="wow bounceInLeft">“Workers that are prepared and content with their job, provide the added value of labor commitment, product quality and productivity improvement for agroindustry”
                   </h4>
                 </div>
               </div>
@@ -322,7 +322,7 @@
         </div>
       </section>
 
-      <section class="entrada about3">
+      <section class="seccion about3">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -331,7 +331,7 @@
               <h4>As your farm labor contractor, CIERTO</h4>
               <p>&nbsp;</p>
               <div class="row">
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -347,7 +347,7 @@
                   </div>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -362,12 +362,12 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
 
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -383,7 +383,7 @@
                   </div>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -398,12 +398,12 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
 
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -419,7 +419,7 @@
                   </div>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -434,7 +434,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
@@ -457,10 +457,79 @@
       </section>
 
 
-      <section class="entrada about4">
+      <section class="seccion about4">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
+              <h3 class="text-center">WHAT SEARCH CIERTO?</h3>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
+
+                    <div class="letra">
+                      A<br><span>opportunity</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• We provide job opportunities and develop skills for farmworkers unauthenticated, avoiding informal hiring and fraud.</p>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
+
+                    <div class="letra">
+                      B<br><span>integration</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• We seek to professionalize the worker, in order to raise awareness and creat human value in the agricultural production chain.</p>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
+
+                    <div class="letra">
+                      C<br><span>Levels of productivity</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Providing training and job security to farm workers increases the product quality and improve level of productivity on farms.</p>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
+
+                    <div class="letra">
+                      D<br><span>Excellent products</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Providing consumers with excellent agricultural products, from production to their dining romm table.</p>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
 
             </div>
           </div>
