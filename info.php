@@ -52,10 +52,10 @@
         </div>
         <!-- Overlay content -->
         <div class="overlay-content">
-          <a href="#">INICIO</a>
-           <a href="#">ACERCA DE CIERTO</a>
+          <a href="/index2.php">INICIO</a>
+           <a href="/info.php">ACERCA DE CIERTO</a>
           <a href="#">CADENA DE PRODUCCIÓN</a>
-          <a href="#">SERVICIO</a>
+          <a href="/servicios.php">SERVICIO</a>
           <a href="#">EQUIPO CIERTO</a>
           <a href="#">ENTRENAMIENTO</a>
           <a href="#">CONTACTO</a>
