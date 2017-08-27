@@ -371,7 +371,7 @@
                           <span class="linea"></span>
                           <div class="numero">
                             D <span>Consumer</span>
-                          </div>  
+                          </div>
                         </div>
                       </div>
                   	</li>
@@ -461,24 +461,38 @@
                       <li data-target="#carrusel-frases" data-slide-to="0" class="active"></li>
                       <li data-target="#carrusel-frases" data-slide-to="1"></li>
                       <li data-target="#carrusel-frases" data-slide-to="2"></li>
+                      <li data-target="#carrusel-frases" data-slide-to="3"></li>
+                      <li data-target="#carrusel-frases" data-slide-to="4"></li>
                     </ol>
                     <div class="carousel-inner" role="listbox">
 
                         <div class="item active">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
+                            <h2>"WE HAVE THE BEST FARM WORKERS"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
+                            <h2>"BY RECONSIDERING THE RULES OF CONSUMPTION WE INCREASE QUALITY STANDARDS"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"CONTAMOS CON LOS MEJORES <br> TRABAJADORES AGRICOLAS"</h2>
+                            <h2>"WE SELECT AND TRAIN THE FINEST AGRICULTURAL"</h2>
+                            <span class="lineablanca pull-right"></span>
+                          </div>
+                        </div>
+                        <div class="item">
+                          <div class="col-md-6 col-md-offset-6">
+                            <h2>"THE QUALITY OF PRODUCTS BEFALLS IN THE HANDS OF A HAPPY WORKER"</h2>
+                            <span class="lineablanca pull-right"></span>
+                          </div>
+                        </div>
+                        <div class="item">
+                          <div class="col-md-6 col-md-offset-6">
+                            <h2>"EXPLOITATION FREE, PRODUCTION QUALITY AND FINE PRODUCTS"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
