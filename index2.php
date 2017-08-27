@@ -284,14 +284,12 @@
 
                         <div class="servicio maqueta1"  data-toggle="modal" data-target="#trabajador">
                           <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                            <div class="numero col-xs-4">
-                              A
+
+                            <div class="numero">
+                              A <span>Farm worker</span>
                             </div>
-                            <div class="texto col-xs-8">
-                              Farm worker
-                            </div>
-                          </div>
+
+
 
                         </div>
 
@@ -317,13 +315,8 @@
                   			style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
                         <div class="servicio maqueta2"  data-toggle="modal" data-target="#agroindustria">
                           <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            B
-                          </div>
-                          <div class="texto col-xs-8">
-                            Agroindustry
-                          </div>
+                          <div class="numero">
+                            B <span>Agroindustry</span>
                           </div>
                         </div>
                       </div>
@@ -349,13 +342,8 @@
 
                         <div class="servicio maqueta3" data-toggle="modal" data-target="#vendedor">
                           <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            C
-                          </div>
-                          <div class="texto col-xs-8">
-                            &nbsp; Vendor
-                          </div>
+                          <div class="numero">
+                            C <span>Vendor</span>
                           </div>
                         </div>
 
@@ -381,14 +369,9 @@
                   			style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);">
                         <div class="servicio maqueta4" data-toggle="modal" data-target="#consumidor">
                           <span class="linea"></span>
-                          <div class="row" style="margin-left: -1vw;">
-                          <div class="numero col-xs-4">
-                            D
-                          </div>
-                          <div class="texto col-xs-8">
-                            &nbsp; Consumer
-                          </div>
-                          </div>
+                          <div class="numero">
+                            D <span>Consumer</span>
+                          </div>  
                         </div>
                       </div>
                   	</li>
