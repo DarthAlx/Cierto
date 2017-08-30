@@ -158,6 +158,13 @@ ul li{
   width: 100%;
   height: 100vh;
 }
+.team .fondo{
+  background: url(../images/01_MODULO_W_P04.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: top center;
+}
 .about2 .fondo{
   background: url(../images/about2.jpg) no-repeat center center;
   background-size: cover;
@@ -231,6 +238,15 @@ padding-bottom: 12vh;
 }
 
 .contactform{
+  width: 100%;
+
+  padding-top: 12vh;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 12vh;
+}
+
+.ourteam{
   width: 100%;
 
   padding-top: 12vh;
@@ -367,6 +383,10 @@ padding-bottom: 12vh;
 
 
 @media (max-width: 766px) {
+  .team .fondo{
+    height: 50vh !important;
+    background-position: top center;
+  }
   .servicios1 .fondo{
 
     height: 50vh !important;
@@ -633,4 +653,46 @@ margin-top: 7%;
   color: #333333;
   font-size: 26px;
   margin-left: -6px;
+}
+
+.ourteam h4 {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.modalteams i{
+  position: absolute;
+    z-index: 99999;
+    right: 30px;
+    color: #fff;
+    top: 30px;
+}
+.modalteams .modal-body{
+  padding: 0px;
+}
+.modalteams .modal-dialog {
+    width: 100vw;
+    margin: 0px;
+}
+
+.team1 .fondo{
+  background: url(../images/04_MODULO_JOE.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: bottom left;
+  width: 100%;
+  height: 100vh;
+}
+
+
+.modalteams.modal h4{
+  font-size: 24px !important;
+}
+.modalteams .linea {
+    top: -5px;
+}
+.ourteam img{
+  cursor: pointer !important;
 }

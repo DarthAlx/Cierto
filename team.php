@@ -72,106 +72,63 @@
 
 
 
-      <section class="seccion contacto">
+      <section class="seccion team">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
-                <div class="col-sm-4 col-sm-offset-4 col-xs-6 colxs-offset-3">
-                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
-                </div>
-              </div>
-              <div class="row">
 
               </div>
+
             </div>
           </div>
         </div>
       </section>
 
-      <section class="sep-bottom-2x contactform" style="background: #f5f5f5;">
+      <section class="sep-bottom-2x ourteam" style="background: #f5f5f5;">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-3 sep-top-2x">
+            <div class="col-md-7 sep-top-2x">
               <div class=" wow bounceInLeft" >
-                <h3>CONTACT</h3>
+                <h3>OUR TEAM</h3>
                 <p>&nbsp;</p><p>&nbsp;</p>
-                <h4>CIERTO GLOBAL</h4>
+
                 <p class="sep-top-xs">
-                  For questions, please send us a message and we will get back to you promptly.
+                  Somos especialistas en el tema de la cadena productiva agrícola, establecemos un contacto profesional y respetuoso con las personas con quienes trabajamos.
                 </p>
-
+                <p>Desempeñamos nuestra labor con ética profesional de por medio, buscamos en cada actividad obtener resultados favorables. Anteponemos el profesionalismo y generamos alianzas a traves de la confianza con el resultado de nuestro servicio.</p>
+                <p>&nbsp;</p><p>&nbsp;</p>
               </div>
             </div>
-            <div class="col-md-offset-1 col-md-8 sep-top-2x wow bounceInRight">
 
-              <div class="contact-form">
-                <div id="successMessage" style="display:none" class="alert alert-success text-center">
-                  <p><i class="fa fa-check-circle fa-2x"></i></p>
-                  <p>Gracias por enviar tu mensaje, en breve nos pondremos en contacto.</p>
-                </div>
-                <div id="failureMessage" style="display:none" class="alert alert-danger text-center">
-                  <p><i class="fa fa-times-circle fa-2x"></i></p>
-                  <p>Hubo un problema enviando tu mensaje. Por favor, prueba de nuevo.</p>
-                </div>
-                <div id="incompleteMessage" style="display:none" class="alert alert-warning text-center">
-                  <p><i class="fa fa-exclamation-triangle fa-2x"></i></p>
-                  <p>Porfavor llena los campos antes de enviar.</p>
-                </div>
-                <form id="contactForm" action="php/contact.php" method="post" class="form-gray-fields validate">
-                  <div class="row">
-                    <div class="col-md-6 sep-top-xs">
-                      <div class="form-group">
-                        <label for="name" class="upper">Name (s)</label>
-                        <input id="name" type="text" name="senderName" class="form-control input-lg required">
-                      </div>
-                    </div>
-                    <div class="col-md-6 sep-top-xs">
-                      <div class="form-group">
-                        <label for="phone" class="upper">Last name (s)</label>
-                        <input id="company" type="text" name="senderLastName" class="form-control input-lg required">
-                      </div>
-                    </div>
-                    <div class="col-md-6 sep-top-xs">
-                      <div class="form-group">
-                        <label for="email" class="upper">Correo electronico</label>
-                        <input id="email" type="email" placeholder="yourmail@example.com" name="senderEmail" class="form-control input-lg required email">
-                      </div>
-                    </div>
-                    <div class="col-md-6 sep-top-xs">
-                      <div class="form-group">
-                        <label for="phone" class="upper">Telephone</label>
-                        <input id="phone" type="text" name="phone" class="form-control input-lg required">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-
-
-                  </div>
-                  <div class="row">
-                    <div class="col-md-12 sep-top-xs">
-                      <div class="form-group">
-                        <label for="comment" class="upper">Message</label>
-                        <textarea id="comment" placeholder="Write here" rows="9" name="comment" class="form-control input-lg required"></textarea>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-12 sep-top-xs">
-                      <div class="form-group">
-                        <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i>&nbsp;Send</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam1">
+              <h4 id="team1">Team CIERTO</h4>
+              <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.png'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
             </div>
+<p class="visible-xs">&nbsp;</p>
+            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam2">
+              <h4 id="team2">Team CIERTO</h4>
+              <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.png'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
+            </div>
+
+          </div>
+          <p>&nbsp;</p>
+          <div class="row">
+            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam3">
+              <h4 id="team3">Team CIERTO</h4>
+              <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.png'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
+            </div>
+<p class="visible-xs">&nbsp;</p>
+            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam4">
+              <h4 id="team4">Team CIERTO</h4>
+              <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.png'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
+            </div>
+
           </div>
         </div>
       </section>
-
-      <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7378916.876547211!2d-103.23506159373775!3d25.438706305299323!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1504099626544" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
       <section class="seccion footer">
@@ -222,7 +179,34 @@
 
 
 
+    <div class="modal fade modalteams" id="modalteam1" tabindex="-1" role="dialog" aria-labelledby="team1">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <section class="team1">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 fondo">
+                    <div class="row">
+                      <div class="col-md-6 cuadroblanco col-md-offset-6">
+                        <span class="linea"></span>
+                        <h3>JOE MARTINEZ</h3>
+                        <h4>Executive Director</h4>
+                        <p>&nbsp;</p>
+                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>&nbsp;</p>
 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
 
