@@ -90,7 +90,8 @@
                     Recruitment and Training
                   </h4>
                   <p>&nbsp;</p>
-
+                  <p>CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
+<p>&nbsp;</p>
                   <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
                   <p>
@@ -112,194 +113,8 @@
 
 
 
-              <div class="col-md-6 " >
-                <div data-wow-delay="0.5s" class="text-right wow bounceInRight">
-
-
-
-
-                  <div class="tp-banner-container" >
-    <div class="tp-banner1" style="height: 1000px;">
-      <ul>
-      <!-- SLIDE  -->
-  <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
-    <!-- MAIN IMAGE -->
-    <img src="images/dummy.png"  alt="slidebg1" data-lazyload="img/info/info.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-    <!-- LAYERS -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="20"
-      data-y="20"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/1.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="540"
-      data-y="25"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="3000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/2.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="10"
-      data-y="575"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="4000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/3.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="50"
-      data-y="340"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="5000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/4.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="540"
-      data-y="574"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="6000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/5.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="580"
-      data-y="350"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="7000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/6.png"  >
-    </div>
-
-  </li>
-
-
-</ul>
-<div class="tp-bannertimer"></div>  </div>
-</div>
-
-      <script type="text/javascript">
-
-        jQuery(document).ready(function() {
-
-
-
-          jQuery('.tp-banner1').show().revolution(
-          {
-            dottedOverlay:"none",
-            delay:5000,
-            startwidth:850,
-            startheight:900,
-            hideThumbs:200,
-
-            thumbWidth:0,
-            thumbHeight:0,
-            thumbAmount:0,
-
-            navigationType:"bullet",
-            navigationArrows:"none",
-            navigationStyle:"preview2",
-
-            touchenabled:"off",
-            onHoverStop:"off",
-
-            swipe_velocity: 0.7,
-            swipe_min_touches: 1,
-            swipe_max_touches: 1,
-            drag_block_vertical: false,
-
-                        parallax:"mouse",
-            parallaxBgFreeze:"on",
-            parallaxLevels:[7,4,3,2,5,4,3,2,1,0],
-
-            keyboardNavigation:"off",
-
-            navigationHAlign:"center",
-            navigationVAlign:"bottom",
-            navigationHOffset:0,
-            navigationVOffset:20,
-
-            soloArrowLeftHalign:"left",
-            soloArrowLeftValign:"center",
-            soloArrowLeftHOffset:20,
-            soloArrowLeftVOffset:0,
-
-            soloArrowRightHalign:"right",
-            soloArrowRightValign:"center",
-            soloArrowRightHOffset:20,
-            soloArrowRightVOffset:0,
-
-            shadow:0,
-            fullWidth:"on",
-            fullScreen:"off",
-
-            spinner:"none",
-
-            stopLoop:"off",
-            stopAfterLoops:-1,
-            stopAtSlide:-1,
-
-            shuffle:"off",
-
-            autoHeight:"off",
-            forceFullWidth:"off",
-
-
-
-            hideThumbsOnMobile:"on",
-            hideNavDelayOnMobile:"on",
-            hideBulletsOnMobile:"off",
-            hideArrowsOnMobile:"off",
-            hideThumbsUnderResolution:0,
-
-            hideSliderAtLimit:0,
-            hideCaptionAtLimit:0,
-            hideAllCaptionAtLilmit:0,
-            startWithSlide:0,
-            videoJsPath:"rs-plugin/videojs/",
-            fullScreenOffsetContainer: ""
-          });
-
-
-
-
-        }); //ready
-
-      </script>
-                </div>
+              <div class="col-md-5 col-md-offset-1 col-xs-8 col-xs-offset-2" >
+                <img src="images/info.png" class="img-responsive" alt="">
               </div>
             </div>
           </div>
@@ -327,8 +142,10 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <h3>YOUR PARTNERS IN SUCCESSFULLY RECRUITING A QUALITY WORKFORCE</h3>
-              <p>&nbsp;</p>
+
               <h4>As your farm labor contractor, CIERTO</h4>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
               <p>&nbsp;</p>
               <div class="row">
                 <div class="col-sm-4">
@@ -351,7 +168,7 @@
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>02. Ensures that you have full transparency and an understanding of your labor supply chain.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -371,7 +188,7 @@
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>03. Ensures that you meet H-2A federal compliance standards.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -383,17 +200,17 @@
                   </div>
 
                 </div>
-                <div class="col-sm-4">
-                  <div class="servicio">
+                <div class="col-sm-8">
+                  <div class="servicio" style="    padding-top: 4%;">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>04. Trains farmworkers to refine transferrable skills that lead to stable labor opportunities and increased job satisfaction while contributing to higher levels of productivity and care in harvesting your products.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
                       04
                     </div>
-                    <div class="texto col-xs-8">
+                    <div class="texto col-xs-8" style="margin-top: 6%;">
                       Productivity
                     </div>
                   </div>
@@ -407,7 +224,7 @@
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>05. Differentiates your business among retailers and consumers who value socially responsible products and practices.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -423,7 +240,7 @@
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>06.  Positions you as a leader in implementing practices for production, distribution and consumption free of exploitation.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -438,7 +255,7 @@
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                        <p>07. Troubleshoots and addresses relevant issues throughout the duration of the labor contract.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -468,7 +285,7 @@
                   <div class="col-md-4 col-xs-4">
 
                     <div class="letra">
-                      A<br><span>opportunity</span>
+                      A<br><br><span>opportunity</span>
                     </div>
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
@@ -479,13 +296,15 @@
                   </div>
                 </div>
               </div>
+<div class="separadorgris wow bounceInDown">
 
+</div>
               <div class="row">
                 <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
 
                     <div class="letra">
-                      B<br><span>integration</span>
+                      B<br><br><span>Integration</span>
                     </div>
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
@@ -496,13 +315,15 @@
                   </div>
                 </div>
               </div>
+<div class="separadorgris wow bounceInDown">
 
+</div>
               <div class="row">
                 <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
 
                     <div class="letra">
-                      C<br><span>Levels of productivity</span>
+                      C<br><br><span>Levels of productivity</span>
                     </div>
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
@@ -513,13 +334,15 @@
                   </div>
                 </div>
               </div>
+<div class="separadorgris wow bounceInDown">
 
+</div>
               <div class="row">
                 <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
 
                     <div class="letra">
-                      D<br><span>Excellent products</span>
+                      D<br><br><span>Excellent products</span>
                     </div>
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">

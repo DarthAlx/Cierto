@@ -80,10 +80,13 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
+              <div class="row">
+                <div class="col-md-6 col-md-offset-3 wow bounceInDown">
               <h3 class="text-center">OUR SERVICE</h3>
               <p>&nbsp;</p>
               <p class="text-center">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p>
-
+              </div>
+            </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -92,7 +95,7 @@
                       01 <img src="images/ico1.png" alt=""><br><span>Initial Consultation and Screening </span><br><p>We prioritize relationships over transactions.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
                       <p>• CIERTO sets up an initial, in-person meeting to understand your specific and unique needs and establish direct, open communication.</p>
 <p>&nbsp;</p>
@@ -109,7 +112,9 @@
                   </div>
                 </div>
               </div>
+              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
 
+              </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -118,7 +123,7 @@
                       02 <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
                       <p>
                         • CIERTO handles the entire recruitment process, applying transparent, honest and humane practices that respect workers while screening for those most qualified and protecting you from potential unlawful activities.</p>
@@ -127,14 +132,16 @@
 <p>&nbsp;</p>
 <p>• CIERTO has well-established networks and trusted community partners across Mexico who help identify qualified talent; wherever possible, we match expertise to the crops grown</p>
 <p>&nbsp;</p>
-<p style="text-align:right !important;">Optional: When growers require recruitment of labor from specific geographic areas, we will conduct additional research in the form of a risk analysis. This extra step will incur an additional fee.</p>
+<p class="col-sm-offset-3" style=" text-align:right !important;">Optional: When growers require recruitment of labor from specific geographic areas, we will conduct additional research in the form of a risk analysis. This extra step will incur an additional fee.</p>
 
                     </div>
 
                   </div>
                 </div>
               </div>
+              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
 
+              </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -143,7 +150,7 @@
                       03 <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
                       <p>
                         • Housing,catering and transportation must be negotiated and secured before filing a petition, and legal counsel must be consulted to ensure all documents are accurate.</p>
@@ -157,7 +164,9 @@
                   </div>
                 </div>
               </div>
+              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
 
+              </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -166,7 +175,7 @@
                       04 <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
 <p>• A high-performing workforce makes all the difference in how efficient and effective your farm operates, and on the quality of your produce.</p>
 <p>&nbsp;</p>
@@ -176,7 +185,7 @@
 <p>&nbsp;</p>
 <p>• Training modules help workers develop an understanding of their role and expectations as farm laborers and build valuable skills. We cover such topics as understanding the worksite; understanding their value and contribution to the food supply chain; problem solving; active listening; conflict resolution; teamwork; and personal and food safety.</p>
 <p>&nbsp;</p>
-<p style="text-align:right !important;">Optional: You can add custom training modules for an additional fee.</p>
+<p class="col-sm-offset-3" style="text-align:right !important;">Optional: You can add custom training modules for an additional fee.</p>
 
 
                     </div>
@@ -185,7 +194,9 @@
                 </div>
               </div>
 
+              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
 
+              </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -194,7 +205,7 @@
                       05 <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
 <p>• We transport successful graduates of our training program to the Mexico-U.S. border to complete 1-90 documentatio, conduct an interview and cross passport control. </p>
 <p>&nbsp;</p>
@@ -206,7 +217,9 @@
                   </div>
                 </div>
               </div>
+              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
 
+              </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
@@ -215,7 +228,7 @@
                       06 <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p>
                     </div>
                   </div>
-                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                  <div class="col-xs-7 col-xs-offset-1">
                     <div class="texto">
 <p>• We know that sometimes things happen, and unforeseen problems emerge. We are there to help troubleshoot and resolve any issues that may arise. </p>
 <p>&nbsp;</p>
@@ -265,13 +278,13 @@
               <p>&nbsp;</p>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio">
+                  <div class="servicio" style="padding-top: 5%;">
                     <div class="overlay">
                       <div class="text col-xs-12">
                         <p>The H-2A temporary agricultural program establishes a means of agricultural employers who anticipate a shortage of domestic workers to bring non-immigrant foreign workers to the U.S. to perform agricultural labor of a temporary or seasonal nature. </p>
                       </div>
                     </div>
-                    <div class="numero col-xs-4">
+                    <div class="numero col-xs-4 text-center">
                       A
                     </div>
                     <div class="texto col-xs-8">
@@ -283,7 +296,7 @@
               </div>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio" style="height: 500px;">
+                  <div class="servicio" style="height: 500px;     padding-top: 5%;">
                     <div class="overlay">
                       <div class="text col-xs-12">
                         <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>
@@ -297,7 +310,7 @@
 <p>To demonstrate the above factors, employers are required to recruit and hire US workers and to offer certain labor protections required by the program, such as minimum wage requirements and free housing, among others.</p>
                       </div>
                     </div>
-                    <div class="numero col-xs-4">
+                    <div class="numero col-xs-4 text-center">
                       B
                     </div>
                     <div class="texto col-xs-8">

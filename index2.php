@@ -298,7 +298,7 @@
                   		<!-- LAYER NR. 3 -->
                   		<div class="tp-caption   tp-resizeme"
                   			 id="slide-11-layer-3"
-                  			 data-x="1010"
+                  			 data-x="1030"
                   			 data-y="320"
                   						data-width="['auto']"
                   			data-height="['auto']"

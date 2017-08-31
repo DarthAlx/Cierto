@@ -79,7 +79,7 @@ ul li{
   background: #ff6600;
   color: #fff;
   border-color: #ff6600;
-  font-weight: lighter;
+  font-weight: normal;
 }
 .menu{
   background: #006600;
@@ -256,6 +256,8 @@ padding-bottom: 12vh;
 }
 .servicionums .fondo{
   background: #f4f4f4 !important;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 .footer{
@@ -327,6 +329,7 @@ padding-bottom: 12vh;
   font-size: 20px;
   position: absolute;
   overflow: hidden;
+  padding: 0 35px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -369,8 +372,8 @@ padding-bottom: 12vh;
 }
 .maqueta .servicio .linea {
 
-  -webkit-transition: width 1s !important; /* Safari */
-    transition: width 1s !important;
+  -webkit-transition: width 0.5s !important; /* Safari */
+    transition: width 0.5s !important;
     width: 65px !important;
 }
 .maqueta .servicio:hover .linea {
@@ -445,9 +448,7 @@ margin-top: 7%;
 }
 
 @media (min-width: 767px) {
-  .search {
-    overflow: auto;
-}
+
   .about4 .letra {
 
       padding: 0px !important;
@@ -534,7 +535,7 @@ margin-top: 7%;
     font-weight: bold;
     color: #666666;
     float: left;
-
+    margin-top: 20px;
     line-height: 0.3;
 
     padding: 10px 0 0 25px;
@@ -548,9 +549,12 @@ margin-top: 7%;
 }
 
 .search{
+
     padding: 30px 0;
+    padding-left: 25px;
     border-left: 10px solid #ff6600;
-    margin-top: 100px;
+    margin-top: 70px;
+margin-bottom: 70PX;
 }
 .about4 .texto {
   position: relative;
@@ -634,9 +638,14 @@ margin-top: 7%;
 }
 .textabout2 h4{
   color: #fff !important;
+  font-weight: 800;
+    font-style: italic;
 }
 
 .about3 .servicio{
+      border-top: 7px solid #ff6600 !important;
+}
+.servicios3 .servicio{
       border-top: 7px solid #ff6600 !important;
 }
 
@@ -716,4 +725,16 @@ transform: translate(-50%, -50%);
 }
 .ourteam img{
   cursor: pointer !important;
+}
+.separadorgris{
+  background: #f3f3f3;
+    width: calc(100% + 60px);
+    height: 5px;
+    margin-left: -30px;
+}
+.separadorblanco {
+    background: #fff;
+    width: calc(100% + 160px);
+    height: 5px;
+    margin-left: -80px;
 }
