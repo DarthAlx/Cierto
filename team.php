@@ -103,12 +103,12 @@
 
           </div>
           <div class="row">
-            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam1">
+            <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam1">
               <h4 id="team1">Team CIERTO</h4>
               <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.png'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
-            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam2">
+            <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam2">
               <h4 id="team2">Team CIERTO</h4>
               <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.png'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
             </div>
@@ -116,12 +116,12 @@
           </div>
           <p>&nbsp;</p>
           <div class="row">
-            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam3">
+            <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam3">
               <h4 id="team3">Team CIERTO</h4>
               <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.png'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
-            <div class="col-sm-6" data-toggle="modal" data-target="#modalteam4">
+            <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam4">
               <h4 id="team4">Team CIERTO</h4>
               <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.png'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
             </div>
