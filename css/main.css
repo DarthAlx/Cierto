@@ -681,7 +681,28 @@ transform: translate(-50%, -50%);
 .team1 .fondo{
   background: url(../images/04_MODULO_JOE.jpg) no-repeat center center;
   background-size: cover;
-  background-position: bottom left;
+  background-position: top left;
+  width: 100%;
+  height: 100vh;
+}
+.team2 .fondo{
+  background: url(../images/04_MODULO_CESAR.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: top right;
+  width: 100%;
+  height: 100vh;
+}
+.team3 .fondo{
+  background: url(../images/04_MODULO_AXEL.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: top left;
+  width: 100%;
+  height: 100vh;
+}
+.team4 .fondo{
+  background: url(../images/04_MODULO_NORMA.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: top right;
   width: 100%;
   height: 100vh;
 }

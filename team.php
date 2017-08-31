@@ -208,6 +208,93 @@
       </div>
     </div>
 
+    <div class="modal fade modalteams" id="modalteam2" tabindex="-1" role="dialog" aria-labelledby="team2">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <section class="team2">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 fondo">
+                    <div class="row">
+                      <div class="col-md-6 cuadroblanco">
+                        <span class="linea"></span>
+                        <h3>CESAR ALVAREZ</h3>
+                        <h4>Executive Director</h4>
+                        <p>&nbsp;</p>
+                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>&nbsp;</p>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade modalteams" id="modalteam3" tabindex="-1" role="dialog" aria-labelledby="team3">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <section class="team3">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 fondo">
+                    <div class="row">
+                      <div class="col-md-6 cuadroblanco col-md-offset-6">
+                        <span class="linea"></span>
+                        <h3>AXEL</h3>
+                        <h4>Executive Director</h4>
+                        <p>&nbsp;</p>
+                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>&nbsp;</p>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade modalteams" id="modalteam4" tabindex="-1" role="dialog" aria-labelledby="team4">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <section class="team4">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-xs-12 fondo">
+                    <div class="row">
+                      <div class="col-md-6 cuadroblanco">
+                        <span class="linea"></span>
+                        <h3>NORMA ENCINAS</h3>
+                        <h4>Executive Director</h4>
+                        <p>&nbsp;</p>
+                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>&nbsp;</p>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+
 
 
 

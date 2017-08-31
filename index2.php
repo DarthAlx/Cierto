@@ -511,8 +511,8 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
-                <div class="col-sm-6 col-sm-offset-3">
-                  <img src="images/iconos.png" class="img-responsive" alt="" style="width: 100%">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-6 colxs-offset-3">
+                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
                 </div>
               </div>
               <div class="row">
@@ -549,7 +549,7 @@
               </p>
             </div>
             <div class="col-sm-2 col-xs-6">
-              <h3>Seccions</h3>
+              <h3>Sections</h3>
               <br>
               <p>
                 <a href="#">What makes us different</a><br>

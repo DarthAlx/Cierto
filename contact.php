@@ -192,7 +192,7 @@
               </p>
             </div>
             <div class="col-sm-2 col-xs-6">
-              <h3>Seccions</h3>
+              <h3>Sections</h3>
               <br>
               <p>
                 <a href="#">What makes us different</a><br>
