@@ -48,16 +48,21 @@
             </div>
           </div>
           <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href="/index2.php">INICIO</a>
-      	     <a href="/info.php">ACERCA DE CIERTO</a>
-            <a href="#">CADENA DE PRODUCCIÓN</a>
-            <a href="/servicios.php">SERVICIO</a>
-            <a href="#">EQUIPO CIERTO</a>
-            <a href="#">ENTRENAMIENTO</a>
-      			<a href="#">CONTACTO</a>
-            <a href="#">ENTRAR</a>
-            <a href="#">IDIOMA</a>
+          <div class="overlay-content container-fluid">
+            <div class="row">
+              <div class="col-sm-12">
+                <a href="/index2.php">INICIO</a>
+          	    <a href="/info.php">ACERCA DE CIERTO</a>
+                <a href="#">CADENA DE PRODUCCIÓN</a>
+                <a href="/servicios.php">SERVICIO</a>
+                <a href="#">EQUIPO CIERTO</a>
+                <a href="#">ENTRENAMIENTO</a>
+          			<a href="#">CONTACTO</a>
+                <a href="#">ENTRAR</a>
+                <a href="#">IDIOMA</a>
+              </div>
+            </div>
+
           </div>
 
         </div>
