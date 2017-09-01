@@ -81,6 +81,11 @@ ul li{
   border-color: #ff6600;
   font-weight: normal;
 }
+.btn-primary:hover {
+    color: #fff;
+    background-color: #006600;
+    border-color: #006600;
+}
 .menu{
   background: #006600;
   color: #fff;

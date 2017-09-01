@@ -221,9 +221,11 @@
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>CESAR ALVAREZ</h3>
-                        <h4>Executive Director</h4>
+                        <h4>Capacitador</h4>
                         <p>&nbsp;</p>
-                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>Cesar Alvarez has worked for over 20 years in rural communities with immigrant agricultural workers within Mexico, as well as with workers immigrating to the USA and Canada. One of his job responsibilities is to prevent fraud US work visas process for temporary workers in agriculture, or H2A.</p>
+                        <p>With CIERTO Cesar oversees our recruitment from communities of origin in Mexico. Cesar forms working groups among the agricultural workers who then go to the US using the H2A visa. Additionally Cesar provides training in as well as in personal growth to the agricultural workers to help them develop the necessary skills and abilities that allow for a positive work experience.</p>
+                        <p>Cesar Alvarez was born in San Luis Potosi, Mexico where he currently resides with his family. He has a Bachelor’s degree in Economics from the Universidad Autonoma de San Luis.</p>
                         <p>&nbsp;</p>
 
                       </div>
@@ -250,9 +252,10 @@
                       <div class="col-md-6 cuadroblanco col-md-offset-6">
                         <span class="linea"></span>
                         <h3>AXEL</h3>
-                        <h4>Executive Director</h4>
+                        <h4>Director</h4>
                         <p>&nbsp;</p>
-                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>Axel García has over twenty years’ experience working with migrants, refugees and in human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>
+                        <p>Axel holds a law degree from the Universidad Marista and studied diplomates different courses of human rights, migration and governance. He has written many texts on migration and human rights and has taught dozens of courses on migration, human rights and protection of human rights defenders in Mexico, Central America and Europe.</p>
                         <p>&nbsp;</p>
 
                       </div>
@@ -279,9 +282,9 @@
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>NORMA ENCINAS</h3>
-                        <h4>Executive Director</h4>
+                        <h4>H2A program manager</h4>
                         <p>&nbsp;</p>
-                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>Norma Encinas has been working progressively in the H2A program for over 9 years, successfully processing and delivering more than 8,000 H2A workers to Arizona and California. Norma’s original contact with the program was while working in the state of Arizona as a Migrant Seasonal outreach worker, where she provided services to the agricultural community. She then relocated and began working as an H2A visa consultant with various growers as well as farm labor contractors.</p>
                         <p>&nbsp;</p>
 
                       </div>
