@@ -28,7 +28,7 @@
             </div>
             <div class="col-sm-11 col-xs-9">
               <div class="logo">
-                <img class="img-responsive" src="img/logo.png" alt="">
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -48,16 +48,20 @@
             </div>
           </div>
           <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href="/index2.php">INICIO</a>
-      	     <a href="/info.php">ACERCA DE CIERTO</a>
-            <a href="#">CADENA DE PRODUCCIÓN</a>
-            <a href="/servicios.php">SERVICIO</a>
-            <a href="#">EQUIPO CIERTO</a>
-            <a href="#">ENTRENAMIENTO</a>
-      			<a href="#">CONTACTO</a>
-            <a href="#">ENTRAR</a>
-            <a href="#">IDIOMA</a>
+          <div class="overlay-content container-fluid">
+            <div class="row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <a href="index2.php">Home</a>
+          	    <a href="about.php">About</a>
+                <a href="services.php">Services</a>
+                <a href="team.php">Team</a>
+                <a href="contact">Contact</a>
+                <a href="entrar">Access</a>
+          			<a href="#">Languages</a>
+
+              </div>
+            </div>
+
           </div>
 
         </div>
@@ -130,7 +134,29 @@
         </div>
       </section>
 
-
+      <section class="seccion contacto">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row" style="position: absolute; bottom: 55vh; width: 100%;">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
+                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
+                  <span class="linea"></span>
+                  <h3>CONTACT US</h3>
+                  <p>&nbsp;</p>
+                  <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
+                  <p>&nbsp;</p>
+                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <section class="seccion footer">
         <div class="container-fluid">
           <div class="row">
@@ -189,6 +215,7 @@
                 <div class="row">
                   <div class="col-xs-12 fondo">
                     <div class="row">
+                      <img src="images/04_MODULO_JOE.jpg" class="img-responsive visible-xs">
                       <div class="col-md-6 cuadroblanco col-md-offset-6">
                         <span class="linea"></span>
                         <h3>JOE MARTINEZ</h3>
@@ -208,6 +235,28 @@
       </div>
     </div>
 
+    <div class="modal fade " id="modalteam11" tabindex="-1" role="dialog" aria-labelledby="team1">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+
+                      <img src="images/04_MODULO_JOE.jpg" class="img-responsive visible-xs">
+                      <div >
+                        <span class="linea"></span>
+                        <h3>JOE MARTINEZ</h3>
+                        <h4>Executive Director</h4>
+                        <p>&nbsp;</p>
+                        <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
+                        <p>&nbsp;</p>
+
+                      </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="modal fade modalteams" id="modalteam2" tabindex="-1" role="dialog" aria-labelledby="team2">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -218,6 +267,7 @@
                 <div class="row">
                   <div class="col-xs-12 fondo">
                     <div class="row">
+                      <img src="images/04_MODULO_CESAR.jpg" class="img-responsive visible-xs">
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>CESAR ALVAREZ</h3>
@@ -249,7 +299,9 @@
                 <div class="row">
                   <div class="col-xs-12 fondo">
                     <div class="row">
+<img src="images/04_MODULO_AXEL.jpg" class="img-responsive visible-xs">
                       <div class="col-md-6 cuadroblanco col-md-offset-6">
+
                         <span class="linea"></span>
                         <h3>AXEL</h3>
                         <h4>Director</h4>
@@ -279,6 +331,7 @@
                 <div class="row">
                   <div class="col-xs-12 fondo">
                     <div class="row">
+                      <img src="images/04_MODULO_NORMA.jpg" class="img-responsive visible-xs">
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>NORMA ENCINAS</h3>

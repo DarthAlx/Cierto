@@ -236,7 +236,6 @@ padding-bottom: 12vh;
 .servicios3 .fondo{
   background: #fff;
   width: 100%;
-  height: 100vh;
   padding-top: 12vh;
 padding-left: 30px;
 padding-right: 30px;
@@ -387,11 +386,57 @@ padding-bottom: 12vh;
 }
 
 
+@media (max-width: 414px) {
+
+  .about3 .servicio .texto {
+    margin-top: 8% !important;
+}
+.servicionums .fondo {
+     padding-left: 30px;
+     padding-right: 30px;
+}
+.servicio.grande{
+  height: 755px;     padding-top: 5%;
+}
+.servicio.chico{
+  height: 264px; padding-top: 5%;
+}
+}
 
 
+
+@media (max-width: 320px) {
+  .servicios .fondo {
+     padding-left: 0px;
+     padding-right: 0px;
+  }
+  .about3 .servicio .texto {
+    margin-top: 11% !important;
+}
+}
+.servicios3 .servicio .overlay {
+    width: 100%;
+    margin-left: 0px;
+}
+@media (min-width: 766px) {
+  .servicio.grande{
+    height: 540px;     padding-top: 5%;
+  }
+}
 
 
 @media (max-width: 766px) {
+  .team1 .fondo {
+    height: 125vh !important;
+}
+.team4 .fondo {
+  height: 125vh !important;
+}
+.modalteams .cuadroblanco {
+     position: inherit;
+     padding: 15px;
+}
+
   .team .fondo{
     height: 50vh !important;
     background-position: top center;
@@ -428,7 +473,7 @@ padding-bottom: 12vh;
     font-size: 30px;
   }
   .footer {
-    padding: 1vh !important;
+    padding: 8vh 2vw 8vh 2vw !important;
 }
 .about4 .letra {
     font-size: 60px;
@@ -595,9 +640,9 @@ margin-bottom: 70PX;
 
 /* The navigation links inside the overlay */
 .menu .overlay a {
-    padding: 8px;
+    padding: 8px 50px 8px 0;
     text-decoration: none;
-    font-size: 40pt;
+    font-size: 36px;
     color: #fff;
     display: block; /* Display block instead of inline */
     transition: 0.3s; /* Transition effects on hover (color) */
@@ -752,4 +797,8 @@ transform: translate(-50%, -50%);
 .servicio3 .servicio .overlay {
     width: 100%;
     margin-left: 0px;
+}
+.maque .fa-times{
+  z-index: 9999999999 !important;
+    position: relative !important;
 }

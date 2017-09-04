@@ -28,7 +28,7 @@
             </div>
             <div class="col-sm-11 col-xs-9">
               <div class="logo">
-                <img class="img-responsive" src="img/logo.png" alt="">
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -50,16 +50,15 @@
           <!-- Overlay content -->
           <div class="overlay-content container-fluid">
             <div class="row">
-              <div class="col-sm-12">
-                <a href="/index2.php">INICIO</a>
-          	    <a href="/info.php">ACERCA DE CIERTO</a>
-                <a href="#">CADENA DE PRODUCCIÓN</a>
-                <a href="/servicios.php">SERVICIO</a>
-                <a href="#">EQUIPO CIERTO</a>
-                <a href="#">ENTRENAMIENTO</a>
-          			<a href="#">CONTACTO</a>
-                <a href="#">ENTRAR</a>
-                <a href="#">IDIOMA</a>
+              <div class="col-sm-10 col-sm-offset-1">
+                <a href="index2.php">Home</a>
+          	    <a href="about.php">About</a>
+                <a href="services.php">Services</a>
+                <a href="team.php">Team</a>
+                <a href="contact">Contact</a>
+                <a href="entrar">Access</a>
+          			<a href="#">Languages</a>
+
               </div>
             </div>
 
@@ -99,7 +98,7 @@
 
                   <h3 class=" wow bounceInRight" style="margin-top:0px;">OUR SERVICE</h3>
                   <p>&nbsp;</p>
-                  <p class=" wow bounceInRight">Our proven six-step process is designed to meet the needs and represent the best <br> interests of both growers and farmworkers.</p>
+                  <p class=" wow bounceInRight">Our proven six-step process is designed to meet the needs and represent the best <span class="hidden-xs"><br></span> interests of both growers and farmworkers.</p>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
@@ -518,8 +517,8 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
-                <div class="col-sm-4 col-sm-offset-4 col-xs-6 colxs-offset-3">
+              <div class="row" style="position: absolute; bottom: 55vh; width: 100%;">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
                   <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
                 </div>
               </div>
@@ -528,7 +527,7 @@
                   <span class="linea"></span>
                   <h3>CONTACT US</h3>
                   <p>&nbsp;</p>
-                  <p>For questions, please send us a message and we will get back <br>to you promptly.</p>
+                  <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
                   <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
@@ -591,7 +590,7 @@
     <div class="modal fade" id="trabajador" tabindex="-1" role="dialog" aria-labelledby="trabajador">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
-          <div class="modal-body">
+          <div class="modal-body maque">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
             <div class="container">
               <div class="row">
@@ -621,7 +620,7 @@
     <div class="modal fade" id="agroindustria" tabindex="-1" role="dialog" aria-labelledby="agroindustria">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
-          <div class="modal-body">
+          <div class="modal-body maque">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
             <div class="container">
               <div class="row">
@@ -678,7 +677,7 @@ Ensure a mechanism with social responsibility allows the unlocking of market opp
     <div class="modal fade" id="vendedor" tabindex="-1" role="dialog" aria-labelledby="vendedor">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
-          <div class="modal-body">
+          <div class="modal-body maque">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
             <div class="container">
               <div class="row">
@@ -705,7 +704,7 @@ Ensure a mechanism with social responsibility allows the unlocking of market opp
     <div class="modal fade" id="consumidor" tabindex="-1" role="dialog" aria-labelledby="consumidor">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
-          <div class="modal-body">
+          <div class="modal-body maque">
             <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
             <div class="container">
               <div class="row">

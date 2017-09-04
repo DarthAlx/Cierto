@@ -540,8 +540,8 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
-                <div class="col-sm-4 col-sm-offset-4 col-xs-6 colxs-offset-3">
+              <div class="row" style="position: absolute; bottom: 55vh; width: 100%;">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
                   <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
                 </div>
               </div>
@@ -550,7 +550,7 @@
                   <span class="linea"></span>
                   <h3>CONTACT US</h3>
                   <p>&nbsp;</p>
-                  <p>For questions, please send us a message and we will get back <br>to you promptly.</p>
+                  <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
                   <p>&nbsp;</p>
                   <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>

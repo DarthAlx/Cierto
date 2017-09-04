@@ -28,7 +28,7 @@
             </div>
             <div class="col-sm-11 col-xs-9">
               <div class="logo">
-                <img class="img-responsive" src="img/logo.png" alt="">
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -48,16 +48,20 @@
             </div>
           </div>
           <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href="/index2.php">INICIO</a>
-      	     <a href="/info.php">ACERCA DE CIERTO</a>
-            <a href="#">CADENA DE PRODUCCIÓN</a>
-            <a href="/servicios.php">SERVICIO</a>
-            <a href="#">EQUIPO CIERTO</a>
-            <a href="#">ENTRENAMIENTO</a>
-      			<a href="#">CONTACTO</a>
-            <a href="#">ENTRAR</a>
-            <a href="#">IDIOMA</a>
+          <div class="overlay-content container-fluid">
+            <div class="row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <a href="index2.php">Home</a>
+          	    <a href="about.php">About</a>
+                <a href="services.php">Services</a>
+                <a href="team.php">Team</a>
+                <a href="contact">Contact</a>
+                <a href="entrar">Access</a>
+          			<a href="#">Languages</a>
+
+              </div>
+            </div>
+
           </div>
 
         </div>
