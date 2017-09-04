@@ -89,14 +89,14 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-7 sep-top-2x">
-              <div class=" wow bounceInLeft" >
-                <h3>OUR TEAM</h3>
+              <div >
+                <h3 class=" wow bounceInLeft">OUR TEAM</h3>
                 <p>&nbsp;</p><p>&nbsp;</p>
 
-                <p class="sep-top-xs">
+                <p class="sep-top-xs wow bounceInLeft">
                   Somos especialistas en el tema de la cadena productiva agrícola, establecemos un contacto profesional y respetuoso con las personas con quienes trabajamos.
                 </p>
-                <p>Desempeñamos nuestra labor con ética profesional de por medio, buscamos en cada actividad obtener resultados favorables. Anteponemos el profesionalismo y generamos alianzas a traves de la confianza con el resultado de nuestro servicio.</p>
+                <p class=" wow bounceInLeft">Desempeñamos nuestra labor con ética profesional de por medio, buscamos en cada actividad obtener resultados favorables. Anteponemos el profesionalismo y generamos alianzas a traves de la confianza con el resultado de nuestro servicio.</p>
                 <p>&nbsp;</p><p>&nbsp;</p>
               </div>
             </div>

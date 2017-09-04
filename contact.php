@@ -93,11 +93,11 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-3 sep-top-2x">
-              <div class=" wow bounceInLeft" >
-                <h3>CONTACT</h3>
+              <div >
+                <h3 class=" wow bounceInLeft">CONTACT</h3>
                 <p>&nbsp;</p><p>&nbsp;</p>
-                <h4>CIERTO GLOBAL</h4>
-                <p class="sep-top-xs">
+                <h4 class=" wow bounceInLeft">CIERTO GLOBAL</h4>
+                <p class="sep-top-xs wow bounceInLeft">
                   For questions, please send us a message and we will get back to you promptly.
                 </p>
 
@@ -134,7 +134,7 @@
                     </div>
                     <div class="col-md-6 sep-top-xs">
                       <div class="form-group">
-                        <label for="email" class="upper">Correo electronico</label>
+                        <label for="email" class="upper">E-mail</label>
                         <input id="email" type="email" placeholder="yourmail@example.com" name="senderEmail" class="form-control input-lg required email">
                       </div>
                     </div>

@@ -748,3 +748,8 @@ transform: translate(-50%, -50%);
     height: 5px;
     margin-left: -80px;
 }
+
+.servicio3 .servicio .overlay {
+    width: 100%;
+    margin-left: 0px;
+}

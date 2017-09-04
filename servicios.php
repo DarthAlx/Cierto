@@ -81,10 +81,10 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <div class="col-md-6 col-md-offset-3 wow bounceInDown">
-              <h3 class="text-center">OUR SERVICE</h3>
+                <div class="col-md-6 col-md-offset-3">
+              <h3 class="text-center wow bounceInUp">OUR SERVICE</h3>
               <p>&nbsp;</p>
-              <p class="text-center">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p>
+              <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p>
               </div>
             </div>
               <div class="row">
@@ -132,7 +132,7 @@
 <p>&nbsp;</p>
 <p>• CIERTO has well-established networks and trusted community partners across Mexico who help identify qualified talent; wherever possible, we match expertise to the crops grown</p>
 <p>&nbsp;</p>
-<p class="col-sm-offset-3" style=" text-align:right !important;">Optional: When growers require recruitment of labor from specific geographic areas, we will conduct additional research in the form of a risk analysis. This extra step will incur an additional fee.</p>
+<p class="col-sm-offset-3" style=" text-align:right !important; font-style: italic;">Optional: When growers require recruitment of labor from specific geographic areas, we will conduct additional research in the form of a risk analysis. This extra step will incur an additional fee.</p>
 
                     </div>
 
@@ -185,7 +185,7 @@
 <p>&nbsp;</p>
 <p>• Training modules help workers develop an understanding of their role and expectations as farm laborers and build valuable skills. We cover such topics as understanding the worksite; understanding their value and contribution to the food supply chain; problem solving; active listening; conflict resolution; teamwork; and personal and food safety.</p>
 <p>&nbsp;</p>
-<p class="col-sm-offset-3" style="text-align:right !important;">Optional: You can add custom training modules for an additional fee.</p>
+<p class="col-sm-offset-3" style="text-align:right !important; font-style: italic;">Optional: You can add custom training modules for an additional fee.</p>
 
 
                     </div>
@@ -274,11 +274,11 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <h3 class="text-center">KNOW THE PROGRAM H2A</h3>
+              <h3 class="text-center wow bounceInUp">KNOW THE PROGRAM H2A</h3>
               <p>&nbsp;</p>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio" style="padding-top: 5%;">
+                  <div class="servicio wow bounceInUp" style="padding-top: 5%;">
                     <div class="overlay">
                       <div class="text col-xs-12">
                         <p>The H-2A temporary agricultural program establishes a means of agricultural employers who anticipate a shortage of domestic workers to bring non-immigrant foreign workers to the U.S. to perform agricultural labor of a temporary or seasonal nature. </p>
@@ -296,7 +296,7 @@
               </div>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio" style="height: 500px;     padding-top: 5%;">
+                  <div class="servicio wow bounceInUp" style="height: 500px;     padding-top: 5%;">
                     <div class="overlay">
                       <div class="text col-xs-12">
                         <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>

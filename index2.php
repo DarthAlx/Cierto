@@ -74,6 +74,7 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
+                <img src="images/entrada.jpg" class="img-responsive visible-xs" style="height: 305px;">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>CIERTO</h3>
@@ -103,7 +104,7 @@
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                   <div class="container-fluid">
-                    <div class="row  wow bounceInDown">
+                    <div class="row wow bounceInUp">
                       <div class="col-md-4 col-sm-4">
                         <div class="servicio">
                           <div class="overlay">
@@ -216,6 +217,7 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
+                <img src="images/diferentes.jpg" class="img-responsive visible-xs" style="height: 305px;">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>WHAT MAKES US DIFFERENT</h3>
@@ -240,7 +242,7 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12 text-center" style="padding:0px;">
-                  <h3 class="text-center wow bounceInDown">CIERTO'S IMPACT ON THE AGRICULTURAL<br>PRODUCTION CHAIN</h3>
+                  <h3 class="text-center  wow bounceInUp">CIERTO'S IMPACT ON THE AGRICULTURAL<br>PRODUCTION CHAIN</h3>
                   <p>&nbsp;</p><p>&nbsp;</p>
                   <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container  wow bounceInUp" data-alias="cierto" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                   <!-- START REVOLUTION SLIDER 5.2.4 auto mode -->
@@ -439,6 +441,7 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
+                <img src="images/entrenamiento.jpg" class="img-responsive visible-xs" style="height: 305px;">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>TRAINING</h3>

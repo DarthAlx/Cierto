@@ -92,6 +92,9 @@
                   <p>&nbsp;</p>
                   <p>CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
 <p>&nbsp;</p>
+                </div>
+                <div class=" wow bounceInLeft">
+
                   <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
                   <p>
@@ -113,7 +116,7 @@
 
 
 
-              <div class="col-md-5 col-md-offset-1 col-xs-8 col-xs-offset-2" >
+              <div class="col-md-5 col-md-offset-1 col-xs-8 col-xs-offset-2 wow bounceInRight" >
                 <img src="images/info.png" class="img-responsive" alt="">
               </div>
             </div>
@@ -141,13 +144,13 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <h3>YOUR PARTNERS IN SUCCESSFULLY RECRUITING A QUALITY WORKFORCE</h3>
+              <h3 class=" wow bounceInLeft">YOUR PARTNERS IN SUCCESSFULLY RECRUITING A QUALITY WORKFORCE</h3>
 
-              <h4>As your farm labor contractor, CIERTO</h4>
+              <h4 class=" wow bounceInLeft">As your farm labor contractor, CIERTO</h4>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
-              <div class="row">
+              <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
@@ -183,7 +186,7 @@
 
                 </div>
               </div>
-              <div class="row">
+              <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
@@ -207,10 +210,10 @@
                         <p>04. Trains farmworkers to refine transferrable skills that lead to stable labor opportunities and increased job satisfaction while contributing to higher levels of productivity and care in harvesting your products.</p>
                       </div>
                     </div>
-                    <div class="numero col-xs-4">
+                    <div class="numero col-xs-2">
                       04
                     </div>
-                    <div class="texto col-xs-8" style="margin-top: 6%;">
+                    <div class="texto col-xs-10" style="margin-top: 6%;">
                       Productivity
                     </div>
                   </div>
@@ -219,7 +222,7 @@
 
                 </div>
               </div>
-              <div class="row">
+              <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
                     <div class="overlay">
@@ -278,14 +281,14 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <h3 class="text-center">WHAT SEARCH CIERTO?</h3>
+              <h3 class="text-center wow bounceInUp">WHAT SEARCH CIERTO?</h3>
 
               <div class="row">
                 <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
                   <div class="col-md-4 col-xs-4">
 
                     <div class="letra">
-                      A<br><br><span>opportunity</span>
+                      A<br><br><span>Opportunity</span>
                     </div>
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
