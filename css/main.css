@@ -437,6 +437,16 @@ padding-bottom: 12vh;
      padding: 15px;
 }
 
+.page.inicial .cuadroblanco {
+     position: inherit;
+     padding: 15px;
+}
+.page.inicial .fondo {
+     height: fit-content !important;
+}
+.page.inicial .btn-primary {
+     margin-top: -50px !important;
+}
   .team .fondo{
     height: 50vh !important;
     background-position: top center;
@@ -496,10 +506,15 @@ margin-top: 7%;
 .search {
   overflow: auto;
 }
+.contacto .imgcierto{
+  padding: 50px 0;
+}
 }
 
 @media (min-width: 767px) {
-
+.contacto .imgcierto{
+  position: absolute; bottom: 55vh; width: 100%;
+}
   .about4 .letra {
 
       padding: 0px !important;

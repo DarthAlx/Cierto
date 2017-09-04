@@ -370,7 +370,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <div class="row" style="position: absolute; bottom: 55vh; width: 100%;">
+              <div class="row imgcierto">
                 <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
                   <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
                 </div>
@@ -382,7 +382,7 @@
                   <p>&nbsp;</p>
                   <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -394,21 +394,22 @@
       <section class="seccion footer">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-sm-2 col-xs-6">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br>
-                <a href="#">About</a><br>
-                <a href="#">Service</a><br>
-                <a href="#">Team</a><br>
-                <a href="#">Training</a><br>
-                <a href="#">Contact us</a><br>
-                <a href="#">Access</a><br>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="about.php">About</a><br>
+                <a href="services.php">Service</a><br>
+                <a href="team.php">Team</a><br>
+                <a href="contact">Contact us</a><br>
+                <a href="entrar">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>
-            <div class="col-sm-2 col-xs-6">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Sections</h3>
               <br>
               <p>
@@ -420,6 +421,7 @@
               </p>
             </div>
             <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>

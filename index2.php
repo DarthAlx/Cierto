@@ -17,7 +17,7 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
   </head>
   <body>
-    <div class="page">
+    <div class="page inicial">
       <div class="barra">
         <div class="container-fluid">
           <div class="row">
@@ -73,7 +73,7 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <img src="images/entrada.jpg" class="img-responsive visible-xs" style="height: 305px;">
+                <img src="images/entrada.jpg" class="img-responsive visible-xs">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>CIERTO</h3>
@@ -81,7 +81,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -201,7 +201,7 @@
                     </div>
                   </div>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="services.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                 </div>
@@ -216,14 +216,14 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <img src="images/diferentes.jpg" class="img-responsive visible-xs" style="height: 305px;">
+                <img src="images/diferentes.jpg" class="img-responsive visible-xs">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
                   <p>CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships. </p>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -440,14 +440,14 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <img src="images/entrenamiento.jpg" class="img-responsive visible-xs" style="height: 305px;">
+                <img src="images/entrenamiento.jpg" class="img-responsive visible-xs">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>TRAINING</h3>
                   <p>&nbsp;</p>
                   <p>CIERTO, implements a methodology that aims to professionalize the field staff with the acknowledge to their value and each one’s dignity with improvements on the productive chain. </p>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -517,7 +517,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <div class="row" style="position: absolute; bottom: 55vh; width: 100%;">
+              <div class="row imgcierto">
                 <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
                   <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
                 </div>
@@ -529,7 +529,7 @@
                   <p>&nbsp;</p>
                   <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
                   <p>&nbsp;</p>
-                  <a href="#" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -541,21 +541,22 @@
       <section class="seccion footer">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-sm-2 col-xs-6">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br>
-                <a href="#">About</a><br>
-                <a href="#">Service</a><br>
-                <a href="#">Team</a><br>
-                <a href="#">Training</a><br>
-                <a href="#">Contact us</a><br>
-                <a href="#">Access</a><br>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="about.php">About</a><br>
+                <a href="services.php">Service</a><br>
+                <a href="team.php">Team</a><br>
+                <a href="contact">Contact us</a><br>
+                <a href="entrar">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>
-            <div class="col-sm-2 col-xs-6">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Sections</h3>
               <br>
               <p>
@@ -567,6 +568,7 @@
               </p>
             </div>
             <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>
