@@ -55,8 +55,8 @@
           	    <a href="about.php">About</a>
                 <a href="services.php">Services</a>
                 <a href="team.php">Team</a>
-                <a href="contact">Contact</a>
-                <a href="entrar">Access</a>
+                <a href="contact.php">Contact</a>
+                <a href="admin">Access</a>
           			<a href="#">Languages</a>
 
               </div>
@@ -96,9 +96,9 @@
               <div class="row">
                 <div class="col-md-12">
 
-                  <h3 class=" wow bounceInRight" style="margin-top:0px;">OUR SERVICE</h3>
+                  <h3 class=" wow bounceInRight" style="margin-top:0px; padding-left: 30px; padding-right: 30px;">OUR SERVICE</h3>
                   <p>&nbsp;</p>
-                  <p class=" wow bounceInRight">Our proven six-step process is designed to meet the needs and represent the best <span class="hidden-xs"><br></span> interests of both growers and farmworkers.</p>
+                  <p class=" wow bounceInRight"  style="padding-left: 30px; padding-right: 30px;">Our proven six-step process is designed to meet the needs and represent the best <span class="hidden-xs"><br></span> interests of both growers and farmworkers.</p>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
@@ -550,8 +550,8 @@
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact">Contact us</a><br>
-                <a href="entrar">Access</a><br>
+                <a href="contact.php">Contact us</a><br>
+                <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>

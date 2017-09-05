@@ -437,15 +437,18 @@ padding-bottom: 12vh;
      padding: 15px;
 }
 
-.page.inicial .cuadroblanco {
+.cuadroblanco {
      position: inherit;
-     padding: 15px;
+     padding: 70px 15px;
+}
+.contacto .fondo {
+     height: fit-content !important;
 }
 .page.inicial .fondo {
      height: fit-content !important;
 }
 .page.inicial .btn-primary {
-     margin-top: -50px !important;
+    margin-top: -25px !important;
 }
   .team .fondo{
     height: 50vh !important;
@@ -500,8 +503,12 @@ margin-top: 7%;
     padding: 0px !important;
 }
 .servicionums .letra img {
-    max-width: 62px;
-    margin-top: 23px;
+    max-width: 60px;
+    margin-top: 0px;
+}
+.servicionums .ico3 img {
+    max-width: 28px;
+    margin-top: 0px;
 }
 .search {
   overflow: auto;
@@ -745,9 +752,14 @@ transform: translate(-50%, -50%);
 .modalteams i{
   position: absolute;
     z-index: 99999;
-    right: 30px;
     color: #fff;
     top: 30px;
+}
+#modalteam1 i, #modalteam3 i{
+  right: 30px;
+}
+#modalteam2 i, #modalteam4 i{
+  left: 30px;
 }
 .modalteams .modal-body{
   padding: 0px;

@@ -55,8 +55,8 @@
           	    <a href="about.php">About</a>
                 <a href="services.php">Services</a>
                 <a href="team.php">Team</a>
-                <a href="contact">Contact</a>
-                <a href="entrar">Access</a>
+                <a href="contact.php">Contact</a>
+                <a href="admin">Access</a>
           			<a href="#">Languages</a>
 
               </div>
@@ -88,7 +88,7 @@
                 <div class="col-md-6 col-md-offset-3">
               <h3 class="text-center wow bounceInUp">OUR SERVICE</h3>
               <p>&nbsp;</p>
-              <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p>
+              <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p><br>
               </div>
             </div>
               <div class="row">
@@ -124,7 +124,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      02 <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p>
+                      02 <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -150,8 +150,8 @@
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-12">
 
-                    <div class="letra">
-                      03 <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p>
+                    <div class="letra ico3">
+                      03 <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -176,7 +176,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      04 <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p>
+                      04 <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -206,7 +206,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      05 <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p>
+                      05 <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -229,7 +229,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      06 <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p>
+                      06 <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -375,8 +375,8 @@
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact">Contact us</a><br>
-                <a href="entrar">Access</a><br>
+                <a href="contact.php">Contact us</a><br>
+                <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>

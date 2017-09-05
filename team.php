@@ -55,8 +55,8 @@
           	    <a href="about.php">About</a>
                 <a href="services.php">Services</a>
                 <a href="team.php">Team</a>
-                <a href="contact">Contact</a>
-                <a href="entrar">Access</a>
+                <a href="contact.php">Contact</a>
+                <a href="admin">Access</a>
           			<a href="#">Languages</a>
 
               </div>
@@ -109,12 +109,12 @@
           <div class="row">
             <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam1">
               <h4 id="team1">Team CIERTO</h4>
-              <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.png'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
+              <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.jpg'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
             <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam2">
               <h4 id="team2">Team CIERTO</h4>
-              <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.png'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
+              <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.jpg'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
             </div>
 
           </div>
@@ -122,12 +122,12 @@
           <div class="row">
             <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam3">
               <h4 id="team3">Team CIERTO</h4>
-              <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.png'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
+              <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.jpg'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
             <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam4">
               <h4 id="team4">Team CIERTO</h4>
-              <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.png'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
+              <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.jpg'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
             </div>
 
           </div>
@@ -169,8 +169,8 @@
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact">Contact us</a><br>
-                <a href="entrar">Access</a><br>
+                <a href="contact.php">Contact us</a><br>
+                <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>
@@ -305,7 +305,7 @@
                       <div class="col-md-6 cuadroblanco col-md-offset-6">
 
                         <span class="linea"></span>
-                        <h3>AXEL</h3>
+                        <h3>AXEL GARCÍA</h3>
                         <h4>Director</h4>
                         <p>&nbsp;</p>
                         <p>Axel García has over twenty years’ experience working with migrants, refugees and in human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>

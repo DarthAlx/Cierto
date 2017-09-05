@@ -58,8 +58,8 @@
               <a href="about.php">About</a>
               <a href="services.php">Services</a>
               <a href="team.php">Team</a>
-              <a href="contact">Contact</a>
-              <a href="entrar">Access</a>
+              <a href="contact.php">Contact</a>
+              <a href="admin">Access</a>
               <a href="#">Languages</a>
 
             </div>
@@ -403,8 +403,8 @@
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact">Contact us</a><br>
-                <a href="entrar">Access</a><br>
+                <a href="contact.php">Contact us</a><br>
+                <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a>
               </p>
             </div>
