@@ -396,7 +396,7 @@ padding-bottom: 12vh;
      padding-right: 30px;
 }
 .servicio.grande{
-  height: 755px;     padding-top: 5%;
+    padding-top: 5%;
 }
 .servicio.chico{
   height: 264px; padding-top: 5%;
@@ -420,10 +420,12 @@ padding-bottom: 12vh;
 }
 @media (min-width: 766px) {
   .servicio.grande{
-    height: 540px;     padding-top: 5%;
+     padding-top: 5%;
   }
 }
-
+.servicio.grande,.servicio.chico  {
+   cursor: pointer;
+}
 
 @media (max-width: 766px) {
   .team1 .fondo {

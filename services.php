@@ -282,12 +282,7 @@
               <p>&nbsp;</p>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio wow bounceInUp chico">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>The H-2A temporary agricultural program establishes a means of agricultural employers who anticipate a shortage of domestic workers to bring non-immigrant foreign workers to the U.S. to perform agricultural labor of a temporary or seasonal nature. </p>
-                      </div>
-                    </div>
+                  <div class="servicio wow bounceInUp chico" data-toggle="modal" data-target="#knowa">
                     <div class="numero col-xs-4 text-center">
                       A
                     </div>
@@ -300,20 +295,7 @@
               </div>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio wow bounceInUp grande" >
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>
-<p>&nbsp;</p>
-<p>• To do this, employers must demonstrate that the job is of a temporary or seasonal nature.</p>
-
-<p>• That there are not enough U.S. workers who are “able, willing, qualified and available to perform work at the place and time needed”.</p>
-
-<p>• That the wages and working conditions of workers in the United States will not be "adversely affected" by the importation of guest workers.</p>
-<p>&nbsp;</p>
-<p>To demonstrate the above factors, employers are required to recruit and hire US workers and to offer certain labor protections required by the program, such as minimum wage requirements and free housing, among others.</p>
-                      </div>
-                    </div>
+                  <div class="servicio wow bounceInUp grande"  data-toggle="modal" data-target="#knowb">
                     <div class="numero col-xs-4 text-center">
                       B
                     </div>
@@ -409,6 +391,52 @@
       </section>
 
 
+    </div>
+
+    <div class="modal fade" id="knowa" tabindex="-1" role="dialog" aria-labelledby="knowab">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body maque" style="min-height: auto;">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>&nbsp;</p><p>&nbsp;</p>
+                  <p>The H-2A temporary agricultural program establishes a means of agricultural employers who anticipate a shortage of domestic workers to bring non-immigrant foreign workers to the U.S. to perform agricultural labor of a temporary or seasonal nature. </p>
+                    <p>&nbsp;</p><p>&nbsp;</p>
+                </div>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="knowb" tabindex="-1" role="dialog" aria-labelledby="knowb">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-body maque" style="min-height: auto;">
+            <i class="fa fa-times fa-3x pull-right" data-dismiss="modal" aria-hidden="true"></i>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>&nbsp;</p><p>&nbsp;</p>
+                  <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>
+<p>&nbsp;</p>
+<p>• To do this, employers must demonstrate that the job is of a temporary or seasonal nature.</p>
+
+<p>• That there are not enough U.S. workers who are “able, willing, qualified and available to perform work at the place and time needed”.</p>
+
+<p>• That the wages and working conditions of workers in the United States will not be "adversely affected" by the importation of guest workers.</p>
+<p>&nbsp;</p>
+<p>To demonstrate the above factors, employers are required to recruit and hire US workers and to offer certain labor protections required by the program, such as minimum wage requirements and free housing, among others.</p>
+  <p>&nbsp;</p><p>&nbsp;</p>
+                </div>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
     </div>
 
 
