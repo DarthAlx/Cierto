@@ -304,13 +304,13 @@
                     <div class="overlay">
                       <div class="text col-xs-12">
                         <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>
-
+<p>&nbsp;</p>
 <p>• To do this, employers must demonstrate that the job is of a temporary or seasonal nature.</p>
 
 <p>• That there are not enough U.S. workers who are “able, willing, qualified and available to perform work at the place and time needed”.</p>
 
 <p>• That the wages and working conditions of workers in the United States will not be "adversely affected" by the importation of guest workers.</p>
-
+<p>&nbsp;</p>
 <p>To demonstrate the above factors, employers are required to recruit and hire US workers and to offer certain labor protections required by the program, such as minimum wage requirements and free housing, among others.</p>
                       </div>
                     </div>

@@ -104,7 +104,7 @@
                 <p class="sep-top-xs wow bounceInLeft">
                   For questions, please send us a message and we will get back to you promptly.
                 </p>
-
+                <p>&nbsp;</p><p>&nbsp;</p>
               </div>
             </div>
             <div class="col-md-offset-1 col-md-8 sep-top-2x wow bounceInRight">
