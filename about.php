@@ -24,16 +24,33 @@
     <div class="barra">
       <div class="container-fluid">
         <div class="row">
-          <div class="columna col-sm-1 col-xs-3">
+          <div class="columna col-sm-1 col-md-1 col-xs-3 visible-xs visible-sm">
             <div class="menu" id="nav-icon0" onclick="openNav()">
               <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
             </div>
           </div>
-          <div class="col-sm-11 col-xs-9">
+          <div class="col-sm-2 col-xs-9 col-md-2">
+            <div class="cuadrito pull-left hidden-xs hidden-sm">
+              &nbsp;
+            </div>
             <div class="logo">
               <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
             </div>
           </div>
+          <div class="col-md-9">
+              <nav class="circle hidden-sm hidden-xs text-right">
+                <ul>
+                  <li><a href="index2.php">Home</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="services.php">Service</a></li>
+                  <li><a href="team.php">Team</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="admin">Access</a></li>
+                  <li><a href="#">Languages</a></li>
+                </ul>
+              </nav>
+            </div>
+
         </div>
       </div>
     </div>
