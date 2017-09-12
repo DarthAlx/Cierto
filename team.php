@@ -53,7 +53,7 @@
               <div class="col-sm-10 col-sm-offset-1">
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
-                <a href="services.php">Services</a>
+                <a href="services.php">Service</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>

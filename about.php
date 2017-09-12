@@ -56,7 +56,7 @@
             <div class="col-sm-10 col-sm-offset-1">
               <a href="index2.php">Home</a>
               <a href="about.php">About</a>
-              <a href="services.php">Services</a>
+              <a href="services.php">Service</a>
               <a href="team.php">Team</a>
               <a href="contact.php">Contact</a>
               <a href="admin">Access</a>
@@ -94,8 +94,7 @@
                     Recruitment and Training
                   </h4>
                   <p>&nbsp;</p>
-                  <p>CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
-<p>&nbsp;</p>
+
                 </div>
                 <div class=" wow bounceInLeft">
 
@@ -126,6 +125,7 @@
             </div>
           </div>
       </section>
+      <img src="images/01_MODULO_W_P03.jpg" class="img-responsive" alt="">
 
 
       <section class="entrada about2">

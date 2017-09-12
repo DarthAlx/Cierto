@@ -53,7 +53,7 @@
               <div class="col-sm-10 col-sm-offset-1">
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
-                <a href="services.php">Services</a>
+                <a href="services.php">Service</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
@@ -136,7 +136,6 @@
 <p>&nbsp;</p>
 <p>• CIERTO has well-established networks and trusted community partners across Mexico who help identify qualified talent; wherever possible, we match expertise to the crops grown</p>
 <p>&nbsp;</p>
-<p class="col-sm-offset-3" style=" text-align:right !important; font-style: italic;">Optional: When growers require recruitment of labor from specific geographic areas, we will conduct additional research in the form of a risk analysis. This extra step will incur an additional fee.</p>
 
                     </div>
 
@@ -189,7 +188,6 @@
 <p>&nbsp;</p>
 <p>• Training modules help workers develop an understanding of their role and expectations as farm laborers and build valuable skills. We cover such topics as understanding the worksite; understanding their value and contribution to the food supply chain; problem solving; active listening; conflict resolution; teamwork; and personal and food safety.</p>
 <p>&nbsp;</p>
-<p class="col-sm-offset-3" style="text-align:right !important; font-style: italic;">Optional: You can add custom training modules for an additional fee.</p>
 
 
                     </div>

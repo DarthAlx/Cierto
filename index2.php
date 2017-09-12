@@ -30,6 +30,17 @@
               <div class="logo">
                 <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
+
+                <nav class="circle">
+                  <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Downloads</a></li>
+                    <li><a href="#">More</a></li>
+                    <li><a href="#">Nice staff</a></li>
+                  </ul>
+                </nav>
+
             </div>
           </div>
         </div>
@@ -53,7 +64,7 @@
               <div class="col-sm-10 col-sm-offset-1">
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
-                <a href="services.php">Services</a>
+                <a href="services.php">Service</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
