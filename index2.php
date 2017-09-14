@@ -34,7 +34,7 @@
                 <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
                     <li><a href="index2.php">Home</a></li>
