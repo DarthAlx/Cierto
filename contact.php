@@ -40,6 +40,7 @@
                     <li><a href="index2.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="services.php">Service</a></li>
+                    <li><a href="training.php">Training</a></li>
                     <li><a href="team.php">Team</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="admin">Access</a></li>
@@ -71,6 +72,7 @@
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
                 <a href="services.php">Service</a>
+                <a href="training.php">Training</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
@@ -206,6 +208,7 @@
                 <a href="index2.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
+                <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
                 <a href="contact.php">Contact us</a><br>
                 <a href="admin">Access</a><br>

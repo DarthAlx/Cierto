@@ -43,6 +43,7 @@
                   <li><a href="index2.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="services.php">Service</a></li>
+                  <li><a href="training.php">Training</a></li>
                   <li><a href="team.php">Team</a></li>
                   <li><a href="contact.php">Contact</a></li>
                   <li><a href="admin">Access</a></li>
@@ -74,6 +75,7 @@
               <a href="index2.php">Home</a>
               <a href="about.php">About</a>
               <a href="services.php">Service</a>
+              <a href="training.php">Training</a>
               <a href="team.php">Team</a>
               <a href="contact.php">Contact</a>
               <a href="admin">Access</a>
@@ -118,17 +120,13 @@
                   <h3>WHAT MAKES US DIFFERENT</h3>
                   <p>&nbsp;</p>
                   <p>
-                    CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain.
-                  </p>
+CIERTO is a certified farm labor contractor that recruits, trains and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain.                  </p>
                   <p>
                     CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships.
-                    We protect the interests of both growers and farmworkers––from recruitment using trusted networks across Mexico and ensuring the proper filing of H-2A petitions to offering training and managing all details to ensure full labor contract compliance.
 
-                  </p>
+                    We protect the interests of both growers and farmworkers––from recruitment using trusted networks across Mexico and ensuring the proper filing of H-2A petitions to offering training and managing all details to ensure full labor contract compliance.                  </p>
                   <p>
-                    CIERTO is the only farm labor contractor monitored by an independent third party to ensure the integrity of the recruitment process. We eliminate the fraudulent, corrupt and often dangerous practices that face many farmworkers coming to work in the United States and endanger the operations of growers.
-
-                  </p>
+CIERTO is the only farm labor contractor monitored by an independent third party to ensure the integrity of the recruitment process. We eliminate the fraudulent, corrupt and often dangerous practices that face many farmworkers coming to work in the United States and endanger the operations of growers.                  </p>
 
 
                 </div>
@@ -290,6 +288,21 @@
                     </div>
                   </div>
                 </div>
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>08. Places you as practices implementation leader for production, distribution and consumption free of exploitation.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      08
+                    </div>
+                    <div class="texto col-xs-8">
+                      Implementation leader
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <p>&nbsp;</p>
@@ -419,6 +432,7 @@
                 <a href="index2.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
+                <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
                 <a href="contact.php">Contact us</a><br>
                 <a href="admin">Access</a><br>

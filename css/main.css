@@ -238,6 +238,29 @@ padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 12vh;
 }
+.training1 .fondo{
+  background: url(../images/01_MODULO_W_P07.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+}
+
+.training2 .fondo{
+  background: url(../images/02_MODULO_W_P07.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+}
+.training3 .fondo{
+  background: url(../images/03_MODULO_W_P07.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+}
+
 
 .contactform{
   width: 100%;

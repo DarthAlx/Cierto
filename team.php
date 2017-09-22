@@ -40,6 +40,7 @@
                     <li><a href="index2.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="services.php">Service</a></li>
+                    <li><a href="training.php">Training</a></li>
                     <li><a href="team.php">Team</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="admin">Access</a></li>
@@ -71,6 +72,7 @@
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
                 <a href="services.php">Service</a>
+                <a href="training.php">Training</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
@@ -115,9 +117,12 @@
                 <p>&nbsp;</p><p>&nbsp;</p>
 
                 <p class="sep-top-xs wow bounceInLeft">
-                  Somos especialistas en el tema de la cadena productiva agrícola, establecemos un contacto profesional y respetuoso con las personas con quienes trabajamos.
+                  We establish a professional and respectful contact with the people we work with.
+
+We perform our work ethically, we seek to achieve positive results on each activity.
+
+We prioritize the professionalism, stablish alliances through the confidence on the result of the services we provide.
                 </p>
-                <p class=" wow bounceInLeft">Desempeñamos nuestra labor con ética profesional de por medio, buscamos en cada actividad obtener resultados favorables. Anteponemos el profesionalismo y generamos alianzas a traves de la confianza con el resultado de nuestro servicio.</p>
                 <p>&nbsp;</p><p>&nbsp;</p>
               </div>
             </div>
@@ -185,6 +190,7 @@
                 <a href="index2.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
+                <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
                 <a href="contact.php">Contact us</a><br>
                 <a href="admin">Access</a><br>

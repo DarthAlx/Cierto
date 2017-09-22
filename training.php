@@ -87,7 +87,7 @@
       </div>
 
 
-      <section class="servicios1">
+      <section class="training1">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -104,31 +104,24 @@
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <div class="col-md-6 col-md-offset-3">
-              <h3 class="text-center wow bounceInUp">CIERTO Basic Package</h3>
-              <p>&nbsp;</p>
-              <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p><br>
-              </div>
+                <div class="col-md-12">
+                  <h3 class=" wow bounceInRight" style="margin-top:0px; padding-left: 30px; padding-right: 30px;">TRAINING</h3>
+                  <p>&nbsp;</p>
+                  <p class=" wow bounceInRight"  style="padding-left: 30px; padding-right: 30px;">CIERTO seeks to professionalize the rural workers to improve the productive chain,  <span class="hidden-xs"><br></span> recognizing the value and dignity of everyone.</p>
+                  </div>
             </div>
               <div class="row">
                 <div class="col-md-12 search wow bounceInDown">
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 1: <img src="images/ico1.png" alt=""><br><span>Initial Consultation and Screening </span><br><p>We prioritize relationships over transactions.</p>
+                      A <br><span>Agroindustrial <br> sector </span>
                     </div>
                   </div>
+                  <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>• CIERTO sets up an initial, in-person meeting to understand your specific and unique needs and establish a direct and open communication.</p>
-<p>&nbsp;</p>
-<p>• We collaborate with you to identify previous labor recruitment challenges and to customize a profile that delineates clearly every aspect required of your workers on the job.</p>
-<p>&nbsp;</p>
-<p>• Close attention to detail is key to a successful H-2A visa petition and ensuring labor contract compliance.</p>
-<p>&nbsp;</p>
-<p>• We conduct an initial preliminary assessment to ensure that your workforce requirements qualify for an H-2A visa petition.</p>
-<p>&nbsp;</p>
-<p>• Successful applications result in a custom contract for labor recruitment.
+                      <p>The company will benefit from having trained and trained agricultural workers, who may provide ideas that benefit the productivity of the field.
 </p>
                     </div>
 
@@ -143,18 +136,13 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 2: <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p><br>
+                      B <br><span>Sales Sector</span><br><br>
                     </div>
                   </div>
+                  <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>
-                        • CIERTO handles the entire recruitment process, applying transparent, honest and humane practices that respect workers while screening for the most qualified prospects and protecting you from potential unlawful activities.</p>
-<p>&nbsp;</p>
-<p>• We know that once you sign a contract for labor recruitment, anything that happens with workers between the community of origin and your farm becomes your responsibility, and a potential liability if it is not done correctly.</p>
-<p>&nbsp;</p>
-<p>• CIERTO has well-established networks and trusted community partners across Mexico who help identify qualified talent; wherever possible, we match expertise to the crops grown.</p>
-<p>&nbsp;</p>
+                      <p>The supermarkets will have the certainty that the product arriving to them is of quality and has been collected by workers which has an added value. The consumer can be confident that the product that is being taken home is of quality, and the worker has been given the fair value in the production chain.</p>
 
                     </div>
 
@@ -169,119 +157,32 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra ico3">
-                      Step 3: <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p><br>
+                      C <br><span>Worker sector </span><br>
                     </div>
                   </div>
+                  <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>
-                        • Housing, catering and transportation must be negotiated and secured before filing a petition, and legal counsel must be consulted to ensure all documents are accurate.</p>
-<p>&nbsp;</p>
-<p>• CIERTO manages these details and prepares all documentation and contracts for your signature, so you can dedicate your attention to what’s most important—managing your farm.</p>
-<p>&nbsp;</p>
-<p>• CIERTO submits and oversees all visa petition filings with the workforce agency in your state, the U.S. Department of Labor and the U.S. Citizenship and Immigration Services.
-</p>
+                      <p>During the training, the worker will also be informed about their job offer. It will have the necessary tools to take care of its health, to be able to prevent sexual and labor harassment, and to be able to solve conflicts that are presented to him at work, this through peaceful dialogue, since during training you will be given tools for conflict resolution and promote assertive communication.</p>
+                      <p>During the training, several dynamics will be carried out, which aim to encourage the active participation of agricultural workers in order to enrich the information and promote an understanding of the training contents.</p>
+                      <p>At the end of the training, there will be an evaluation activity, which will be done in written  form. If necessary, this will be done through a game, which will help us to measure the learning level of the workers after the training. And it also has the purpose for workers who can not read or write to share what they learned during the training.</p>
                     </div>
 
                   </div>
                 </div>
               </div>
-              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
-
-              </div>
-              <div class="row">
-                <div class="col-md-12 search wow bounceInDown">
-                  <div class="col-md-4 col-xs-12">
-
-                    <div class="letra">
-                      Step 4: <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p><br>
-                    </div>
-                  </div>
-                  <div class="col-md-7 col-md-offset-1 col-xs-12">
-                    <div class="texto">
-<p>• A high-performing workforce makes all the difference in how efficient and effective your farm operates, and on the quality of your produce.</p>
-<p>&nbsp;</p>
-<p>• CIERTO’s proprietary 10-module, hands-on training series offers an extra round of quality screening and raises the level of professionalism of the workers we present to you. </p>
-<p>&nbsp;</p>
-<p>• We look for workers who are excited to learn and can apply what they learn to their work.</p>
-<p>&nbsp;</p>
-<p>• Training modules help workers develop an understanding of their role and expectations as farm laborers and build valuable skills. We cover such topics as understanding the worksite; understanding their value and contribution to the food supply chain; problem solving; active listening; conflict resolution; teamwork; and personal and food safety.</p>
-<p>&nbsp;</p>
-
-
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-
-              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
-
-              </div>
-              <div class="row">
-                <div class="col-md-12 search wow bounceInDown">
-                  <div class="col-md-4 col-xs-12">
-
-                    <div class="letra">
-                      Step 5: <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p><br>
-                    </div>
-                  </div>
-                  <div class="col-md-7 col-md-offset-1 col-xs-12">
-                    <div class="texto">
-<p>• We transport successful graduates of our training program to the Mexico-U.S. border to complete 1-90 documentation, conduct an interview and cross passport control. </p>
-<p>&nbsp;</p>
-<p>• We then accompany the crew to the end destination and participate in on-site orientation, providing initial transition support.</p>
-
-
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-              <div class="separadorblanco wow bounceInDown" style="background: #fff;">
-
-              </div>
-              <div class="row">
-                <div class="col-md-12 search wow bounceInDown">
-                  <div class="col-md-4 col-xs-12">
-
-                    <div class="letra">
-                      Step 6: <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p><br>
-                    </div>
-                  </div>
-                  <div class="col-md-7 col-md-offset-1 col-xs-12">
-                    <div class="texto">
-<p>• We know that sometimes things happen, and unforeseen problems emerge. We are there to help troubleshoot and resolve any issues that may arise. </p>
-<p>&nbsp;</p>
-<p>• As an added protection for both you and the workers, we have an independent third party––known and trusted by the crew because they come from a Mexican community––to check in with workers as well as ensure labor contract compliance. </p>
-<p>&nbsp;</p>
-<p>• The contract ends with CIERTO completing exit interviews with you and individual workers to learn from the experience and identify opportunities for improvement.</p>
-
-
-
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-
-
-
             </div>
           </div>
         </div>
       </section>
 
 
-      <section class="servicios2">
+      <section class="training2">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
-                <div class="col-md-5  text-left textabout2">
-                  <h4 class="wow bounceInLeft" style="font-style: italic;">“Our aim is to build a skilled, professional agricultural workforce that returns to work for you year after year.”
-                  </h4>
-                </div>
+
               </div>
 
             </div>
@@ -295,32 +196,20 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <h3 class="text-center wow bounceInUp">KNOW THE PROGRAM H2A</h3>
-              <p>&nbsp;</p>
-              <div class="row">
-                <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio wow bounceInUp chico" data-toggle="modal" data-target="#knowa">
-                    <div class="numero col-xs-4 text-center">
-                      A
-                    </div>
-                    <div class="texto col-xs-8">
-                      What is the H2A program?
-                    </div>
-                  </div>
 
+              <div class="row">
+                <div class="col-md-4 col-md-offset-1 search wow bounceInDown" style="border-left: 0px;">
+                  <div class="texto visible-xs">
+                    <h3>OBJECTIVE</h3>
+                  </div>
+                  <div class="texto text-right hidden-xs">
+                    <h3 style="margin-right: 10%;">OBJECTIVE</h3>
+                  </div>
                 </div>
-              </div>
-              <div class="row">
-                <div class="col-sm-6 col-sm-offset-3">
-                  <div class="servicio wow bounceInUp grande"  data-toggle="modal" data-target="#knowb">
-                    <div class="numero col-xs-4 text-center">
-                      B
-                    </div>
-                    <div class="texto col-xs-8">
-                      What are the requirements for the H2A program?
-                    </div>
+                <div class="col-md-4 search wow bounceInDown">
+                  <div class="texto">
+                    <p style="margin-left: 5%;">Develop the skills and abilities of agricultural workers so that their work acquires a professional dimension and positively impacts the entire fresh food production chain.</p>
                   </div>
-
                 </div>
               </div>
 
@@ -332,8 +221,21 @@
 
 
 
+      <section class="training3">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row">
 
+              </div>
 
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="separadorblanco " style="background: #fff;">
+
+      </div>
 
 
 

@@ -40,6 +40,7 @@
                     <li><a href="index2.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="services.php">Service</a></li>
+                    <li><a href="training.php">Training</a></li>
                     <li><a href="team.php">Team</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="admin">Access</a></li>
@@ -71,6 +72,7 @@
                 <a href="index2.php">Home</a>
           	    <a href="about.php">About</a>
                 <a href="services.php">Service</a>
+                <a href="training.php">Training</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
@@ -93,10 +95,9 @@
                 <img src="images/entrada.jpg" class="img-responsive visible-xs">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
-                  <h3>CIERTO</h3>
-                  <h4>Workers’ Center for Research, <br>Recruitment and Training</h4>
+                  <h3>WHO ARE WE</h3>
                   <p>&nbsp;</p>
-                  <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional agricultural workforce that is skilled, certified and brings added value to the food supply chain. </p>
+                  <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional, skilled and cetified agricultural workforce that brings added value to the food supply chain. </p>
                   <p>&nbsp;</p>
                   <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
@@ -566,6 +567,7 @@
                 <a href="index2.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
+                <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
                 <a href="contact.php">Contact us</a><br>
                 <a href="admin">Access</a><br>
