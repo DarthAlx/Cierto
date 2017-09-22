@@ -105,9 +105,9 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12">
-                  <h3 class=" wow bounceInRight" style="margin-top:0px; padding-left: 30px; padding-right: 30px;">TRAINING</h3>
+                  <h3 class=" wow bounceInRight">TRAINING</h3>
                   <p>&nbsp;</p>
-                  <p class=" wow bounceInRight"  style="padding-left: 30px; padding-right: 30px;">CIERTO seeks to professionalize the rural workers to improve the productive chain,  <span class="hidden-xs"><br></span> recognizing the value and dignity of everyone.</p>
+                  <p class=" wow bounceInRight">CIERTO seeks to professionalize the rural workers to improve the productive chain,  <span class="hidden-xs"><br></span> recognizing the value and dignity of everyone.</p>
                   </div>
             </div>
               <div class="row">
