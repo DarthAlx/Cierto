@@ -575,7 +575,7 @@
                 <a href="#">Training</a><br>
                 <a href="#">Contact us</a><br>
                 <a href="#">Access</a><br>
-                <a href="#">Lenguages</a>
+                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-6">

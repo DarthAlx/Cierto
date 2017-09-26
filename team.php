@@ -194,7 +194,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                 <a href="team.php">Team</a><br>
                 <a href="contact.php">Contact us</a><br>
                 <a href="admin">Access</a><br>
-                <a href="#">Lenguages</a>
+                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">

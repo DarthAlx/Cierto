@@ -739,6 +739,10 @@ margin-bottom: 70PX;
   padding: 12vh 0 12vh 0;
   background: #e2e2e2;
 }
+.privacy{
+  padding: 12vh 0 12vh 0;
+  background: #fff;
+}
 .textabout2{
   margin-top: 50vh;
 }
