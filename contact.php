@@ -232,8 +232,8 @@
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">info@ciertoglobal.org</a><br>
-                <a href="#">P.O. Box 8337.  </a><br>
+                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>

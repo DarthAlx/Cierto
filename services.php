@@ -115,7 +115,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 1: <img src="images/ico1.png" alt=""><br><span>Initial Consultation and Screening </span><br><p>We prioritize relationships over transactions.</p>
+                      01 <img src="images/ico1.png" alt=""><br><span>Initial Consultation and Screening </span><br><p>We prioritize relationships over transactions.</p>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -143,7 +143,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 2: <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p><br>
+                      02 <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -169,7 +169,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra ico3">
-                      Step 3: <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p><br>
+                      03 <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -194,7 +194,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 4: <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p><br>
+                      04 <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -223,7 +223,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 5: <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p><br>
+                      05 <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -246,7 +246,7 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      Step 6: <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p><br>
+                      06 <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
@@ -397,8 +397,8 @@
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">info@ciertoglobal.org</a><br>
-                <a href="#">P.O. Box 8337.  </a><br>
+                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>

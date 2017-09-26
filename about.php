@@ -262,7 +262,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                   <div class="servicio">
                     <div class="overlay">
                       <div class="text col-xs-12">
-                        <p>06.  Positions you as a leader in implementing practices for production, distribution and consumption free of exploitation.</p>
+                        <p>06. Places you as practices implementation leader for production, distribution and consumption free of exploitation.</p>
                       </div>
                     </div>
                     <div class="numero col-xs-4">
@@ -288,21 +288,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-4">
-                  <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>08. Places you as practices implementation leader for production, distribution and consumption free of exploitation.</p>
-                      </div>
-                    </div>
-                    <div class="numero col-xs-4">
-                      08
-                    </div>
-                    <div class="texto col-xs-8">
-                      Implementation leader
-                    </div>
-                  </div>
-                </div>
+
               </div>
             </div>
             <p>&nbsp;</p>
@@ -456,8 +442,8 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">info@ciertoglobal.org</a><br>
-                <a href="#">P.O. Box 8337.  </a><br>
+                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>

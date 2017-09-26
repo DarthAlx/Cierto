@@ -108,7 +108,7 @@
                     <div class="icon-content img-circle"><i class="fa fa-map-marker"></i></div>
                     <div class="icon-box-content">
                       <h6>Dirección</h6>
-                      <p>P.O. Box 8337. Tacoma, WA 98419</p>
+                      <p>P.O. Box 8157 Tacoma, WA 98419</p>
                     </div>
                   </div>
                   <!-- End icon box-->
