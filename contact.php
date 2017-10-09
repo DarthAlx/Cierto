@@ -227,14 +227,24 @@
                 <a href="#">Our Training</a><br>
               </p>
             </div>
-            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
+
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>

@@ -469,7 +469,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO, implements a methodology that aims to professionalize the field staff with the acknowledge to their value and each one’s dignity with improvements on the productive chain. </p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="training.php" class="btn btn-primary btn-lg pull-right">Read more</a>
                 </div>
               </div>
             </div>
@@ -497,7 +497,8 @@
 
                         <div class="item active">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"WE HAVE THE BEST FARM WORKERS"</h2>
+                            <h2>"IT IS THE FIRST TIME THEY VALUE MY WORK."</h2>
+                            <p style="text-align: right; color:#fff;">Estela Moreno, Farmworker.</p>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
@@ -590,14 +591,24 @@
                 <a href="#">Our Training</a><br>
               </p>
             </div>
-            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
+
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>
@@ -678,13 +689,12 @@
                   <h4>What are the benefits to agroindustry of
 cierto’s recruitment model? </h4>
                   <p>&nbsp;</p>
-                  <p><strong>Human Capital: </strong><br>
-Committed and skilled workers in quality processes.<br>
-<strong>Risk management and operating licenses: </strong><br>
-Ensure social mechanism responsibility and prevention of poor recruitment conditions and employment.<br>
-<strong>Brand positioning and market introduction: </strong><br>
-Ensure a mechanism with social responsibility allows the unlocking of market opportunities to new consumers and be a trend in the consumers.<br>
-    </p>
+                  <ul>
+                  <li><p><strong>Human Capital: </strong>Committed and skilled workers in quality processes.</p></li>
+                  <li><p><strong>Risk management and operating licenses: </strong>Ensure social mechanism responsibility and prevention of poor recruitment conditions and employment.</p></li>
+                  <li><p><strong>Brand positioning and market introduction: </strong>Ensure a mechanism with social responsibility allows the unlocking of market opportunities to new consumers and be a trend in the consumers.</p></li>
+
+                </ul>
                 </div>
               </div>
             </div>

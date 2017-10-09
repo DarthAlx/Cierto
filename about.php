@@ -140,6 +140,15 @@ CIERTO is the only farm labor contractor monitored by an independent third party
             </div>
           </div>
       </section>
+      <div class="container-fluid" style="background:#e2e2e2;">
+        <div class="row" style="">
+          <div class="col-md-5 col-md-offset-1">
+            <p style="text-style: italic; font-size: 17px; position: absolute; top: -20px;">"Full productive fresh food chain: Costco, Andrew & Williamson, Cierto, and the farmworkers"</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+
       <img src="images/01_MODULO_W_P03.jpg" class="img-responsive" alt="">
 
 
@@ -437,14 +446,24 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                 <a href="#">Our Training</a><br>
               </p>
             </div>
-            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
+
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>

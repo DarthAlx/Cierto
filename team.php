@@ -134,9 +134,9 @@ We prioritize the professionalism, stablish alliances through the confidence on 
               <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.jpg'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
-            <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam2">
-              <h4 id="team2">Team CIERTO</h4>
-              <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.jpg'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
+<div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam4">
+              <h4 id="team4">Team CIERTO</h4>
+              <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.jpg'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
             </div>
 
           </div>
@@ -147,10 +147,11 @@ We prioritize the professionalism, stablish alliances through the confidence on 
               <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.jpg'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
-            <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam4">
-              <h4 id="team4">Team CIERTO</h4>
-              <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.jpg'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
+            <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam2">
+              <h4 id="team2">Team CIERTO</h4>
+              <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.jpg'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
             </div>
+
 
           </div>
         </div>
@@ -209,14 +210,24 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                 <a href="#">Our Training</a><br>
               </p>
             </div>
-            <div class="col-sm-offset-6 col-sm-2 col-xs-12">
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
               <h3>Data</h3>
               <br>
               <p>
-                <a href="#">CIERTO</a><br><a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
+
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
                 <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>
@@ -296,7 +307,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>CESAR ALVAREZ</h3>
-                        <h4>Capacitador</h4>
+                        <h4>Director Recruiting and Training</h4>
                         <p>&nbsp;</p>
                         <p>Cesar Alvarez has worked for over 20 years in rural communities with immigrant agricultural workers within Mexico, as well as with workers immigrating to the USA and Canada. One of his job responsibilities is to prevent fraud US work visas process for temporary workers in agriculture, or H2A.</p>
                         <p>With CIERTO Cesar oversees our recruitment from communities of origin in Mexico. Cesar forms working groups among the agricultural workers who then go to the US using the H2A visa. Additionally Cesar provides training in as well as in personal growth to the agricultural workers to help them develop the necessary skills and abilities that allow for a positive work experience.</p>
@@ -329,10 +340,10 @@ We prioritize the professionalism, stablish alliances through the confidence on 
 
                         <span class="linea"></span>
                         <h3>AXEL GARCÍA</h3>
-                        <h4>Director</h4>
+                        <h4>Director Recruiting and Training</h4>
                         <p>&nbsp;</p>
-                        <p>Axel García has over twenty years’ experience working with migrants, refugees and in human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>
-                        <p>Axel holds a law degree from the Universidad Marista and studied diplomates different courses of human rights, migration and governance. He has written many texts on migration and human rights and has taught dozens of courses on migration, human rights and protection of human rights defenders in Mexico, Central America and Europe.</p>
+                        <p>Axel García has over twenty years’ experience working with migrants, refugees and human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>
+                        <p>Axel holds a law degree from the Universidad Marista and studied different courses of human rights, migration and governance. He has written many texts on migration and human rights and has taught dozens of courses on migration, human rights and protection of human rights defenders in Mexico, Central America and Europe.</p>
                         <p>&nbsp;</p>
 
                       </div>
