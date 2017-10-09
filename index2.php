@@ -96,10 +96,7 @@
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
                   <h3>CIERTO</h3>
-                  <h4>
-                    Workers’ Center for Research, <br>
-                    Recruitment and Training
-                  </h4>
+
                   <p>&nbsp;</p>
                   <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional, skilled and cetified agricultural workforce that brings added value to the food supply chain. </p>
                   <p>&nbsp;</p>
@@ -584,11 +581,11 @@
               <h3>Sections</h3>
               <br>
               <p>
-                <a href="#">What makes us different</a><br>
-                <a href="#">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="#">What search CIERTO?</a><br>
-                <a href="#">Know the program H2A</a><br>
-                <a href="#">Our Training</a><br>
+                <a href="about.php#wmud">What makes us different</a><br>
+                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
+                <a href="about.php#wsc">What search CIERTO?</a><br>
+                <a href="services.php#ktph2a">Know the program H2A</a><br>
+                <a href="training.php">Our Training</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
@@ -609,8 +606,8 @@
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
-                <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+                <a href="https://www.facebook.com/ciertoglobal/" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="mailto:info@ciertoglobal.org" target="_blank"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>
             </div>
           </div>

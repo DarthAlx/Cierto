@@ -101,17 +101,14 @@
     </section>
 
 
-      <section class="infografia">
+      <section class="infografia" id="wmud">
         <div class="container-fluid" >
             <div class="row" style="">
 
               <div class="col-md-5 col-md-offset-1">
                 <div class=" wow bounceInLeft">
                   <h3>CIERTO</h3>
-                  <h4>
-                    Workers’ Center for Research, <br>
-                    Recruitment and Training
-                  </h4>
+
                   <p>&nbsp;</p>
 
                 </div>
@@ -168,7 +165,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
         </div>
       </section>
 
-      <section class="seccion about3">
+      <section class="seccion about3" id="yp">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -306,7 +303,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
       </section>
 
 
-      <section class="seccion about4">
+      <section class="seccion about4" id="wsc">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -341,7 +338,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
                     <div class="texto">
-                      <p>• We seek to professionalize the worker, in order to raise awareness and creat human value in the agricultural production chain.</p>
+                      <p>• We seek to professionalize the worker, in order to raise awareness and create human value in the agricultural production chain.</p>
                     </div>
 
                   </div>
@@ -379,7 +376,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                   </div>
                   <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
                     <div class="texto">
-                      <p>• Providing consumers with excellent agricultural products, from production to their dining romm table.</p>
+                      <p>• Providing consumers with excellent agricultural products, from production to their dining room table.</p>
                     </div>
 
                   </div>
@@ -439,11 +436,11 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <h3>Sections</h3>
               <br>
               <p>
-                <a href="#">What makes us different</a><br>
-                <a href="#">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="#">What search CIERTO?</a><br>
-                <a href="#">Know the program H2A</a><br>
-                <a href="#">Our Training</a><br>
+                <a href="about.php#wmud">What makes us different</a><br>
+                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
+                <a href="about.php#wsc">What search CIERTO?</a><br>
+                <a href="services.php#ktph2a">Know the program H2A</a><br>
+                <a href="training.php">Our Training</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
@@ -464,8 +461,8 @@ CIERTO is the only farm labor contractor monitored by an independent third party
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
-                <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+                <a href="https://www.facebook.com/ciertoglobal/" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="mailto:info@ciertoglobal.org" target="_blank"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>
             </div>
           </div>

@@ -203,11 +203,11 @@ We prioritize the professionalism, stablish alliances through the confidence on 
               <h3>Sections</h3>
               <br>
               <p>
-                <a href="#">What makes us different</a><br>
-                <a href="#">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="#">What search CIERTO?</a><br>
-                <a href="#">Know the program H2A</a><br>
-                <a href="#">Our Training</a><br>
+                <a href="about.php#wmud">What makes us different</a><br>
+                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
+                <a href="about.php#wsc">What search CIERTO?</a><br>
+                <a href="services.php#ktph2a">Know the program H2A</a><br>
+                <a href="training.php">Our Training</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
@@ -228,8 +228,8 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                 <a href="#">P.O. Box 8157  </a><br>
                 <a href="#">Tacoma, WA 98419</a><br>
                 <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
-                <a href="#"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
-                <a href="#"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+                <a href="https://www.facebook.com/ciertoglobal/" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="mailto:info@ciertoglobal.org" target="_blank"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
               </p>
             </div>
           </div>
@@ -340,7 +340,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
 
                         <span class="linea"></span>
                         <h3>AXEL GARCÍA</h3>
-                        <h4>Director Recruiting and Training</h4>
+                        <h4>Executive Director in Mexico</h4>
                         <p>&nbsp;</p>
                         <p>Axel García has over twenty years’ experience working with migrants, refugees and human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>
                         <p>Axel holds a law degree from the Universidad Marista and studied different courses of human rights, migration and governance. He has written many texts on migration and human rights and has taught dozens of courses on migration, human rights and protection of human rights defenders in Mexico, Central America and Europe.</p>
