@@ -298,7 +298,7 @@
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact us</a><br>
+                <a href="contact.php">CONTÁCTANOS</a><br>
                 <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
               </p>

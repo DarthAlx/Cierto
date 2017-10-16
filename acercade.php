@@ -1,819 +1,495 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Cierto Global</title>
-    <meta name="description" content="Home Page Version 1">
+    <meta name="description" content="Cierto Global Org">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory-->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700">
-    <link rel="stylesheet" href="styles/font-awesome.css">
-    <link rel="stylesheet" href="styles/owl.carousel.css">
-    <link rel="stylesheet" href="styles/owl.theme.css">
-    <link rel="stylesheet" href="styles/slit-slider-style.css">
-    <link rel="stylesheet" href="styles/slit-slider-custom.css">
-    <link rel="stylesheet" href="styles/idangerous.swiper.css">
-    <link rel="stylesheet" href="styles/yamm.css">
-    <link rel="stylesheet" href="styles/animate.css">
-    <link rel="stylesheet" href="styles/prettyPhoto.css">
-    <link rel="stylesheet" href="styles/bootstrap-slider.css">
-    <link rel="stylesheet" href="styles/device-mockups2.css">
+
     <link rel="stylesheet" href="styles/bootstrap.min.css">
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="styles/main-responsive.css">
-    <link id="primary_color_scheme" rel="stylesheet" href="styles/theme_meadow.css">
+    <link rel="stylesheet" href="styles/font-awesome.css">
+    <link href="https://fonts.googleapis.com/css?family=Amaranth:400,400i,700,700i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
-    <!--Fuentes-->
-    <link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
-
-    <script src="scripts/vendor/modernizr.js"></script>
-    <noscript>
-      <link rel="stylesheet" href="styles/styleNoJs.css">
-    </noscript>
-
-
-    <script language="javascript">
-function entrar(valor)
-{
-  document.getElementById(valor).style.display = "block";
-
-}
-function salir(valor)
-{
-  document.getElementById(valor).style.display = "none";
-}
-function cambiar(valor,img)
-{
-  document.getElementById(valor).src = img;
-}
-
-</script>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
-
-    <!-- CSS STYLE-->
     <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
-
-
-
-
-    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-  <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
     <link rel="stylesheet" type="text/css" href="css/extralayers.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
 
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800' rel='stylesheet' type='text/css'>
-
+    <link rel="stylesheet" href="styles/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
   </head>
   <body>
-    <div id="load"></div><!--[if lt IE 9]>
-    <p class="browsehappy">You are using an strong outdated browser. <br>Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    <div class="page">
-      <!-- Start Nav Section-->
-      <nav id="main-navigation" role="navigation" class="navbar navbar-fixed-top navbar-standard "><a href="javascript:void(0)" class="search_button">
 
-        <div class="container">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle"><i class="fa fa-align-justify fa-lg"></i></button><a href="index.php" class="navbar-brand">
-            <img src="img/logo.png" alt="" class="logo-white">
-            <img src="img/logo.png" alt="" class="logo-dark"></a>
+    <div class="barra">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="columna col-sm-1 col-md-1 col-xs-3 visible-xs visible-sm">
+            <div class="menu" id="nav-icon0" onclick="openNav()">
+              <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            </div>
           </div>
-          <div class="navbar-collapse collapse">
-
-            <button type="button" class="navbar-toggle" style="left: 80%; color: #ffffff;"><i class="fa fa-close fa-lg" style=" color: #ffffff;"></i></button>
-            <ul class="nav yamm navbar-nav navbar-left main-nav navbar-right">
-                    <!-- istanzio un id univoco-->
-                    <!-- istanzio un id univoco-->
-                    <li class=""><a href="acercade.php"   data-ref="#" >Acerca de Cierto</a>
-                    </li>
-                    <!-- istanzio un id univoco-->
-                    <li class=""><a href="index.php#maqueta"   data-ref="#" >Cadena de producción</a>
-                    </li>
-                    <!-- istanzio un id univoco-->
-                    <li class=" "><a href="contacto.php"   data-ref="#" >Contacto</a>
-                    </li>
-                    <li class=" "><a href="#"   data-ref="#">Entrar</a>
-
-                  </li>
-
-
-
-                  <li class="dropdown"><a href="#" title="" data-toggle="dropdown" data-hover="dropdown" id="menu_item_Home" data-ref="#" class="dropdown-toggle">Idioma<span class="caret"></span></a>
-                      <ul aria-labelledby="menu_item_Home" class="dropdown-menu">
-                              <!-- istanzio un id univoco-->
-                              <li><a href="/EN/about.php" title="" >Inglés</a></li>
-                              <!-- istanzio un id univoco-->
-                              <li class="active"><a href="/acercade.php" title="" data-ref="home-1">Español</a></li>
-
-                      </ul>
-                    </li>
-
-
-            </ul>
+          <div class="col-sm-2 col-xs-9 col-md-2">
+            <div class="cuadrito pull-left hidden-xs hidden-sm">
+              &nbsp;
+            </div>
+            <div class="logo">
+              <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+            </div>
           </div>
+          <div class="col-md-10">
+              <nav class="circle hidden-sm hidden-xs text-right">
+                <ul>
+                  <li><a href="index2.php">Home</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="services.php">Service</a></li>
+                  <li><a href="training.php">Training</a></li>
+                  <li><a href="team.php">Team</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="admin">Access</a></li>
+                  <li><a href="#">Languages</a></li>
+                </ul>
+              </nav>
+            </div>
+
         </div>
-      </nav>
-      <!-- Start Header Section-->
-
-
-
-
-
-<section class="demo-2">
-        <!-- Start slider-wrapper-->
-        <div id="slider" style="display:none;" class="sl-slider-wrapper">
-          <div class="sl-slider">
-            <!-- start slide-->
-            <div data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" class="sl-slide">
-              <div style="background:url('img/home.png') no-repeat center center; width: 100%;" class="sl-slide-inner">
-                <div class="slide-container">
-                  <div class="slide-content text-center">
-
-                  <div data-wow-delay="0.5s" class=" wow bounceInUp" >
-                  <div class="row">
-                  <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
-                  <h3  style="font-family: 'Amaranth', serif; color: #4a2f22; font-size: 1.9em;">Acerca del Centro de  Investigación, Entrenamiento y
-Reclutamiento del Trabajador Organizado</h3>
-
-          </div>
-          </div>
       </div>
-      <br>
+    </div>
 
-                  </div>
-                </div>
+    <div class="menu">
+      <div id="myNav" class="overlay">
+        <!-- Button to close the overlay navigation -->
+        <div class="container-fluid">
+          <div class="row">
+            <div class="columna col-sm-1 col-xs-3">
+              <div class="menu" style="background: transparent;">
+                <i class="fa fa-times fa-3x pull-left" onclick="closeNav()" aria-hidden="true"></i>
               </div>
             </div>
-            <!-- end slide-->
+          </div>
+        </div>
+        <!-- Overlay content -->
+        <div class="overlay-content container-fluid">
+          <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <a href="index2.php">Home</a>
+              <a href="about.php">About</a>
+              <a href="services.php">Service</a>
+              <a href="training.php">Training</a>
+              <a href="team.php">Team</a>
+              <a href="contact.php">Contact</a>
+              <a href="admin">Access</a>
+              <a href="#">Languages</a>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+
+    <section class="entrada about">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 fondo">
 
           </div>
-          <!-- start slider navigation-->
-
-          <!-- end slider navigation-->
         </div>
-        <!-- End slider-wrapper-->
-      </section>
+      </div>
+    </section>
 
 
-
-
-
-
-      <!-- End Header Section-->
-      <!-- Start About section-->
-      <a name="infografia">
-      <section class="sep-top-2x sep-bottom-2x" style="background-image: url(img/info/bg.png); " >
-        <div class="container" >
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <div data-wow-delay="0.5s" class="text-center wow bounceInLeft">
-                <h4 class="upper" style="font-family: 'Amaranth', serif;">¿Qué es CIERTO?</h3>
-
-
-               <br><br>
-
-              </div>
-
-            </div>
-
-            </div>
-
-
-
-
-
-
+      <section class="infografia" id="wmud">
+        <div class="container-fluid" >
             <div class="row" style="">
 
-              <div class="col-md-4 " style="">
-                <div data-wow-delay="0.5s" class=" wow bounceInRight" style=" text-align: left; color: #4a2f22; font-family: 'Bree Serif', serif; font-size: 1.1em;"  >
-
-                  <div  style=" font-family: 'Amaranth', serif; top:100px;"  >
-
-                  CIERTO <br>
-                  Centro de Investigación Entrenamiento y Reclutamiento del
-                  Trabajador Organizado.
-                  </div>
-                  <hr style="border-top: 1px solid #4a2f22;">
-                  Somos un Centro que busca, a través
-                  de la Investigación, el
-                  Entrenamiento y el Reclutamiento
-                  garantizar una producción eficiente
-                  del campo, sana y libre de
-                  explotación laboral; que rinda
-                  beneficios al consumidor, al gran
-                  vendedor, a la agroindustria y por
-                  supuesto al trabajador.
-                  <br><br><br>
-
-
-                </div>
-
-              </div>
-
-
-
-              <div class="col-md-8 " >
-                <div data-wow-delay="0.5s" class="text-right wow bounceInRight">
-
-
-
-
-                  <div class="tp-banner-container" >
-    <div class="tp-banner1" style="height: 1000px;">
-      <ul>
-      <!-- SLIDE  -->
-  <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
-    <!-- MAIN IMAGE -->
-    <img src="images/dummy.png"  alt="slidebg1" data-lazyload="img/info/info.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-    <!-- LAYERS -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="20"
-      data-y="20"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/1.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="540"
-      data-y="25"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="3000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/2.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="10"
-      data-y="575"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="4000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/3.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="50"
-      data-y="340"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="5000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/4.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="540"
-      data-y="574"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="6000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/5.png"  >
-    </div>
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="580"
-      data-y="350"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="7000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/info/6.png"  >
-    </div>
-
-  </li>
-
-
-</ul>
-<div class="tp-bannertimer"></div>  </div>
-</div>
-
-      <script type="text/javascript">
-
-        jQuery(document).ready(function() {
-
-
-
-          jQuery('.tp-banner1').show().revolution(
-          {
-            dottedOverlay:"none",
-            delay:5000,
-            startwidth:769,
-            startheight:701,
-            hideThumbs:200,
-
-            thumbWidth:0,
-            thumbHeight:0,
-            thumbAmount:0,
-
-            navigationType:"bullet",
-            navigationArrows:"none",
-            navigationStyle:"preview2",
-
-            touchenabled:"off",
-            onHoverStop:"off",
-
-            swipe_velocity: 0.7,
-            swipe_min_touches: 1,
-            swipe_max_touches: 1,
-            drag_block_vertical: false,
-
-                        parallax:"mouse",
-            parallaxBgFreeze:"on",
-            parallaxLevels:[7,4,3,2,5,4,3,2,1,0],
-
-            keyboardNavigation:"off",
-
-            navigationHAlign:"center",
-            navigationVAlign:"bottom",
-            navigationHOffset:0,
-            navigationVOffset:20,
-
-            soloArrowLeftHalign:"left",
-            soloArrowLeftValign:"center",
-            soloArrowLeftHOffset:20,
-            soloArrowLeftVOffset:0,
-
-            soloArrowRightHalign:"right",
-            soloArrowRightValign:"center",
-            soloArrowRightHOffset:20,
-            soloArrowRightVOffset:0,
-
-            shadow:0,
-            fullWidth:"on",
-            fullScreen:"off",
-
-            spinner:"none",
-
-            stopLoop:"off",
-            stopAfterLoops:-1,
-            stopAtSlide:-1,
-
-            shuffle:"off",
-
-            autoHeight:"off",
-            forceFullWidth:"off",
-
-
-
-            hideThumbsOnMobile:"on",
-            hideNavDelayOnMobile:"on",
-            hideBulletsOnMobile:"off",
-            hideArrowsOnMobile:"off",
-            hideThumbsUnderResolution:0,
-
-            hideSliderAtLimit:0,
-            hideCaptionAtLimit:0,
-            hideAllCaptionAtLilmit:0,
-            startWithSlide:0,
-            videoJsPath:"rs-plugin/videojs/",
-            fullScreenOffsetContainer: ""
-          });
-
-
-
-
-        }); //ready
-
-      </script>
-
-
-
-                </div>
-
-              </div>
-
-
-            </div>
-
-
-
-
-          </div>
-
-      </section>
-      </a>
-      <!-- End About section-->
-      <section class="sep-top-2x sep-bottom-2x" style="background-color: #fcb301; " >
-        <div class="container" >
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <div data-wow-delay="0.5s" class="text-center wow bounceInLeft">
-                <h4 class="upper" style="font-family: 'Amaranth', serif; color: #ffffff;">¿Qué Hace CIERTO?</h3>
-
-
-               <br><br>
-
-              </div>
-
-            </div>
-
-            </div>
-
-            <div class="row">
-
               <div class="col-md-5 col-md-offset-1">
-                <div data-wow-delay="0.5s" class=" wow bounceInRight" style="color: #4a2f22; font-family: 'Bree Serif', serif; font-size: 1.1em; text-align: left;">
+                <div class=" wow bounceInLeft">
+                  <h3>CIERTO</h3>
 
-
-                  CIERTO ofrece capacitaciones únicas a los trabajadores
-                  agrícolas, las cuales certifican el proceso de aprendizaje. Los
-                  trabajadores agrícolas entrenados, preparados y contentos
-                  con su trabajo aportan un valor agregado de compromiso
-                  laboral, cuidado en la calidad del producto y mejoras en la
-                  productividad para la agroindustria.
+                  <p>&nbsp;</p>
 
                 </div>
+                <div class=" wow bounceInLeft">
 
-              </div>
-              <div class="col-md-1">
-              <br>
-              </div>
-              <div class="col-md-5 ">
-                <div data-wow-delay="0.5s" class=" wow bounceInRight" style="color: #4a2f22; font-family: 'Bree Serif', serif; font-size: 1.1em; text-align: left;">
-                  El fomento de una producción, distribución y consumo libres
-                  de explotación laboral es un camino favorable a nivel
-                  mundial, ofrecer beneficios a todos los actores del ciclo de
-                  producción:  consumidor,  vendedor, agroindustria y
-                  trabajador, son hoy en día el valor fundamental la producción
-                  y adquisición de un producto.
-
+                  <h3>LO QUE NOS HACE DIFERENTES</h3>
+                  <p>&nbsp;</p>
+                  <p>
+CIERTO es un contratista de mano de obra agrícola certificado que recluta, entrena y coloca a trabajadores agrícolas experimentados de México en granjas de los Estados Unidos. Nuestra misión es crear una fuerza de trabajo agrícola profesional, cualificada y certificada que aporte valor agregado a la cadena de suministro de alimentos.</p>
+                  <p>CIERTO se adhiere a prácticas claras y transparentes de contratación, manteniendo una comunicación abierta, regular y estableciendo relaciones justas y respetuosas. Protegemos los intereses tanto de los productores como de los trabajadores agrícolas. Desde el reclutamiento usamos redes confiables en todo México y aseguramos la presentación adecuada de las peticiones H-2A, hasta la capacitación y administración de todos los detalles para asegurar el cumplimiento total del contrato laboral.</p>
+                  <p>CIERTO es el único contratista de mano de obra agrícola supervisado por un tercero independiente, para garantizar la integridad del proceso de contratación. Eliminamos las prácticas fraudulentas, corruptas y a menudo peligrosas, que enfrentan muchos trabajadores agrícolas que vienen a trabajar a los Estados Unidos y ponen en peligro las operaciones de los productores.</p>
 
 
                 </div>
+              </div>
 
+
+
+              <div class="col-md-5 col-md-offset-1 col-xs-8 col-xs-offset-2 wow bounceInRight" >
+                <img src="images/info.png" class="img-responsive" alt="">
+              </div>
+            </div>
+          </div>
+      </section>
+      <div class="container-fluid" style="background:#e2e2e2;">
+        <div class="row" style="">
+          <div class="col-md-5 col-md-offset-1">
+            <p style="text-style: italic; font-size: 17px; position: absolute; top: -20px;">"Equipo de la cadena productiva alimentaria: Costco, Andrew y Williamson, CIERTO, y los trabajadores agrícolas"</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+
+      <img src="images/01_MODULO_W_P03.jpg" class="img-responsive" alt="">
+
+
+      <section class="entrada about2">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row">
+                <div class="col-md-7 col-md-offset-5 text-right textabout2">
+                  <h4 class="wow bounceInLeft">“Los trabajadores preparados y contentos aportan compromiso laboral, calidad del producto y mejoras en la productividad agroindustrial”
+                  </h4>
+                </div>
               </div>
 
             </div>
-
-
-
           </div>
+        </div>
+      </section>
 
+      <section class="seccion about3" id="yp">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <h3 class=" wow bounceInLeft">CIERTO ES TU SOCIO Y TU MEJOR ALIADO</h3>
+
+              <h4 class=" wow bounceInLeft">Somos contratistas de trabajo agrícola</h4>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <div class="row wow bounceInDown">
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>01. Ayuda a contratar y retener a la mano de obra agrícola experimentada y profesional.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      01
+                    </div>
+                    <div class="texto col-xs-8">
+                      Contrata
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>02. Garantiza que tenga plena transparencia y comprenda su papel en la cadena de suministro de mano de obra.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      02
+                    </div>
+                    <div class="texto col-xs-8">
+                      Asegura
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+
+                </div>
+              </div>
+              <div class="row wow bounceInDown">
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>03. Garantiza que cumpla con los estándares federales de cumplimiento H-2A.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      03
+                    </div>
+                    <div class="texto col-xs-8">
+                      Cumplimiento de Normas
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-sm-8">
+                  <div class="servicio" style="    padding-top: 4%;">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>04. Entrena a los trabajadores agrícolas para refinar las habilidades transferibles, que conducen a oportunidades laborales estables y una mayor satisfacción en el trabajo, mientras contribuyen a niveles más altos de productividad y cuidado en la cosecha de sus productos.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4 col-sm-2">
+                      04
+                    </div>
+                    <div class="texto col-xs-8 col-sm-10" style="margin-top: 6%;">
+                      Productividad
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+
+                </div>
+              </div>
+              <div class="row wow bounceInDown">
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>05. Diferencia su negocio entre minoristas y consumidores que valoran productos y prácticas socialmente responsables.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      05
+                    </div>
+                    <div class="texto col-xs-8">
+                      Valor
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>06. Lo posiciona como líder en la implementación de prácticas de producción, distribución y consumo libres de explotación.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      06
+                    </div>
+                    <div class="texto col-xs-8">
+                      Posiciona
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="servicio">
+                    <div class="overlay">
+                      <div class="text col-xs-12">
+                        <p>07. Soluciona problemas y aborda las cuestiones pertinentes a lo largo de la duración del contrato de trabajo.</p>
+                      </div>
+                    </div>
+                    <div class="numero col-xs-4">
+                      07
+                    </div>
+                    <div class="texto col-xs-8">
+                      Soluciona
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <p>&nbsp;</p>
+          </div>
+        </div>
       </section>
 
 
+      <section class="seccion about4" id="wsc">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <h3 class="text-center wow bounceInUp">¿QUÉ BUSCA CIERTO?</h3>
 
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
 
+                    <div class="letra">
+                      A<br><br><span>Oportunidad</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Nuestra labor es acercar oportunidades de trabajo seguro para trabajadores agrícolas, evitando la contratación informal y el fraude.</p>
+                    </div>
 
-      <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,700,800,900' rel='stylesheet' type='text/css'>
-
-<section class="sep-top-2x sep-bottom-0x" style="background-color: #e7e6e4; " >
-
-<div data-wow-delay="0.5s" class="text-center wow bounceInLeft">
-                <h4 class="upper" style="font-family: 'Amaranth', serif;">¿Qué Busca Cierto?</h3>
-
-
-               <br><br>
-
+                  </div>
+                </div>
               </div>
-
-  <!--
-  #################################
-    - THEMEPUNCH BANNER -
-  #################################
-  -->
-  <div class="tp-banner-container ">
-
-    <div class="tp-banner" style="height: 1000px;">
-
-      <ul>
-      <!-- SLIDE  -->
-  <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
-    <!-- MAIN IMAGE -->
-    <img src="images/dummy.png"  alt="slidebg1" data-lazyload="img/fondoD.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-    <!-- LAYERS -->
-
-
-
-
-    <!-- LAYER NR. 1 -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="30"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/busca/1.png" onMouseOver="entrar('img01');"  style="cursor:pointer;" >
-    </div>
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="30"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2700"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 14;">
-
-      <img src="img/busca/1.1.png" id="img01" onMouseOut="salir('img01');" style="display:none;" class="img-responsive">
-    </div>
-
-
-    <!-- LAYER NR. 2 -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="595"
-      data-y="30"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/busca/2.png" onMouseOver="entrar('img02');"  style="cursor:pointer;" >
-    </div>
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="595"
-      data-y="30"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2700"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 14;">
-
-      <img src="img/busca/2.2.png" id="img02" onMouseOut="salir('img02');" style="display:none;" class="img-responsive">
-    </div>
-
-
-    <!-- LAYER NR. 3 -->
-
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="435"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/busca/3.png" onMouseOver="entrar('img03');"  style="cursor:pointer;" >
-    </div>
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="435"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2700"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 14;">
-
-      <img src="img/busca/3.3.png" id="img03" onMouseOut="salir('img03');" style="display:none;" class="img-responsive">
-    </div>
-
-    <!-- LAYER NR. 4 -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="827"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/busca/4.png" onMouseOver="entrar('img04');"  style="cursor:pointer;" >
-    </div>
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="0"
-      data-y="827"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2700"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 14;">
-
-      <img src="img/busca/4.4.png" id="img04" onMouseOut="salir('img04');" style="display:none;" class="img-responsive">
-    </div>
-
-    <!-- LAYER NR. 5 -->
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="601"
-      data-y="435"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2000"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 4;">
-      <img src="img/busca/5.png" onMouseOver="entrar('img05');"  style="cursor:pointer;" >
-    </div>
-    <div class="tp-caption customin rs-parallaxlevel-0"
-      data-x="601"
-      data-y="435"
-      data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-      data-speed="500"
-      data-start="2700"
-      data-easing="Power3.easeInOut"
-      data-elementdelay="0.1"
-      data-endelementdelay="0.1"
-      style="z-index: 14;">
-
-      <img src="img/busca/5.5.png" id="img05" onMouseOut="salir('img05');" style="display:none;" class="img-responsive">
-    </div>
-
-
-
-
-
-
-
-  </li>
-
-</ul>
-<div class="tp-bannertimer"></div>  </div>
-
+<div class="separadorgris wow bounceInDown">
 
 </div>
-</section>
-      <script type="text/javascript">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
 
-        jQuery(document).ready(function() {
+                    <div class="letra">
+                      B<br><br><span>Integración</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Una de nuestras metas es la incorporación profesional de los trabajadores con el fin de concientizar y crear valor humano en la cadena de producción agrícola.</p>
+                    </div>
 
+                  </div>
+                </div>
+              </div>
+<div class="separadorgris wow bounceInDown">
 
+</div>
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
 
-          jQuery('.tp-banner').show().revolution(
-          {
-            dottedOverlay:"none",
-            delay:16000,
-            startwidth:1170,
-            startheight:1500,
-            hideThumbs:200,
+                    <div class="letra">
+                      C<br><br><span>Niveles de productividad</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Ofreciendo capacitación, entrenamiento y seguridad laboral a los trabajadores/as aumentamos y mejoramos la calidad de los productos y los niveles de eficiencia en las granjas.</p>
+                    </div>
 
-            thumbWidth:100,
-            thumbHeight:50,
-            thumbAmount:5,
+                  </div>
+                </div>
+              </div>
+<div class="separadorgris wow bounceInDown">
 
-            navigationType:"bullet",
-            navigationArrows:"solo",
-            navigationStyle:"preview2",
+</div>
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 search wow bounceInDown">
+                  <div class="col-md-4 col-xs-4">
 
-            touchenabled:"off",
-            onHoverStop:"off",
+                    <div class="letra">
+                      D<br><br><span>Excelencia del producto</span>
+                    </div>
+                  </div>
+                  <div class="col-md-8 col-xs-7 col-xs-offset-1 col-md-offset-0">
+                    <div class="texto">
+                      <p>• Buscamos otorgar a los consumidores productos agrícolas de excelencia, desde la producción hasta llegar a su mesa.</p>
+                    </div>
 
-            swipe_velocity: 0.7,
-            swipe_min_touches: 1,
-            swipe_max_touches: 1,
-            drag_block_vertical: false,
+                  </div>
+                </div>
+              </div>
 
-                        parallax:"mouse",
-            parallaxBgFreeze:"on",
-            parallaxLevels:[7,4,3,2,5,4,3,2,1,0],
+            </div>
+          </div>
+        </div>
+      </section>
 
-            keyboardNavigation:"off",
-
-            navigationHAlign:"center",
-            navigationVAlign:"bottom",
-            navigationHOffset:0,
-            navigationVOffset:20,
-
-            soloArrowLeftHalign:"left",
-            soloArrowLeftValign:"center",
-            soloArrowLeftHOffset:20,
-            soloArrowLeftVOffset:0,
-
-            soloArrowRightHalign:"right",
-            soloArrowRightValign:"center",
-            soloArrowRightHOffset:20,
-            soloArrowRightVOffset:0,
-
-            shadow:0,
-            fullWidth:"on",
-            fullScreen:"off",
-
-            spinner:"spinner4",
-
-            stopLoop:"off",
-            stopAfterLoops:-1,
-            stopAtSlide:-1,
-
-            shuffle:"off",
-
-            autoHeight:"off",
-            forceFullWidth:"off",
-
-
-
-            hideThumbsOnMobile:"off",
-            hideNavDelayOnMobile:1500,
-            hideBulletsOnMobile:"off",
-            hideArrowsOnMobile:"off",
-            hideThumbsUnderResolution:0,
-
-            hideSliderAtLimit:0,
-            hideCaptionAtLimit:0,
-            hideAllCaptionAtLilmit:0,
-            startWithSlide:0,
-            videoJsPath:"rs-plugin/videojs/",
-            fullScreenOffsetContainer: ""
-          });
-
-
-
-
-        }); //ready
-
-      </script>
-
-
-      <!-- Start Footer section-->
-      <footer id="footer" >
-
-        <div class="copyright sep-top-xs sep-bottom-xs" style="background: #d9d7d7;  border-top: outset #9a9a9a; border-top-width: 2px;" >
-          <div class="container">
-            <div class="row">
-            <div class="text-center">
-              <div class="col-md-12" style="font-size: 0.8em;"><small>© CIERTO GLOBAL 2015  /   © TODOS LOS DERECHOS RESERVADOS   /   © DÉLEGRAM ESTUDIO.</small></div>
+      <section class="seccion contacto">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row imgcierto">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
+                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
+                  <span class="linea"></span>
+                  <h3>CONTÁCTANOS</h3>
+                  <p>&nbsp;</p>
+                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
+                  <p>&nbsp;</p>
+                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
-      </footer>
-      <!-- End Footer section-->
-      <div id="back_to_top"><a href="#" class="fa fa-arrow-up fa-lg"></a></div>
-    </div>
+      </section>
 
-    <script src="scripts/vendor/queryloader2.min.js"></script>
-    <script src="scripts/vendor/owl.carousel.js"></script>
-    <script src="scripts/vendor/jquery.ba-cond.min.js"></script>
-    <script src="scripts/vendor/jquery.slitslider.js"></script>
-    <script src="scripts/vendor/idangerous.swiper.js"></script>
-    <script src="scripts/vendor/jquery.fitvids.js"></script>
-    <script src="scripts/vendor/jquery.countTo.js"></script>
-    <script src="scripts/vendor/TweenMax.min.js"></script>
-    <script src="scripts/vendor/ScrollToPlugin.min.js"></script>
-    <script src="scripts/vendor/jquery.scrollmagic.min.js"></script>
-    <script src="scripts/vendor/jquery.easypiechart.js"></script>
-    <script src="scripts/vendor/jquery.validate.js"></script>
-    <script src="scripts/vendor/wow.min.js"></script>
-    <script src="scripts/vendor/jquery.placeholder.js"></script>
-    <script src="scripts/vendor/jquery.easing.1.3.min.js"></script>
-    <script src="scripts/vendor/jquery.waitforimages.min.js"></script>
-    <script src="scripts/vendor/jquery.prettyPhoto.js"></script>
-    <script src="scripts/vendor/imagesloaded.pkgd.min.js"></script>
-    <script src="scripts/vendor/isotope.pkgd.min.js"></script>
-    <script src="scripts/vendor/jquery.fillparent.min.js"></script>
-    <script src="scripts/vendor/raphael-min.js"></script>
-    <script src="scripts/vendor/bootstrap.js"></script>
-    <script src="scripts/vendor/jquery.bootstrap-touchspin.min.js"></script>
-    <script src="scripts/vendor/bootstrap-slider.js"></script>
-    <script src="scripts/vendor/bootstrap-rating-input.js"></script>
-    <script src="scripts/vendor/bootstrap-hover-dropdown.min.js"></script>
-    <script src="scripts/jquery.gmap.min.js"></script>
-    <script src="scripts/circle_diagram.js"></script>
-    <script src="scripts/main.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'XX-XXXXXXXX-XX', 'auto');
-      ga('send', 'pageview');
-    </script>
+
+      <section class="seccion footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Menu</h3>
+              <br>
+              <p>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="about.php">About</a><br>
+                <a href="services.php">Service</a><br>
+                <a href="training.php">Training</a><br>
+                <a href="team.php">Team</a><br>
+                <a href="contact.php">CONTÁCTANOS</a><br>
+                <a href="admin">Access</a><br>
+                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Sections</h3>
+              <br>
+              <p>
+                <a href="about.php#wmud">What makes us different</a><br>
+                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
+                <a href="about.php#wsc">What search CIERTO?</a><br>
+                <a href="services.php#ktph2a">Know the program H2A</a><br>
+                <a href="training.php">Our Training</a><br>
+              </p>
+            </div>
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Data</h3>
+              <br>
+              <p>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
+
+                <a href="#">P.O. Box 8157  </a><br>
+                <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="https://www.facebook.com/ciertoglobal/" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="mailto:info@ciertoglobal.org" target="_blank"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+      <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+      <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+      <script src="scripts/vendor/wow.min.js"></script>
+      <script src="scripts/vendor/bootstrap.js"></script>
+      <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+  		<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.carousel.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.kenburn.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.layeranimation.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.migration.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.navigation.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.parallax.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.slideanims.min.js"></script>
+  		<script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script>
+      <script type="text/javascript" src="js/main.js"></script>
+
   </body>
 </html>

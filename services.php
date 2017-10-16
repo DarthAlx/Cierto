@@ -349,11 +349,11 @@
               <div class="row">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
-                  <h3>CONTACT US</h3>
+                  <h3>CONTÁCTANOS</h3>
                   <p>&nbsp;</p>
-                  <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
+                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
                   <p>&nbsp;</p>
-                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -375,7 +375,7 @@
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact us</a><br>
+                <a href="contact.php">CONTÁCTANOS</a><br>
                 <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
               </p>

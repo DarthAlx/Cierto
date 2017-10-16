@@ -100,7 +100,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO is a certified Farm Labor Contractor that recruits, trains, and places experienced agricultural workers from Mexico in farms in the United States. Our mission is to create a professional, skilled and cetified agricultural workforce that brings added value to the food supply chain. </p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -220,7 +220,7 @@
                     </div>
                   </div>
                   <p>&nbsp;</p>
-                  <a href="services.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="services.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                 </div>
@@ -242,7 +242,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships. </p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -466,7 +466,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO, implements a methodology that aims to professionalize the field staff with the acknowledge to their value and each one’s dignity with improvements on the productive chain. </p>
                   <p>&nbsp;</p>
-                  <a href="training.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="training.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -545,11 +545,11 @@
               <div class="row">
                 <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
                   <span class="linea"></span>
-                  <h3>CONTACT US</h3>
+                  <h3>CONTÁCTANOS</h3>
                   <p>&nbsp;</p>
-                  <p>For questions, please send us a message and we will get back <span class="hidden-xs"><br></span>to you promptly.</p>
+                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
                   <p>&nbsp;</p>
-                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Read more</a>
+                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -571,7 +571,7 @@
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact us</a><br>
+                <a href="contact.php">CONTÁCTANOS</a><br>
                 <a href="admin">Access</a><br>
                 <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
               </p>

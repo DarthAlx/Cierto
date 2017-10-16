@@ -4855,7 +4855,7 @@ wysihtml5.dom.parse = (function() {
      * IE is the only browser who doesn't include the namespace in the
      * nodeName, that's why we have to prepend it by ourselves
      * scopeName is a proprietary IE feature
-     * read more here http://msdn.microsoft.com/en-us/library/ms534388(v=vs.85).aspx
+     * Saber más here http://msdn.microsoft.com/en-us/library/ms534388(v=vs.85).aspx
      */
     if (scopeName && scopeName != "HTML") {
       nodeName = scopeName + ":" + nodeName;
