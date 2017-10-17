@@ -956,3 +956,17 @@ nav.circle ul li a:hover:after {
     background: #006600;
     margin-left: -15px;
 }
+.overlay-content .dropdown-menu{
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+.overlay-content li{
+  list-style: none;
+}
+
+.dropdown-menu>li>a:hover {
+
+    text-decoration: none;
+    background-color: transparent;
+}
