@@ -1,134 +1,143 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Cierto Global</title>
-    <meta name="description" content="CONTÁCTANOS - version 2">
+    <meta name="description" content="Cierto Global Org">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory-->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700">
-    <link rel="stylesheet" href="styles/font-awesome.css">
-    <link rel="stylesheet" href="styles/owl.carousel.css">
-    <link rel="stylesheet" href="styles/owl.theme.css">
-    <link rel="stylesheet" href="styles/slit-slider-style.css">
-    <link rel="stylesheet" href="styles/slit-slider-custom.css">
-    <link rel="stylesheet" href="styles/idangerous.swiper.css">
-    <link rel="stylesheet" href="styles/yamm.css">
-    <link rel="stylesheet" href="styles/animate.css">
-    <link rel="stylesheet" href="styles/prettyPhoto.css">
-    <link rel="stylesheet" href="styles/bootstrap-slider.css">
-    <link rel="stylesheet" href="styles/device-mockups2.css">
-    <link rel="stylesheet" href="styles/bootstrap.min.css">
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="styles/main-responsive.css">
-    <link id="primary_color_scheme" rel="stylesheet" href="styles/theme_meadow.css">
-    <script src="scripts/vendor/modernizr.js"></script>
-    <noscript>
-      <link rel="stylesheet" href="styles/styleNoJs.css">
-    </noscript>
 
-    <!--Fuentes-->
-    <link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="styles/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/font-awesome.css">
+    <link href="https://fonts.googleapis.com/css?family=Amaranth:400,400i,700,700i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/settings.css">
+    <link rel="stylesheet" href="styles/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
   </head>
   <body>
-    <div id="load"></div><!--[if lt IE 9]>
-    <p class="browsehappy">You are using an strong outdated browser. <br>Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
     <div class="page">
-      <!-- Start Nav Section-->
-      <nav id="main-navigation" role="navigation" class="navbar navbar-fixed-top navbar-standard "><a href="javascript:void(0)" class="search_button">
-
-        <div class="container">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle"><i class="fa fa-align-justify fa-lg"></i></button><a href="index.php" class="navbar-brand">
-            <img src="img/logo.png" alt="" class="logo-white">
-            <img src="img/logo.png" alt="" class="logo-dark"></a>
-          </div>
-          <div class="navbar-collapse collapse">
-
-            <button type="button" class="navbar-toggle" style="left: 80%; color: #ffffff;"><i class="fa fa-close fa-lg" style=" color: #ffffff;"></i></button>
-            <ul class="nav yamm navbar-nav navbar-left main-nav navbar-right">
-                    <!-- istanzio un id univoco-->
-                    <!-- istanzio un id univoco-->
-                    <li class=""><a href="acercade.php"   data-ref="#" >Acerca de Cierto</a>
-                    </li>
-                    <!-- istanzio un id univoco-->
-                    <li class=""><a href="index.php#maqueta"   data-ref="#" >Cadena de producción</a>
-                    </li>
-                    <!-- istanzio un id univoco-->
-                    <li class=" "><a href="contacto.php"   data-ref="#" >Contacto</a>
-                    </li>
-                    <li class=" "><a href="#"   data-ref="#">Entrar</a>
-
-                  </li>
-
-
-
-                  <li class="dropdown"><a href="#" title="" data-toggle="dropdown" data-hover="dropdown" id="menu_item_Home" data-ref="#" class="dropdown-toggle">Idioma<span class="caret"></span></a>
-                      <ul aria-labelledby="menu_item_Home" class="dropdown-menu">
-                              <!-- istanzio un id univoco-->
-                              <li><a href="/EN/contact.php" title="" >Inglés</a></li>
-                              <!-- istanzio un id univoco-->
-                              <li class="active"><a href="/contacto.php" title="" data-ref="home-1">Español</a></li>
+      <div class="barra">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="columna col-sm-1 col-md-1 col-xs-3 visible-xs visible-sm">
+              <div class="menu" id="nav-icon0" onclick="openNav()">
+                <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+              </div>
+            </div>
+            <div class="col-sm-2 col-xs-9 col-md-2">
+              <div class="cuadrito pull-left hidden-xs hidden-sm">
+                &nbsp;
+              </div>
+              <div class="logo">
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+              </div>
+            </div>
+            <div class="col-md-10">
+                <nav class="circle hidden-sm hidden-xs text-right">
+                  <ul>
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="acercade.php">Acerca de</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="entrenamiento.php">Entrenamiento</a></li>
+                    <li><a href="equipo.php">Equipo</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
+                    <li><a href="admin">Accesso</a></li>
+                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="contacto.php">Español</a></li>
+                        <li><a href="contact.php">Inglés</a></li>
                       </ul>
                     </li>
+                  </ul>
+                </nav>
+              </div>
 
-
-            </ul>
           </div>
         </div>
-      </nav>
+      </div>
 
+      <div class="menu">
+        <div id="myNav" class="overlay">
+          <!-- Button to close the overlay navigation -->
+          <div class="container-fluid">
+            <div class="row">
+              <div class="columna col-sm-1 col-xs-3">
+                <div class="menu" style="background: transparent;">
+                  <i class="fa fa-times fa-3x pull-left" onclick="closeNav()" aria-hidden="true"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Overlay content -->
+          <div class="overlay-content container-fluid">
+            <div class="row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <a href="index.php">Inicio</a>
+          	    <a href="acercade.php">Acerca de</a>
+                <a href="servicios.php">Servicios</a>
+                <a href="entrenamiento.php">Entrenamiento</a>
+                <a href="equipo.php">Equipo</a>
+                <a href="contacto.php">Contacto</a>
+                <a href="admin">Accesso</a>
+                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="contacto.php">Español</a></li>
+                    <li><a href="contact.php">Inglés</a></li>
+                  </ul>
+                </li>
 
-      <section class="sep-top-md sep-bottom-2x" style="background: #d9d7d7;">
-        <div class="container" >
-          <div class="text-center">
+              </div>
+            </div>
 
           </div>
 
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+      <section class="seccion contacto">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row" style="position: absolute; bottom: 50vh; width: 100%;">
+                <div class="col-sm-4 col-sm-offset-4 col-xs-6 colxs-offset-3">
+                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
+                </div>
+              </div>
+              <div class="row">
+
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
-
-      <!-- Start Contact section-->
-      <section class="sep-bottom-2x" style="background: #d9d7d7;">
-        <div class="container">
+      <section class="sep-bottom-2x contactform" style="background: #f5f5f5;">
+        <div class="container-fluid">
           <div class="row">
-            <div class="col-md-4 sep-top-2x">
-              <div data-wow-delay="0.5s" class=" wow bounceInLeft" style="font-family: 'Amaranth', serif;">
-                <h4 class="upper" style="font-family: 'Amaranth', serif; color: #4a2f22; line-height: 1;">Cierto Global</h4>
-                <p class="sep-top-xs">
-                  Si tienes alguna pregunta. Envíanos un mensaje y nosotros nos pondremos en contacto contigo.
+            <div class="col-md-3 sep-top-2x">
+              <div >
+                <h3 class=" wow bounceInLeft">CONTACTO</h3>
+                <p>&nbsp;</p><p>&nbsp;</p>
+                <h4 class=" wow bounceInLeft">CIERTO GLOBAL</h4>
+                <p class="sep-top-xs wow bounceInLeft">
+                  Si tiene alguna pregunta, por favor envíenos un mensaje y nosotros nos pondremos en contacto lo antes posible.
                 </p>
-                <div>
-                  <!-- Start icon box-->
-                  <div class="icon-box icon-xs sep-top-xs icon-gradient">
-                    <div class="icon-content img-circle"><i class="fa fa-map-marker"></i></div>
-                    <div class="icon-box-content">
-                      <h6>Dirección</h6>
-                      <p>P.O. Box 8157 Tacoma, WA 98419</p>
-                    </div>
-                  </div>
-                  <!-- End icon box-->
-
-                  <!-- Start icon box-->
-                  <div class="icon-box icon-xs sep-top-xs icon-gradient">
-                    <div class="icon-content img-circle"><i class="fa fa-envelope"></i></div>
-                    <div class="icon-box-content">
-                      <h6>Email</h6>
-                      <p>info@ciertoglobal.org</p>
-                    </div>
-                  </div>
-                  <!-- End icon box-->
-
-                </div>
-                <!-- End icon box-->
+                <p>&nbsp;</p><p>&nbsp;</p>
               </div>
             </div>
-            <div class="col-md-8 sep-top-2x" style="font-family: 'Amaranth', serif;">
-              <h4 class="upper" style="font-family: 'Amaranth', serif;">Ponte en contacto con nosotros</h4>
+            <div class="col-md-offset-1 col-md-8 sep-top-2x wow bounceInRight">
+
               <div class="contact-form">
                 <div id="successMessage" style="display:none" class="alert alert-success text-center">
                   <p><i class="fa fa-check-circle fa-2x"></i></p>
@@ -146,37 +155,38 @@
                   <div class="row">
                     <div class="col-md-6 sep-top-xs">
                       <div class="form-group">
-                        <label for="name" class="upper">Nombre(s)</label>
-                        <input id="name" type="text" placeholder="Tu nombre" name="senderName" class="form-control input-lg required">
+                        <label for="name" class="upper">Nombre (s)</label>
+                        <input id="name" type="text" name="senderName" class="form-control input-lg required">
                       </div>
                     </div>
                     <div class="col-md-6 sep-top-xs">
                       <div class="form-group">
-                        <label for="phone" class="upper">Apellidos</label>
-                        <input id="company" type="text" placeholder="Tus apellidos" name="senderLastName" class="form-control input-lg required">
+                        <label for="phone" class="upper">Apellido (s)</label>
+                        <input id="company" type="text" name="senderLastName" class="form-control input-lg required">
                       </div>
                     </div>
                     <div class="col-md-6 sep-top-xs">
                       <div class="form-group">
-                        <label for="email" class="upper">Correo electronico</label>
-                        <input id="email" type="email" placeholder="tucorreo@ejemplo.com" name="senderEmail" class="form-control input-lg required email">
+                        <label for="email" class="upper">Correo Electrónico</label>
+                        <input id="email" type="email" placeholder="tumail@ejemplo.com" name="senderEmail" class="form-control input-lg required email">
+                      </div>
+                    </div>
+                    <div class="col-md-6 sep-top-xs">
+                      <div class="form-group">
+                        <label for="phone" class="upper">Teléfono</label>
+                        <input id="phone" type="text" name="phone" class="form-control input-lg required">
                       </div>
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col-md-6 sep-top-xs">
-                      <div class="form-group">
-                        <label for="phone" class="upper">Telefono</label>
-                        <input id="phone" type="text" placeholder="Tu telefono" name="phone" class="form-control input-lg required">
-                      </div>
-                    </div>
+
 
                   </div>
                   <div class="row">
                     <div class="col-md-12 sep-top-xs">
                       <div class="form-group">
-                        <label for="comment" class="upper">Mensaje</label>
-                        <textarea id="comment" placeholder="Escribe aqui" rows="9" name="comment" class="form-control input-lg required"></textarea>
+                        <label for="comment" class="upper">Mensaje/label>
+                        <textarea id="comment" placeholder="Escribe aquí tu mensaje." rows="9" name="comment" class="form-control input-lg required"></textarea>
                       </div>
                     </div>
                   </div>
@@ -193,111 +203,89 @@
           </div>
         </div>
       </section>
-      <!-- End Contact section-->
-      <section>
-        <div id="map-canvas" style="height:500px">
-          <script>
-            var
-              lat = 23.889406,
-              lon = -102.286116,
-              infoText = [
-                '<div style="white-space:nowrap">',
-                  '<h5>Cierto Global</h5>',
-                  'Rio nevar, #2, 2<br>',
-                  'Ejidos El Socorro<br>',
-                  '3000, México',
-                '</div>'
-              ],
-              mapOptions = {
-                scrollwheel: false,
-                markers: [
-                  { latitude: lat, longitude: lon, html: infoText.join('') }
-                ],
-                icon: {
-                  image: 'img/themes/meadow/marker.png',
-                  iconsize: [72, 65],
-                  iconanchor: [12, 65],
-                },
-                latitude: lat,
-                longitude: lon,
-                zoom: 5
-              };
-          </script>
-        </div>
-      </section>
 
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.0832200637988!2d-99.17464468467507!3d19.36554894783847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff941a4985eb%3A0x14c82d858fe255c0!2sAv.+Coyoac%C3%A1n+1622%2C+Col+del+Valle+Centro%2C+03100+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses-419!2smx!4v1508202522823" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-      <!-- Start Clients section-->
-      <section class="sep-top-md sep-bottom-2x" style="background: #d9d7d7;">
-        <div class="container" >
-          <div class="text-center">
-            <h3 class="upper" style=" color: #939393;">Nuestros Amigos</h3>
+      <section class="seccion footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Menú</h3>
+              <br>
+              <p>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="acercade.php">Nosotros</a><br>
+                <a href="servicios.php">Servicios</a><br>
+                <a href="entrenamiento.php">Entrenamiento</a><br>
+                <a href="equipo.php">Equipo</a><br>
+                <a href="contacto.php">Contacto</a><br>
+                <a href="admin">Acceso</a><br>Idioma
+                <a href="privacidad.php">Aviso de privacidad</a>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Secciones</h3>
+              <br>
+              <p>
+                <a href="acercade.php#wmud">¿Qué nos hace diferentes?</a><br>
+                <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
+                <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
+                <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
+                <a href="entranamiento.php">Programa de entrenamiento</a><br>
+              </p>
+            </div>
+            <div class="col-sm-offset-4 col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>Datos</h3>
+              <br>
+              <p>
+                <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
+                <a href="#">Tel: (55) 47744880.</a><br>
+              </p>
+            </div>
+            <div class="col-sm-2 col-xs-12">
+              <p class="visible-xs">&nbsp;</p>
+              <h3>&nbsp;</h3>
+              <br>
+              <p>
 
-          </div>
-          <br><br><br>
-          <div data-auto-play="3000" data-items="2" data-auto-height="true" class="text-center owl-carousel owl-theme">
-
-            <div class="item"><img src="img/clients/2.png" alt="" class="img-responsive"></div>
-
-            <div class="item"><img src="img/clients/6.png" alt="" class="img-responsive"></div>
-
-          </div>
-        </div>
-      </section>
-      <!-- End Clients section-->
-      <!-- Start Footer section-->
-      <footer id="footer" >
-
-        <div class="copyright sep-top-xs sep-bottom-xs" style="background: #d9d7d7;  border-top: outset #9a9a9a; border-top-width: 2px;" >
-          <div class="container">
-            <div class="row">
-            <div class="text-center">
-              <div class="col-md-12" style="font-size: 0.8em;"><small>© CIERTO GLOBAL 2015  /   © TODOS LOS DERECHOS RESERVADOS   /   © DÉLEGRAM ESTUDIO.</small></div>
-              </div>
+                <a href="#">P.O. Box 8157  </a><br>
+                <a href="#">Tacoma, WA 98419</a><br>
+                <a href="mailto:info@ciertoglobal.org">info@ciertoglobal.org</a><br>
+                <a href="https://www.facebook.com/ciertoglobal/" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+                <a href="mailto:info@ciertoglobal.org" target="_blank"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a><br>
+              </p>
             </div>
           </div>
         </div>
-      </footer>
-      <!-- End Footer section-->
-      <div id="back_to_top"><a href="#" class="fa fa-arrow-up fa-lg"></a></div>
+      </section>
+
+
     </div>
-    <script src="scripts/vendor/jquery.js"></script>
-    <script src="scripts/vendor/queryloader2.min.js"></script>
-    <script src="scripts/vendor/owl.carousel.js"></script>
-    <script src="scripts/vendor/jquery.ba-cond.min.js"></script>
-    <script src="scripts/vendor/jquery.slitslider.js"></script>
-    <script src="scripts/vendor/idangerous.swiper.js"></script>
-    <script src="scripts/vendor/jquery.fitvids.js"></script>
-    <script src="scripts/vendor/jquery.countTo.js"></script>
-    <script src="scripts/vendor/TweenMax.min.js"></script>
-    <script src="scripts/vendor/ScrollToPlugin.min.js"></script>
-    <script src="scripts/vendor/jquery.scrollmagic.min.js"></script>
-    <script src="scripts/vendor/jquery.easypiechart.js"></script>
-    <script src="scripts/vendor/jquery.validate.js"></script>
+
+
+
+
+
+
+
+
+
     <script src="scripts/vendor/wow.min.js"></script>
-    <script src="scripts/vendor/jquery.placeholder.js"></script>
-    <script src="scripts/vendor/jquery.easing.1.3.min.js"></script>
-    <script src="scripts/vendor/jquery.waitforimages.min.js"></script>
-    <script src="scripts/vendor/jquery.prettyPhoto.js"></script>
-    <script src="scripts/vendor/imagesloaded.pkgd.min.js"></script>
-    <script src="scripts/vendor/isotope.pkgd.min.js"></script>
-    <script src="scripts/vendor/jquery.fillparent.min.js"></script>
-    <script src="scripts/vendor/raphael-min.js"></script>
     <script src="scripts/vendor/bootstrap.js"></script>
-    <script src="scripts/vendor/jquery.bootstrap-touchspin.min.js"></script>
-    <script src="scripts/vendor/bootstrap-slider.js"></script>
-    <script src="scripts/vendor/bootstrap-rating-input.js"></script>
-    <script src="scripts/vendor/bootstrap-hover-dropdown.min.js"></script>
-    <script src="scripts/jquery.gmap.min.js"></script>
-    <script src="scripts/circle_diagram.js"></script>
-    <script src="scripts/main.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'XX-XXXXXXXX-XX', 'auto');
-      ga('send', 'pageview');
-    </script>
+    <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.carousel.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.kenburn.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.migration.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.parallax.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
   </body>
 </html>

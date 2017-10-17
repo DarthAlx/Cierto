@@ -31,20 +31,25 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
-                    <li><a href="index2.php">Home</a></li>
+                    <li><a href="cierto.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="services.php">Service</a></li>
                     <li><a href="training.php">Training</a></li>
                     <li><a href="team.php">Team</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="admin">Access</a></li>
-                    <li><a href="#">Languages</a></li>
+                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="contacto.php">Spanish</a></li>
+                        <li><a href="contact.php">English</a></li>
+                      </ul>
+                    </li>
                   </ul>
                 </nav>
               </div>
@@ -69,14 +74,19 @@
           <div class="overlay-content container-fluid">
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
-                <a href="index2.php">Home</a>
+                <a href="cierto.php">Home</a>
           	    <a href="about.php">About</a>
                 <a href="services.php">Service</a>
                 <a href="training.php">Training</a>
                 <a href="team.php">Team</a>
                 <a href="contact.php">Contact</a>
                 <a href="admin">Access</a>
-          			<a href="#">Languages</a>
+                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="contacto.php">Spanish</a></li>
+                    <li><a href="contact.php">English</a></li>
+                  </ul>
+                </li>
 
               </div>
             </div>
@@ -194,7 +204,7 @@
         </div>
       </section>
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7378916.876547211!2d-103.23506159373775!3d25.438706305299323!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1504099626544" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7664.1666911820585!2d-122.4443420593239!3d47.22260620019326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490ff8cb23f7b23%3A0xff4a0d7aacf3cf81!2sTacoma%2C+Washington+98419%2C+EE.+UU.!5e0!3m2!1ses-419!2smx!4v1508202344566" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
       <section class="seccion footer">
@@ -205,14 +215,14 @@
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="index2.php">CIERTO</a><br>
+                <a href="cierto.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact.php">CONTÁCTANOS</a><br>
+                <a href="contact.php">Contact Us</a><br>
                 <a href="admin">Access</a><br>
-                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
+                <a href="privacy.php">Privacy Notice</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">

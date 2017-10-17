@@ -31,23 +31,23 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
-                    <li><a href="cierto.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="services.php">Service</a></li>
-                    <li><a href="training.php">Training</a></li>
-                    <li><a href="team.php">Team</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="admin">Access</a></li>
-                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="acercade.php">Acerca de</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="entrenamiento.php">Entrenamiento</a></li>
+                    <li><a href="equipo.php">Equipo</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
+                    <li><a href="admin">Accesso</a></li>
+                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="entrenamiento.php">Spanish</a></li>
-                        <li><a href="training.php">English</a></li>
+                        <li><a href="entrenamiento.php">Español</a></li>
+                        <li><a href="training.php">Inglés</a></li>
                       </ul>
                     </li>
                   </ul>
@@ -74,17 +74,17 @@
           <div class="overlay-content container-fluid">
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
-                <a href="cierto.php">Home</a>
-          	    <a href="about.php">About</a>
-                <a href="services.php">Service</a>
-                <a href="training.php">Training</a>
-                <a href="team.php">Team</a>
-                <a href="contact.php">Contact</a>
-                <a href="admin">Access</a>
-                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                <a href="index.php">Inicio</a>
+          	    <a href="acercade.php">Acerca de</a>
+                <a href="servicios.php">Servicios</a>
+                <a href="entrenamiento.php">Entrenamiento</a>
+                <a href="equipo.php">Equipo</a>
+                <a href="contacto.php">Contacto</a>
+                <a href="admin">Accesso</a>
+                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="entrenamiento.php">Spanish</a></li>
-                    <li><a href="training.php">English</a></li>
+                    <li><a href="entrenamiento.php">Español</a></li>
+                    <li><a href="training.php">Inglés</a></li>
                   </ul>
                 </li>
 
@@ -115,9 +115,9 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12">
-                  <h3 class=" wow bounceInRight">TRAINING</h3>
+                  <h3 class=" wow bounceInRight">ENTRENAMIENTO</h3>
                   <p>&nbsp;</p>
-                  <p class=" wow bounceInRight">CIERTO seeks to professionalize the rural workers to improve the productive chain,  <span class="hidden-xs"><br></span> recognizing the value and dignity of everyone.</p>
+                  <p class=" wow bounceInRight">CIERTO, busca profesionalizar las y los trabajadores del campo para mejorar la cadena productiva   <span class="hidden-xs"><br></span> reconociendo el valor y la dignidad de todas y todos.</p>
                   </div>
             </div>
               <div class="row">
@@ -125,13 +125,13 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      A <br><span>Agroindustrial <br> sector </span>
+                      A <br><span>Sector <br> Agroindustrial </span>
                     </div>
                   </div>
                   <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>The company will benefit from having trained and trained agricultural workers, who may provide ideas that benefit the productivity of the field.
+                      <p>La empresa se verá beneficiada ya que contará con trabajadores/as agrícolas capacitados y preparados, los cuales podrán aportar ideas que beneficien la productividad del campo.
 </p>
                     </div>
 
@@ -146,13 +146,13 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      B <br><span>Sales Sector</span><br><br>
+                      B <br><span>Sector Vendedor</span><br><br>
                     </div>
                   </div>
                   <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>The supermarkets will have the certainty that the product arriving to them is of quality and has been collected by workers which has an added value. The consumer can be confident that the product that is being taken home is of quality, and the worker has been given the fair value in the production chain.</p>
+                      <p>Los supermercados tendrán la certeza de que el producto que les está llegando es de calidad y ha sido recolectado por trabajadores/as que tiene un valor agregado. El consumidor podrá tener la confianza de que el producto que se está llevando a su casa es de calidad, y se le ha dado el justo valor al trabajador/a en la cadena productiva.</p>
 
                     </div>
 
@@ -167,15 +167,15 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra ico3">
-                      C <br><span>Worker sector </span><br>
+                      C <br><span>Sector Trabajador </span><br>
                     </div>
                   </div>
                   <p class="visible-xs visible-sm">&nbsp;</p>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>During the training, the worker will also be informed about their job offer. It will have the necessary tools to take care of its health, to be able to prevent sexual and labor harassment, and to be able to solve conflicts that are presented to him at work, this through peaceful dialogue, since during training you will be given tools for conflict resolution and promote assertive communication.</p>
-                      <p>During the training, several dynamics will be carried out, which aim to encourage the active participation of agricultural workers in order to enrich the information and promote an understanding of the training contents.</p>
-                      <p>At the end of the training, there will be an evaluation activity, which will be done in written  form. If necessary, this will be done through a game, which will help us to measure the learning level of the workers after the training. And it also has the purpose for workers who can not read or write to share what they learned during the training.</p>
+                      <p>En el desarrollo de la capacitación, el trabajador/a también será informado sobre su oferta de trabajo. Contará con las herramientas necesarias para cuidar su salud, podrá prevenir el acoso sexual y laboral, resolver conflictos que se le vayan presentando en el trabajo, todo esto mediante el diálogo pacífico, ya que durante la capacitación se le otorgan herramientas para la resolución de conflictos con el objetivo de favorecer una comunicación asertiva.</p>
+                      <p>Durante la capacitación se realizarán varias dinámicas, las cuales tienen como finalidad fomentar la participación activa de los trabajadores/as agrícolas para enriquecer la información y favorecer la comprensión de los contenidos de la capacitación.
+                      <p>Al finalizar la capacitación, se hará una actividad de evaluación, la cual se hará de forma escrita. Si es necesario, esta se realizará mediante un juego, la cual nos ayudará a poder medir el nivel de aprendizaje de los trabajadores/as después de la capacitación. Y también tiene como finalidad que las y los participantes que no saben leer ni escribir puedan compartir lo que aprendieron durante la capacitación.</p>
                     </div>
 
                   </div>
@@ -210,15 +210,15 @@
               <div class="row">
                 <div class="col-md-4 col-md-offset-1 search wow bounceInDown" style="border-left: 0px;">
                   <div class="texto visible-xs">
-                    <h3>OBJECTIVE</h3>
+                    <h3>OBJETIVO</h3>
                   </div>
                   <div class="texto text-right hidden-xs">
-                    <h3 style="margin-right: 10%;">OBJECTIVE</h3>
+                    <h3 style="margin-right: 10%;">OBJETIVO</h3>
                   </div>
                 </div>
                 <div class="col-md-4 search wow bounceInDown">
                   <div class="texto">
-                    <p style="margin-left: 5%;">Develop the skills and abilities of agricultural workers so that their work acquires a professional dimension and positively impacts the entire fresh food production chain.</p>
+                    <p style="margin-left: 5%;">Desarrollar las capacidades y las habilidades de los trabajadores/as agrícolas, para que su trabajo adquiera una dimensión profesional e impacte positivamente en toda la cadena productiva de alimentos frescos.</p>
                   </div>
                 </div>
               </div>
@@ -279,34 +279,34 @@
           <div class="row">
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Menu</h3>
+              <h3>Menú</h3>
               <br>
               <p>
-                <a href="cierto.php">CIERTO</a><br>
-                <a href="about.php">About</a><br>
-                <a href="services.php">Service</a><br>
-                <a href="training.php">Training</a><br>
-                <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact Us</a><br>
-                <a href="admin">Access</a><br>
-                <a href="privacy.php">Privacy Notice</a>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="acercade.php">Nosotros</a><br>
+                <a href="servicios.php">Servicios</a><br>
+                <a href="entrenamiento.php">Entrenamiento</a><br>
+                <a href="equipo.php">Equipo</a><br>
+                <a href="contacto.php">Contacto</a><br>
+                <a href="admin">Acceso</a><br>Idioma
+                <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Sections</h3>
+              <h3>Secciones</h3>
               <br>
               <p>
-                <a href="about.php#wmud">What makes us different</a><br>
-                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="about.php#wsc">What search CIERTO?</a><br>
-                <a href="services.php#ktph2a">Know the program H2A</a><br>
-                <a href="training.php">Our Training</a><br>
+                <a href="acercade.php#wmud">¿Qué nos hace diferentes?</a><br>
+                <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
+                <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
+                <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
+                <a href="entranamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Data</h3>
+              <h3>Datos</h3>
               <br>
               <p>
                 <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>

@@ -31,23 +31,23 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
-                    <li><a href="cierto.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="services.php">Service</a></li>
-                    <li><a href="training.php">Training</a></li>
-                    <li><a href="team.php">Team</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="admin">Access</a></li>
-                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="acercade.php">Acerca de</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="entrenamiento.php">Entrenamiento</a></li>
+                    <li><a href="equipo.php">Equipo</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
+                    <li><a href="admin">Accesso</a></li>
+                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="equipo.php">Spanish</a></li>
-                        <li><a href="team.php">English</a></li>
+                        <li><a href="equipo.php">Español</a></li>
+                        <li><a href="team.php">Inglés</a></li>
                       </ul>
                     </li>
                   </ul>
@@ -74,17 +74,17 @@
           <div class="overlay-content container-fluid">
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
-                <a href="cierto.php">Home</a>
-          	    <a href="about.php">About</a>
-                <a href="services.php">Service</a>
-                <a href="training.php">Training</a>
-                <a href="team.php">Team</a>
-                <a href="contact.php">Contact</a>
-                <a href="admin">Access</a>
-                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                <a href="index.php">Inicio</a>
+          	    <a href="acercade.php">Acerca de</a>
+                <a href="servicios.php">Servicios</a>
+                <a href="entrenamiento.php">Entrenamiento</a>
+                <a href="equipo.php">Equipo</a>
+                <a href="contacto.php">Contacto</a>
+                <a href="admin">Accesso</a>
+                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="equipo.php">Spanish</a></li>
-                    <li><a href="team.php">English</a></li>
+                    <li><a href="equipo.php">Español</a></li>
+                    <li><a href="team.php">Inglés</a></li>
                   </ul>
                 </li>
 
@@ -123,15 +123,11 @@
           <div class="row">
             <div class="col-md-7 sep-top-2x">
               <div >
-                <h3 class=" wow bounceInLeft">OUR TEAM</h3>
+                <h3 class=" wow bounceInLeft">NUESTRO EQUIPO DE TRABAJO</h3>
                 <p>&nbsp;</p><p>&nbsp;</p>
 
                 <p class="sep-top-xs wow bounceInLeft">
-                  We establish a professional and respectful contact with the people we work with.
-
-We perform our work ethically, we seek to achieve positive results on each activity.
-
-We prioritize the professionalism, stablish alliances through the confidence on the result of the services we provide.
+                  Establecemos un contacto profesional y respetuoso con todas las personas con las que trabajamos. Realizamos nuestra labor de forma ética, buscamos obtener resultados positivos en cada actividad, priorizamos el profesionalismo y establecemos alianzas a través de la confianza con el resultado de los servicios que brindamos.
                 </p>
                 <p>&nbsp;</p><p>&nbsp;</p>
               </div>
@@ -140,12 +136,12 @@ We prioritize the professionalism, stablish alliances through the confidence on 
           </div>
           <div class="row">
             <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam1">
-              <h4 id="team1">Team CIERTO</h4>
+              <h4 id="team1">Equipo CIERTO</h4>
               <img src="images/A02_B01_JOE.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/A02_B02_JOE.jpg'; team1.style.display='none'" onmouseout="this.src='images/A02_B01_JOE.jpg'; team1.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
 <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam4">
-              <h4 id="team4">Team CIERTO</h4>
+              <h4 id="team4">Equipo CIERTO</h4>
               <img src="images/D02_B01_NORMA.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/D02_B02_NORMA.jpg'; team4.style.display='none'" onmouseout="this.src='images/D02_B01_NORMA.jpg'; team4.style.display='block'">
             </div>
 
@@ -153,12 +149,12 @@ We prioritize the professionalism, stablish alliances through the confidence on 
           <p>&nbsp;</p>
           <div class="row">
             <div class="col-sm-6 wow bounceInRight" data-toggle="modal" data-target="#modalteam3">
-              <h4 id="team3">Team CIERTO</h4>
+              <h4 id="team3">Equipo CIERTO</h4>
               <img src="images/C02_B01_AXEL.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/C02_B02_AXEL.jpg'; team3.style.display='none'" onmouseout="this.src='images/C02_B01_AXEL.jpg'; team3.style.display='block'">
             </div>
 <p class="visible-xs">&nbsp;</p>
             <div class="col-sm-6 wow bounceInLeft" data-toggle="modal" data-target="#modalteam2">
-              <h4 id="team2">Team CIERTO</h4>
+              <h4 id="team2">Equipo CIERTO</h4>
               <img src="images/B02_B01_CESAR.jpg" class="img-responsive" alt="" style="width:100%;" onmouseover="this.src='images/B02_B02_CESAR.jpg'; team2.style.display='none'" onmouseout="this.src='images/B02_B01_CESAR.jpg'; team2.style.display='block'">
             </div>
 
@@ -195,34 +191,34 @@ We prioritize the professionalism, stablish alliances through the confidence on 
           <div class="row">
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Menu</h3>
+              <h3>Menú</h3>
               <br>
               <p>
-                <a href="cierto.php">CIERTO</a><br>
-                <a href="about.php">About</a><br>
-                <a href="services.php">Service</a><br>
-                <a href="training.php">Training</a><br>
-                <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact Us</a><br>
-                <a href="admin">Access</a><br>
-                <a href="privacy.php">Privacy Notice</a>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="acercade.php">Nosotros</a><br>
+                <a href="servicios.php">Servicios</a><br>
+                <a href="entrenamiento.php">Entrenamiento</a><br>
+                <a href="equipo.php">Equipo</a><br>
+                <a href="contacto.php">Contacto</a><br>
+                <a href="admin">Acceso</a><br>Idioma
+                <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Sections</h3>
+              <h3>Secciones</h3>
               <br>
               <p>
-                <a href="about.php#wmud">What makes us different</a><br>
-                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="about.php#wsc">What search CIERTO?</a><br>
-                <a href="services.php#ktph2a">Know the program H2A</a><br>
-                <a href="training.php">Our Training</a><br>
+                <a href="acercade.php#wmud">¿Qué nos hace diferentes?</a><br>
+                <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
+                <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
+                <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
+                <a href="entranamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Data</h3>
+              <h3>Datos</h3>
               <br>
               <p>
                 <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
@@ -265,7 +261,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                       <div class="col-md-6 cuadroblanco col-md-offset-6">
                         <span class="linea"></span>
                         <h3>JOE MARTÍNEZ</h3>
-                        <h4>Executive Director</h4>
+                        <h4>Director Ejecutivo</h4>
                         <p>&nbsp;</p>
                         <p>Joe is a national and international expert on agricultural labor recruitment and compliance with H-2A federal standards. As executive director, his role is to establish and oversee transparent labor recruitment processes in Mexico to staff farms across the United States. A major aspect of Joe’s work is to establish a relationship with every grower that CIERTO does business with to ensure a thorough understanding of their labor supply needs, and to troubleshoot any issues that may arise.  His goal is to ensure that they have a quality, year-round workforce.</p>
                         <p>&nbsp;</p>
@@ -317,7 +313,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>CÉSAR ÁLVAREZ</h3>
-                        <h4>Director Recruiting and Training</h4>
+                        <h4>Director de Reclutamiento y Entrenamiento</h4>
                         <p>&nbsp;</p>
                         <p>Cesar Alvarez has worked for over 20 years in rural communities with immigrant agricultural workers within Mexico, as well as with workers immigrating to the USA and Canada. One of his job responsibilities is to prevent fraud US work visas process for temporary workers in agriculture, or H2A.</p>
                         <p>With CIERTO Cesar oversees our recruitment from communities of origin in Mexico. Cesar forms working groups among the agricultural workers who then go to the US using the H2A visa. Additionally Cesar provides training in as well as in personal growth to the agricultural workers to help them develop the necessary skills and abilities that allow for a positive work experience.</p>
@@ -350,7 +346,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
 
                         <span class="linea"></span>
                         <h3>AXEL GARCÍA</h3>
-                        <h4>Executive Director in Mexico</h4>
+                        <h4>Director Ejecutivo en México</h4>
                         <p>&nbsp;</p>
                         <p>Axel García has over twenty years’ experience working with migrants, refugees and human rights. He has worked for the Ministry of Interior, civil society and the Mexican Catholic Bishops; held an internship with the United Nation High Commissioner for Refugee´s Office for Mexico, Central America and Cuba, and has with the European Union and other international agencies directing social and human rights programs. Axel brings an enormous network of both national and international organizations throughout Mexico and Latin America as well as the US and Europe who help CIERTO connect with our recruitment verification partners.</p>
                         <p>Axel holds a law degree from the Universidad Marista and studied different courses of human rights, migration and governance. He has written many texts on migration and human rights and has taught dozens of courses on migration, human rights and protection of human rights defenders in Mexico, Central America and Europe.</p>
@@ -381,7 +377,7 @@ We prioritize the professionalism, stablish alliances through the confidence on 
                       <div class="col-md-6 cuadroblanco">
                         <span class="linea"></span>
                         <h3>NORMA ENCINAS</h3>
-                        <h4>H2A program manager</h4>
+                        <h4>Directora del Programa H2A</h4>
                         <p>&nbsp;</p>
                         <p>Norma Encinas has been working progressively in the H2A program for over 9 years, successfully processing and delivering more than 8,000 H2A workers to Arizona and California. Norma’s original contact with the program was while working in the state of Arizona as a Migrant Seasonal outreach worker, where she provided services to the agricultural community. She then relocated and began working as an H2A visa consultant with various growers as well as farm labor contractors.</p>
                         <p>&nbsp;</p>

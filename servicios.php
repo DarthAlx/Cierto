@@ -17,84 +17,83 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
   </head>
   <body>
-    <div class="page">
-      <div class="barra">
+    <div class="barra">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="columna col-sm-1 col-md-1 col-xs-3 visible-xs visible-sm">
+            <div class="menu" id="nav-icon0" onclick="openNav()">
+              <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            </div>
+          </div>
+          <div class="col-sm-2 col-xs-9 col-md-2">
+            <div class="cuadrito pull-left hidden-xs hidden-sm">
+              &nbsp;
+            </div>
+            <div class="logo">
+              <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+            </div>
+          </div>
+          <div class="col-md-10">
+              <nav class="circle hidden-sm hidden-xs text-right">
+                <ul>
+                  <li><a href="index.php">Inicio</a></li>
+                  <li><a href="acercade.php">Acerca de</a></li>
+                  <li><a href="servicios.php">Servicios</a></li>
+                  <li><a href="entrenamiento.php">Entrenamiento</a></li>
+                  <li><a href="equipo.php">Equipo</a></li>
+                  <li><a href="contacto.php">Contacto</a></li>
+                  <li><a href="admin">Accesso</a></li>
+                  <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="servicios.php">Español</a></li>
+                      <li><a href="services.php">Inglés</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="menu">
+      <div id="myNav" class="overlay">
+        <!-- Button to close the overlay navigation -->
         <div class="container-fluid">
           <div class="row">
-            <div class="columna col-sm-1 col-md-1 col-xs-3 visible-xs visible-sm">
-              <div class="menu" id="nav-icon0" onclick="openNav()">
-                <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            <div class="columna col-sm-1 col-xs-3">
+              <div class="menu" style="background: transparent;">
+                <i class="fa fa-times fa-3x pull-left" onclick="closeNav()" aria-hidden="true"></i>
               </div>
             </div>
-            <div class="col-sm-2 col-xs-9 col-md-2">
-              <div class="cuadrito pull-left hidden-xs hidden-sm">
-                &nbsp;
-              </div>
-              <div class="logo">
-                <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
-              </div>
-            </div>
-            <div class="col-md-10">
-                <nav class="circle hidden-sm hidden-xs text-right">
-                  <ul>
-                    <li><a href="cierto.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="services.php">Service</a></li>
-                    <li><a href="training.php">Training</a></li>
-                    <li><a href="team.php">Team</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="admin">Access</a></li>
-                    <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
-                      <ul class="dropdown-menu">
-                        <li><a href="servicios.php">Spanish</a></li>
-                        <li><a href="services.php">English</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </nav>
-              </div>
-
           </div>
         </div>
-      </div>
+        <!-- Overlay content -->
+        <div class="overlay-content container-fluid">
+          <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <a href="index.php">Inicio</a>
+              <a href="acercade.php">Acerca de</a>
+              <a href="servicios.php">Servicios</a>
+              <a href="entrenamiento.php">Entrenamiento</a>
+              <a href="equipo.php">Equipo</a>
+              <a href="contacto.php">Contacto</a>
+              <a href="admin">Accesso</a>
+              <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="servicios.php">Español</a></li>
+                  <li><a href="services.php">Inglés</a></li>
+                </ul>
+              </li>
 
-      <div class="menu">
-        <div id="myNav" class="overlay">
-          <!-- Button to close the overlay navigation -->
-          <div class="container-fluid">
-            <div class="row">
-              <div class="columna col-sm-1 col-xs-3">
-                <div class="menu" style="background: transparent;">
-                  <i class="fa fa-times fa-3x pull-left" onclick="closeNav()" aria-hidden="true"></i>
-                </div>
-              </div>
             </div>
-          </div>
-          <!-- Overlay content -->
-          <div class="overlay-content container-fluid">
-            <div class="row">
-              <div class="col-sm-10 col-sm-offset-1">
-                <a href="cierto.php">Home</a>
-          	    <a href="about.php">About</a>
-                <a href="services.php">Service</a>
-                <a href="training.php">Training</a>
-                <a href="team.php">Team</a>
-                <a href="contact.php">Contact</a>
-                <a href="admin">Access</a>
-                <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="servicios.php">Spanish</a></li>
-                    <li><a href="services.php">English</a></li>
-                  </ul>
-                </li>
-
-              </div>
-            </div>
-
           </div>
 
         </div>
+
       </div>
+    </div>
 
 
       <section class="servicios1">
@@ -115,9 +114,9 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-              <h3 class="text-center wow bounceInUp">CIERTO Basic Package</h3>
+              <h3 class="text-center wow bounceInUp">CIERTO, PAQUETE BÁSICO</h3>
               <p>&nbsp;</p>
-              <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p><br>
+              <p class="text-center wow bounceInUp">Nuestro probado proceso de 6 pasos está diseñado para satisfacer las necesidades y representar los mejores intereses tanto de los productores como de los trabajadores agrícolas.</p><br>
               </div>
             </div>
               <div class="row">
@@ -125,20 +124,20 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      01 <img src="images/ico1.png" alt=""><br><span>Initial Consultation and Screening </span><br><p>We prioritize relationships over transactions.</p>
+                      01 <img src="images/ico1.png" alt=""><br><span>Consulta Inicial y Selección </span><br><p>Priorizamos las relaciones sobre las transacciones.</p>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-                      <p>• CIERTO sets up an initial, in-person meeting to understand your specific and unique needs and establish a direct and open communication.</p>
+                      <p>• CIERTO organiza una reunión inicial en persona para comprender sus necesidades específicas y únicas, de tal forma logramos establecer una comunicación directa y abierta.</p>
 <p>&nbsp;</p>
-<p>• We collaborate with you to identify previous labor recruitment challenges and to customize a profile that delineates clearly every aspect required of your workers on the job.</p>
+<p>• Colaboramos con usted para identificar retos previos de reclutamiento de mano de obra y para personalizar un perfil que delimite claramente todos los aspectos requeridos de sus trabajadores.</p>
 <p>&nbsp;</p>
-<p>• Close attention to detail is key to a successful H-2A visa petition and ensuring labor contract compliance.</p>
+<p>• La atención cuidadosa al detalle es clave para una solicitud favorable de visa H-2A y para asegurar el cumplimiento del contrato de trabajo.</p>
 <p>&nbsp;</p>
-<p>• We conduct an initial preliminary assessment to ensure that your workforce requirements qualify for an H-2A visa petition.</p>
+<p>• Realizamos una evaluación preliminar inicial para asegurar que sus requisitos de mano de obra califican para una petición de visa H-2A.</p>
 <p>&nbsp;</p>
-<p>• Successful applications result in a custom contract for labor recruitment.
+<p>• Las aplicaciones exitosas resultan en un contrato personalizado para la contratación de mano de obra.
 </p>
                     </div>
 
@@ -153,17 +152,17 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      02 <img src="images/ico2.png" alt=""><br><span>Trusted Labor Recruitment</span><br><p>Transparency and integrity in the recruitment process are core to our work.</p><br>
+                      02 <img src="images/ico2.png" alt=""><br><span>Reclutamiento de Mano de Obra de Confianza</span><br><p>La transparencia y la integridad en el proceso de contratación son fundamentales para nuestro trabajo.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
                       <p>
-                        • CIERTO handles the entire recruitment process, applying transparent, honest and humane practices that respect workers while screening for the most qualified prospects and protecting you from potential unlawful activities.</p>
+                        • CIERTO se ocupa de todo el proceso de reclutamiento aplicando prácticas transparentes, honestas y humanas que respetan a los trabajadores. Todo siendo monitoreado por el personal más calificados protegiéndote de posibles actividades ilegales.</p>
 <p>&nbsp;</p>
-<p>• We know that once you sign a contract for labor recruitment, anything that happens with workers between the community of origin and your farm becomes your responsibility, and a potential liability if it is not done correctly.</p>
+<p>• Sabemos que una vez que firme un contrato de reclutamiento de mano de obra, cualquier cosa que suceda con los trabajadores entre la comunidad de origen y su finca, se convierte en su responsabilidad y una responsabilidad potencial si no se hace correctamente.</p>
 <p>&nbsp;</p>
-<p>• CIERTO has well-established networks and trusted community partners across Mexico who help identify qualified talent; wherever possible, we match expertise to the crops grown.</p>
+<p>• CIERTO tiene redes bien establecidas y socios de confianza de la comunidad en México que ayudan a identificar talentos calificados; siempre que sea posible, comparamos la experiencia con los cultivos.</p>
 <p>&nbsp;</p>
 
                     </div>
@@ -179,17 +178,17 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra ico3">
-                      03 <img src="images/ico3.png" alt=""><br><span>H-2A Visa Petition</span><br><p>It’s all in the details.</p><br>
+                      03 <img src="images/ico3.png" alt=""><br><span>Petición de Visa H-2A</span><br><p>Todo está en los detalles.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
                       <p>
-                        • Housing, catering and transportation must be negotiated and secured before filing a petition, and legal counsel must be consulted to ensure all documents are accurate.</p>
+                        • La vivienda, la restauración y el transporte deben ser negociados y asegurados antes de presentar una petición, y el asesor legal debe ser consultado para asegurarse que todos los documentos son exactos.</p>
 <p>&nbsp;</p>
-<p>• CIERTO manages these details and prepares all documentation and contracts for your signature, so you can dedicate your attention to what’s most important—managing your farm.</p>
+<p>• CIERTO gestiona estos detalles y prepara toda la documentación y los contratos para su firma, para que pueda dedicar su atención a lo más importante: administrar su granja.</p>
 <p>&nbsp;</p>
-<p>• CIERTO submits and oversees all visa petition filings with the workforce agency in your state, the U.S. Department of Labor and the U.S. Citizenship and Immigration Services.
+<p>• CIERTO envía y supervisa todas las solicitudes de visas presentadas ante la agencia de mano de obra de su estado, el Departamento de Trabajo de los Estados Unidos y los Servicios de Ciudadanía e Inmigración.
 </p>
                     </div>
 
@@ -204,18 +203,18 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      04 <img src="images/ico4.png" alt=""><br><span>Training</span><br><p>We professionalize farmwork.</p><br>
+                      04 <img src="images/ico4.png" alt=""><br><span>Entrenamiento</span><br><p>Profesionalizamos el trabajo agrícola.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-<p>• A high-performing workforce makes all the difference in how efficient and effective your farm operates, and on the quality of your produce.</p>
+<p>• Una fuerza de trabajo de alto rendimiento hace toda la diferencia en la eficiencia, la efectividad y en la calidad de los productos de su granja.</p>
 <p>&nbsp;</p>
-<p>• CIERTO’s proprietary 10-module, hands-on training series offers an extra round of quality screening and raises the level of professionalism of the workers we present to you. </p>
+<p>• La serie de 10 módulos de manos libres de CIERTO ofrece una ronda adicional de control de calidad y eleva el nivel de profesionalismo de los trabajadores que le presentamos. Buscamos a los trabajadores que están entusiasmados y puedan aplicar lo que aprenden a su trabajo. </p>
 <p>&nbsp;</p>
-<p>• We look for workers who are excited to learn and can apply what they learn to their work.</p>
+<p>• Los módulos de capacitación ayudan a los trabajadores a desarrollar una comprensión de su papel y sus expectativas como trabajadores agrícolas y construyen habilidades valiosas.</p>
 <p>&nbsp;</p>
-<p>• Training modules help workers develop an understanding of their role and expectations as farm laborers and build valuable skills. We cover such topics as understanding the worksite; understanding their value and contribution to the food supply chain; problem solving; active listening; conflict resolution; teamwork; and personal and food safety.</p>
+<p>• Cubrimos temas como la comprensión del lugar de trabajo; el valor que tienen y su contribución a la cadena de suministro de alimentos; resolución de problemas y conflictos; escucha activa; trabajo en equipo y seguridad personal y alimentaria.</p>
 <p>&nbsp;</p>
 
 
@@ -233,14 +232,14 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      05 <img src="images/ico5.png" alt=""><br><span>Travel and Orientation</span><br><p>We deliver.</p><br>
+                      05 <img src="images/ico5.png" alt=""><br><span>Viajes y Orientación</span><br><p>Entregamos.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-<p>• We transport successful graduates of our training program to the Mexico-U.S. border to complete 1-90 documentation, conduct an interview and cross passport control. </p>
+<p>• Transportamos graduados exitosos de nuestro programa de entrenamiento a los Estados Unidos de América. Para completar 1-90 de documentación, realizar una entrevista y cruzar el control de pasaportes.</p>
 <p>&nbsp;</p>
-<p>• We then accompany the crew to the end destination and participate in on-site orientation, providing initial transition support.</p>
+<p>• Acompañamos a la tripulación hasta el destino final y participamos en la orientación, proporcionando apoyo de transición inicial.</p>
 
 
                     </div>
@@ -256,16 +255,16 @@
                   <div class="col-md-4 col-xs-12">
 
                     <div class="letra">
-                      06 <img src="images/ico6.png" alt=""><br><span>Support and Evaluation</span><br><p>We are with you till the end.</p><br>
+                      06 <img src="images/ico6.png" alt=""><br><span>Apoyo y Evaluación</span><br><p>Estamos contigo hasta el final.</p><br>
                     </div>
                   </div>
                   <div class="col-md-7 col-md-offset-1 col-xs-12">
                     <div class="texto">
-<p>• We know that sometimes things happen, and unforeseen problems emerge. We are there to help troubleshoot and resolve any issues that may arise. </p>
+<p>• Sabemos que a veces suceden cosas y surgen problemas imprevistos. Estamos allí para ayudar a solucionar cualquier problema que pueda surgir. </p>
 <p>&nbsp;</p>
-<p>• As an added protection for both you and the workers, we have an independent third party––known and trusted by the crew because they come from a Mexican community––to check in with workers as well as ensure labor contract compliance. </p>
+<p>• Como protección adicional tanto para usted como para los trabajadores, contamos con un tercero independiente, conocido y confiado por la tripulación porque provienen de una comunidad mexicana, garantizar el cumplimiento de los contratos de trabajo. </p>
 <p>&nbsp;</p>
-<p>• The contract ends with CIERTO completing exit interviews with you and individual workers to learn from the experience and identify opportunities for improvement.</p>
+<p>• El contrato termina con CIERTO completando las entrevistas de salida con usted y con los trabajadores individuales para aprender de la experiencia e identificar oportunidades de mejora.</p>
 
 
 
@@ -289,8 +288,20 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-5  text-left textabout2">
-                  <h4 class="wow bounceInLeft" style="font-style: italic;">“Our aim is to build a skilled, professional agricultural workforce that returns to work for you year after year.”
-                  </h4>
+                  <div id="frases" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner" role="listbox">
+                      <div class="item active">
+                        <h4 style="font-style: italic;">“Nuestro objetivo es crear una mano de obra agrícola especializada y profesional que vuelva a trabajar para usted año tras año”</h4>
+                      </div>
+                      <div class="item">
+                        <h4 style="font-style: italic;">“El fomento de una producción, distribución y consumo libres de explotación laboral ofrecer beneficios a todos los actores de la cadena productiva agrícola”
+Este camino es hoy, la mejor ruta a nivel mundial.
+</h4>
+                      </div>
+                    </div>
+
+                  </div>
+
                 </div>
               </div>
 
@@ -305,7 +316,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
-              <h3 class="text-center wow bounceInUp">KNOW THE PROGRAM H2A</h3>
+              <h3 class="text-center wow bounceInUp">CONOCE EL PROGRAMA H2A</h3>
               <p>&nbsp;</p>
               <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
@@ -314,7 +325,7 @@
                       A
                     </div>
                     <div class="texto col-xs-8">
-                      What is the H2A program?
+                      ¿Qué es el programa H2A?
                     </div>
                   </div>
 
@@ -327,7 +338,7 @@
                       B
                     </div>
                     <div class="texto col-xs-8">
-                      What are the requirements for the H2A program?
+                      ¿Cuáles son los requisitos para el programa H2A?
                     </div>
                   </div>
 
@@ -377,34 +388,34 @@
           <div class="row">
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Menu</h3>
+              <h3>Menú</h3>
               <br>
               <p>
-                <a href="cierto.php">CIERTO</a><br>
-                <a href="about.php">About</a><br>
-                <a href="services.php">Service</a><br>
-                <a href="training.php">Training</a><br>
-                <a href="team.php">Team</a><br>
-                <a href="contact.php">Contact Us</a><br>
-                <a href="admin">Access</a><br>
-                <a href="privacy.php">Privacy Notice</a>
+                <a href="index2.php">CIERTO</a><br>
+                <a href="acercade.php">Nosotros</a><br>
+                <a href="servicios.php">Servicios</a><br>
+                <a href="entrenamiento.php">Entrenamiento</a><br>
+                <a href="equipo.php">Equipo</a><br>
+                <a href="contacto.php">Contacto</a><br>
+                <a href="admin">Acceso</a><br>Idioma
+                <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Sections</h3>
+              <h3>Secciones</h3>
               <br>
               <p>
-                <a href="about.php#wmud">What makes us different</a><br>
-                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="about.php#wsc">What search CIERTO?</a><br>
-                <a href="services.php#ktph2a">Know the program H2A</a><br>
-                <a href="training.php">Our Training</a><br>
+                <a href="acercade.php#wmud">¿Qué nos hace diferentes?</a><br>
+                <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
+                <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
+                <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
+                <a href="entranamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Data</h3>
+              <h3>Datos</h3>
               <br>
               <p>
                 <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
@@ -440,7 +451,7 @@
               <div class="row">
                 <div class="col-sm-12">
                   <p>&nbsp;</p><p>&nbsp;</p>
-                  <p>The H-2A temporary agricultural program establishes a means of agricultural employers who anticipate a shortage of domestic workers to bring non-immigrant foreign workers to the U.S. to perform agricultural labor of a temporary or seasonal nature. </p>
+                  <p>El programa agrícola temporal H-2A establece un medio de empleadores agrícolas, que anticipan una escasez de trabajadores domésticos y trae trabajadores extranjeros no inmigrantes a los Estados Unidos, para realizar trabajos de carácter temporal o estacional. </p>
                     <p>&nbsp;</p><p>&nbsp;</p>
                 </div>
             </div>
@@ -459,15 +470,15 @@
               <div class="row">
                 <div class="col-sm-12">
                   <p>&nbsp;</p><p>&nbsp;</p>
-                  <p>In order to hire foreign workers through the H-2A program, employers must obtain a temporary labor certification from the Department of Labor.</p>
+                  <p>Con el fin de contratar trabajadores extranjeros a través del programa H-2A, los empleadores deben obtener una certificación de trabajo temporal del Departamento de Trabajo. Para ello, los empleadores deben demostrar que</p>
 <p>&nbsp;</p>
-<p>• To do this, employers must demonstrate that the job is of a temporary or seasonal nature.</p>
+<p>• El trabajo es de carácter temporal o estacional.</p>
 
-<p>• That there are not enough U.S. workers who are “able, willing, qualified and available to perform work at the place and time needed”.</p>
+<p>• Que no hay suficientes trabajadores estadounidenses que sean "capaces o estén disponibles para realizar el trabajo en el lugar y tiempo necesarios".</p>
 
-<p>• That the wages and working conditions of workers in the United States will not be "adversely affected" by the importation of guest workers.</p>
+<p>• Que los salarios y las condiciones de trabajo en los Estados Unidos no serán "afectados negativamente" por la importación de trabajadores invitados.</p>
 <p>&nbsp;</p>
-<p>To demonstrate the above factors, employers are required to recruit and hire US workers and to offer certain labor protections required by the program, such as minimum wage requirements and free housing, among others.</p>
+<p>Para demostrar estos factores, se requiere que los empleadores contraten a trabajadores estadounidenses y ofrezcan ciertas protecciones laborales requeridas por el programa, como requisitos de salario mínimo y vivienda gratuita, entre otros.</p>
   <p>&nbsp;</p><p>&nbsp;</p>
                 </div>
             </div>

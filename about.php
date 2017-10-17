@@ -34,20 +34,25 @@
               &nbsp;
             </div>
             <div class="logo">
-              <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+              <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
             </div>
           </div>
           <div class="col-md-10">
               <nav class="circle hidden-sm hidden-xs text-right">
                 <ul>
-                  <li><a href="index2.php">Home</a></li>
+                  <li><a href="cierto.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="services.php">Service</a></li>
                   <li><a href="training.php">Training</a></li>
                   <li><a href="team.php">Team</a></li>
                   <li><a href="contact.php">Contact</a></li>
                   <li><a href="admin">Access</a></li>
-                  <li><a href="#">Languages</a></li>
+                  <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="acercade.php">Spanish</a></li>
+                      <li><a href="about.php">English</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </nav>
             </div>
@@ -72,14 +77,19 @@
         <div class="overlay-content container-fluid">
           <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-              <a href="index2.php">Home</a>
+              <a href="cierto.php">Home</a>
               <a href="about.php">About</a>
               <a href="services.php">Service</a>
               <a href="training.php">Training</a>
               <a href="team.php">Team</a>
               <a href="contact.php">Contact</a>
               <a href="admin">Access</a>
-              <a href="#">Languages</a>
+              <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="acercade.php">Spanish</a></li>
+                  <li><a href="about.php">English</a></li>
+                </ul>
+              </li>
 
             </div>
           </div>
@@ -421,14 +431,14 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="index2.php">CIERTO</a><br>
+                <a href="cierto.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
                 <a href="team.php">Team</a><br>
-                <a href="contact.php">CONTÁCTANOS</a><br>
+                <a href="contact.php">Contact Us</a><br>
                 <a href="admin">Access</a><br>
-                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
+                <a href="privacy.php">Privacy Notice</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">

@@ -40,14 +40,19 @@
           <div class="col-md-10">
               <nav class="circle hidden-sm hidden-xs text-right">
                 <ul>
-                  <li><a href="index2.php">Home</a></li>
-                  <li><a href="about.php">About</a></li>
-                  <li><a href="services.php">Service</a></li>
-                  <li><a href="training.php">Training</a></li>
-                  <li><a href="team.php">Team</a></li>
-                  <li><a href="contact.php">Contact</a></li>
-                  <li><a href="admin">Access</a></li>
-                  <li><a href="#">Languages</a></li>
+                  <li><a href="index.php">Inicio</a></li>
+                  <li><a href="acercade.php">Acerca de</a></li>
+                  <li><a href="servicios.php">Servicios</a></li>
+                  <li><a href="entrenamiento.php">Entrenamiento</a></li>
+                  <li><a href="equipo.php">Equipo</a></li>
+                  <li><a href="contacto.php">Contacto</a></li>
+                  <li><a href="admin">Accesso</a></li>
+                  <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="acercade.php">Español</a></li>
+                      <li><a href="about.php">Inglés</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </nav>
             </div>
@@ -72,14 +77,19 @@
         <div class="overlay-content container-fluid">
           <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-              <a href="index2.php">Home</a>
-              <a href="about.php">About</a>
-              <a href="services.php">Service</a>
-              <a href="training.php">Training</a>
-              <a href="team.php">Team</a>
-              <a href="contact.php">Contact</a>
-              <a href="admin">Access</a>
-              <a href="#">Languages</a>
+              <a href="index.php">Inicio</a>
+              <a href="acercade.php">Acerca de</a>
+              <a href="servicios.php">Servicios</a>
+              <a href="entrenamiento.php">Entrenamiento</a>
+              <a href="equipo.php">Equipo</a>
+              <a href="contacto.php">Contacto</a>
+              <a href="admin">Accesso</a>
+              <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Idiomas <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="acercade.php">Español</a></li>
+                  <li><a href="about.php">Inglés</a></li>
+                </ul>
+              </li>
 
             </div>
           </div>
@@ -414,34 +424,34 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
           <div class="row">
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Menu</h3>
+              <h3>Menú</h3>
               <br>
               <p>
                 <a href="index2.php">CIERTO</a><br>
-                <a href="about.php">About</a><br>
-                <a href="services.php">Service</a><br>
-                <a href="training.php">Training</a><br>
-                <a href="team.php">Team</a><br>
-                <a href="contact.php">CONTÁCTANOS</a><br>
-                <a href="admin">Access</a><br>
-                <a href="#">Lenguages</a><br><a href="privacy.php">Privacy Notice</a>
+                <a href="acercade.php">Nosotros</a><br>
+                <a href="servicios.php">Servicios</a><br>
+                <a href="entrenamiento.php">Entrenamiento</a><br>
+                <a href="equipo.php">Equipo</a><br>
+                <a href="contacto.php">Contacto</a><br>
+                <a href="admin">Acceso</a><br>Idioma
+                <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
             <div class="col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Sections</h3>
+              <h3>Secciones</h3>
               <br>
               <p>
-                <a href="about.php#wmud">What makes us different</a><br>
-                <a href="about.php#yp">Your partners in successfully recruiting a quality workforce</a><br>
-                <a href="about.php#wsc">What search CIERTO?</a><br>
-                <a href="services.php#ktph2a">Know the program H2A</a><br>
-                <a href="training.php">Our Training</a><br>
+                <a href="acercade.php#wmud">¿Qué nos hace diferentes?</a><br>
+                <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
+                <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
+                <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
+                <a href="entranamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">
               <p class="visible-xs">&nbsp;</p>
-              <h3>Data</h3>
+              <h3>Datos</h3>
               <br>
               <p>
                 <a href="#"> Av. Coyoacán 1622. Edificio 4. Piso 2. Interior A. Colonia del Valle. Delegación Benito Juárez. CDMX, México. C.P. 03100.</a><br>
