@@ -253,7 +253,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO adheres to clear, transparent recruitment practices, maintaining open and regular communication and establishing fair and respectful relationships. </p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="about.php#wmud" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>

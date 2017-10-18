@@ -31,14 +31,14 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <li><a href="acercade.php">Acerca de</a></li>
+                    <li><a href="acercade.php">Nosotros</a></li>
                     <li><a href="servicios.php">Servicios</a></li>
                     <li><a href="entrenamiento.php">Entrenamiento</a></li>
                     <li><a href="equipo.php">Equipo</a></li>
@@ -75,7 +75,7 @@
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
                 <a href="index.php">Inicio</a>
-          	    <a href="acercade.php">Acerca de</a>
+          	    <a href="acercade.php">Nosotros</a>
                 <a href="servicios.php">Servicios</a>
                 <a href="entrenamiento.php">Entrenamiento</a>
                 <a href="equipo.php">Equipo</a>
@@ -200,7 +200,7 @@
                 <a href="entrenamiento.php">Entrenamiento</a><br>
                 <a href="equipo.php">Equipo</a><br>
                 <a href="contacto.php">Contacto</a><br>
-                <a href="admin">Acceso</a><br>Idioma
+                <a href="admin">Acceso</a><br>
                 <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
@@ -213,7 +213,7 @@
                 <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
                 <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
                 <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
-                <a href="entranamiento.php">Programa de entrenamiento</a><br>
+                <a href="entrenamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">

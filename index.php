@@ -31,14 +31,14 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="index2.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
                     <li><a href="index.php">Inicio</a></li>
-                    <li><a href="acercade.php">Acerca de</a></li>
+                    <li><a href="acercade.php">Nosotros</a></li>
                     <li><a href="servicios.php">Servicios</a></li>
                     <li><a href="entrenamiento.php">Entrenamiento</a></li>
                     <li><a href="equipo.php">Equipo</a></li>
@@ -75,7 +75,7 @@
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
                 <a href="index.php">Inicio</a>
-          	    <a href="acercade.php">Acerca de</a>
+          	    <a href="acercade.php">Nosotros</a>
                 <a href="servicios.php">Servicios</a>
                 <a href="entrenamiento.php">Entrenamiento</a>
                 <a href="equipo.php">Equipo</a>
@@ -110,7 +110,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO es un Contratista de Trabajo Agrícola certificado que recluta, entrena y coloca a trabajadores agrícolas experimentados de México en granjas de los Estados Unidos. Nuestra misión es crear una fuerza de trabajo agrícola profesional cualificada y certificada que aporte valor agregado a la cadena de suministro de alimentos.</p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="acercade.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -230,7 +230,7 @@
                     </div>
                   </div>
                   <p>&nbsp;</p>
-                  <a href="services.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="servicios.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                   <p>&nbsp;</p>
                   <p>&nbsp;</p>
                 </div>
@@ -252,7 +252,7 @@
                   <p>&nbsp;</p>
                   <p>Nuestros procesos de contratación están supervisados para garantizar integridad. Nuestra contratación, reclutamiento, capacitación y administración son confiables y transparentes. Eliminamos prácticas fraudulentas y protegemos los intereses de productores y trabajadores. </p>
                   <p>&nbsp;</p>
-                  <a href="about.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="acercade.php#wmud" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -321,7 +321,7 @@
                           <span class="linea"></span>
 
                             <div class="numero">
-                              A <span>TRABAJADOR</span>
+                              A <span>Trabajador</span>
                             </div>
 
 
@@ -351,7 +351,7 @@
                         <div class="servicio maqueta2"  data-toggle="modal" data-target="#agroindustria">
                           <span class="linea"></span>
                           <div class="numero">
-                            B <span>AGROINDUSTRIA</span>
+                            B <span>Agroindustria</span>
                           </div>
                         </div>
                       </div>
@@ -378,7 +378,7 @@
                         <div class="servicio maqueta3" data-toggle="modal" data-target="#vendedor">
                           <span class="linea"></span>
                           <div class="numero">
-                            C <span>VENDEDOR</span>
+                            C <span>Vendedor</span>
                           </div>
                         </div>
 
@@ -405,7 +405,7 @@
                         <div class="servicio maqueta4" data-toggle="modal" data-target="#consumidor">
                           <span class="linea"></span>
                           <div class="numero">
-                            D <span>CONSUMIDOR</span>
+                            D <span>Consumidor</span>
                           </div>
                         </div>
                       </div>
@@ -476,7 +476,7 @@
                   <p>&nbsp;</p>
                   <p>CIERTO, implementa una metodología que busca profesionalizar a los trabajadores/as del campo para mejorar la cadena productiva, reconociendo el valor y la dignidad de cada uno. </p>
                   <p>&nbsp;</p>
-                  <a href="training.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="entrenamiento.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -504,32 +504,32 @@
 
                         <div class="item active">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"Es la primera vez que valoran mi trabajo."</h2>
+                            <h2>"ES LA PRIMERA VEZ QUE VALORAN MI TRABAJO."</h2>
                             <p style="text-align: right; color:#fff;">Estela Moreno, Trabajadora agrícola.</p>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"Reinventamos las reglas de consumo"</h2>
+                            <h2>"REINVENTAMOS LAS REGLAS DE CONSUMO"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"Producción de calidad y libre de explotación"</h2>
+                            <h2>"PRODUCCIÓN DE CALIDAD Y LIBRE DE EXPLOTACIÓN"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"Seleccionamos a los mejores trabajadores agrícolas"</h2>
+                            <h2>"SELECCIONAMOS A LOS MEJORES TRABAJADORES AGRÍCOLAS"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
                         <div class="item">
                           <div class="col-md-6 col-md-offset-6">
-                            <h2>"Trabajadores contentos ofrecen productos de calidad"</h2>
+                            <h2>"TRABAJADORES CONTENTOS OFRECEN PRODUCTOS DE CALIDAD"</h2>
                             <span class="lineablanca pull-right"></span>
                           </div>
                         </div>
@@ -559,7 +559,7 @@
                   <p>&nbsp;</p>
                   <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
                   <p>&nbsp;</p>
-                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="contacto.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -582,7 +582,7 @@
                 <a href="entrenamiento.php">Entrenamiento</a><br>
                 <a href="equipo.php">Equipo</a><br>
                 <a href="contacto.php">Contacto</a><br>
-                <a href="admin">Acceso</a><br>Idioma
+                <a href="admin">Acceso</a><br>
                 <a href="privacidad.php">Aviso de privacidad</a>
               </p>
             </div>
@@ -595,7 +595,7 @@
                 <a href="acercade.php#yp">CIERTO es tu socio y tu mejor aliado</a><br>
                 <a href="acercade.php#wsc">¿Qué busca CIERTO?</a><br>
                 <a href="servicios.php#ktph2a">Conoce el programa H2A</a><br>
-                <a href="entranamiento.php">Programa de entrenamiento</a><br>
+                <a href="entrenamiento.php">Programa de entrenamiento</a><br>
               </p>
             </div>
             <div class="col-sm-offset-4 col-sm-2 col-xs-12">

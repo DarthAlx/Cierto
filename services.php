@@ -115,7 +115,7 @@
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-              <h3 class="text-center wow bounceInUp">CIERTO Basic Package</h3>
+              <h3 class="text-center wow bounceInUp">CIERTO BASIC PACKAGE</h3>
               <p>&nbsp;</p>
               <p class="text-center wow bounceInUp">Our proven six-step process is designed to meet the needs and represent the best interests of both growers and farmworkers.</p><br>
               </div>

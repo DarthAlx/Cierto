@@ -125,9 +125,9 @@
 
 <p>
   <ul>
-    <li>●	Information will be provided to the ranches where the agricultural day labourers develop their role</li>
-    <li>●	The name and telephone number will be provided to a human rights organization that will supervise the working conditions offered and that the selection process has been free of charge, free from fraud and deceit.</li>
-    <li>●	The information will be stored in the CIERTO database to have a record of the profile and experience of the working people.</li>
+    <li>	Information will be provided to the ranches where the agricultural day labourers develop their role</li>
+    <li>	The name and telephone number will be provided to a human rights organization that will supervise the working conditions offered and that the selection process has been free of charge, free from fraud and deceit.</li>
+    <li>	The information will be stored in the CIERTO database to have a record of the profile and experience of the working people.</li>
   </ul>
 
 
