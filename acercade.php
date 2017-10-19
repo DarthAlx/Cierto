@@ -410,7 +410,7 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
                   <p>&nbsp;</p>
                   <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
                   <p>&nbsp;</p>
-                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
+                  <a href="contacto.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
                 </div>
               </div>
             </div>
@@ -427,7 +427,7 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
               <h3>Menú</h3>
               <br>
               <p>
-                <a href="index2.php">CIERTO</a><br>
+                <a href="index.php">CIERTO</a><br>
                 <a href="acercade.php">Nosotros</a><br>
                 <a href="servicios.php">Servicios</a><br>
                 <a href="entrenamiento.php">Entrenamiento</a><br>

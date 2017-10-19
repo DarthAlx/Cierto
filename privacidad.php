@@ -304,7 +304,7 @@
               <h3>Menú</h3>
               <br>
               <p>
-                <a href="index2.php">CIERTO</a><br>
+                <a href="index.php">CIERTO</a><br>
                 <a href="acercade.php">Nosotros</a><br>
                 <a href="servicios.php">Servicios</a><br>
                 <a href="entrenamiento.php">Entrenamiento</a><br>
