@@ -44,7 +44,6 @@
                     <li><a href="team.php">Team</a></li>
                     <li><a href="contact.php">Contact</a></li>
                     <li><a href="admin">Access</a></li>
-                    <li><a href="#">Languages</a></li>
                     <li class="dropdown"><a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Languages <span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="cierto.php">Spanish</a></li>
