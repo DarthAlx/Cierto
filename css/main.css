@@ -970,3 +970,7 @@ nav.circle ul li a:hover:after {
     text-decoration: none;
     background-color: transparent;
 }
+
+nav.circle ul li:nth-child(5) {
+    display: none;
+}

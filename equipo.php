@@ -31,13 +31,13 @@
                 &nbsp;
               </div>
               <div class="logo">
-                <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+                <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
               </div>
             </div>
             <div class="col-md-10">
                 <nav class="circle hidden-sm hidden-xs text-right">
                   <ul>
-                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="cierto.php">Inicio</a></li>
                     <li><a href="acercade.php">Nosotros</a></li>
                     <li><a href="servicios.php">Servicios</a></li>
                     <li><a href="entrenamiento.php">Entrenamiento</a></li>
@@ -74,7 +74,7 @@
           <div class="overlay-content container-fluid">
             <div class="row">
               <div class="col-sm-10 col-sm-offset-1">
-                <a href="index.php">Inicio</a>
+                <a href="cierto.php">Inicio</a>
           	    <a href="acercade.php">Nosotros</a>
                 <a href="servicios.php">Servicios</a>
                 <a href="entrenamiento.php">Entrenamiento</a>
@@ -194,7 +194,7 @@
               <h3>Menú</h3>
               <br>
               <p>
-                <a href="index.php">CIERTO</a><br>
+                <a href="cierto.php">CIERTO</a><br>
                 <a href="acercade.php">Nosotros</a><br>
                 <a href="servicios.php">Servicios</a><br>
                 <a href="entrenamiento.php">Entrenamiento</a><br>

@@ -34,13 +34,13 @@
               &nbsp;
             </div>
             <div class="logo">
-              <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+              <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
             </div>
           </div>
           <div class="col-md-10">
               <nav class="circle hidden-sm hidden-xs text-right">
                 <ul>
-                  <li><a href="cierto.php">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="services.php">Service</a></li>
                   <li><a href="training.php">Training</a></li>
@@ -77,7 +77,7 @@
         <div class="overlay-content container-fluid">
           <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-              <a href="cierto.php">Home</a>
+              <a href="index.php">Home</a>
               <a href="about.php">About</a>
               <a href="services.php">Service</a>
               <a href="training.php">Training</a>
@@ -188,33 +188,33 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>01. Helps you hire and retain an experienced and professional agricultural workforce.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       01
                     </div>
                     <div class="texto col-xs-8">
                       Hire
                     </div>
+                    <div class="col-xs-12">
+                      <p>Helps you hire and retain an experienced and professional agricultural workforce.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>02. Ensures that you have full transparency and an understanding of your labor supply chain.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       02
                     </div>
                     <div class="texto col-xs-8">
                       Ensures
                     </div>
+                    <div class="col-xs-12">
+                      <p>Ensures that you have full transparency and an understanding of your labor supply chain.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -224,33 +224,33 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>03. Ensures that you meet H-2A federal compliance standards.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       03
                     </div>
                     <div class="texto col-xs-8">
                       Compliance standards
                     </div>
+                    <div class="col-xs-12">
+                      <p>Ensures that you meet H-2A federal compliance standards.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-8">
                   <div class="servicio" style="    padding-top: 4%;">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>04. Trains farmworkers to refine transferrable skills that lead to stable labor opportunities and increased job satisfaction while contributing to higher levels of productivity and care in harvesting your products.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4 col-sm-2">
                       04
                     </div>
                     <div class="texto col-xs-8 col-sm-10" style="margin-top: 6%;">
                       Productivity
                     </div>
+                    <div class="col-xs-12">
+                      <p>Trains farmworkers to refine transferrable skills that lead to stable labor opportunities and increased job satisfaction while contributing to higher levels of productivity and care in harvesting your products.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -260,48 +260,48 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>05. Differentiates your business among retailers and consumers who value socially responsible products and practices.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       05
                     </div>
                     <div class="texto col-xs-8">
                       Value
                     </div>
+                    <div class="col-xs-12">
+                      <p>Differentiates your business among retailers and consumers who value socially responsible products and practices.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>06. Places you as practices implementation leader for production, distribution and consumption free of exploitation.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       06
                     </div>
                     <div class="texto col-xs-8">
                       Position
                     </div>
+                    <div class="col-xs-12">
+                      <p>Places you as practices implementation leader for production, distribution and consumption free of exploitation.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>07. Troubleshoots and addresses relevant issues throughout the duration of the labor contract.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       07
                     </div>
                     <div class="texto col-xs-8">
                       Solutions
                     </div>
+                    <div class="col-xs-12">
+                      <p>Troubleshoots and addresses relevant issues throughout the duration of the labor contract.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
 
@@ -398,29 +398,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
         </div>
       </section>
 
-      <section class="seccion contacto">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 fondo">
-              <div class="row imgcierto">
-                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
-                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
-                  <span class="linea"></span>
-                  <h3>CONTÁCTANOS</h3>
-                  <p>&nbsp;</p>
-                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
-                  <p>&nbsp;</p>
-                  <a href="contact.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
 
       <section class="seccion footer">
@@ -431,7 +409,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="cierto.php">CIERTO</a><br>
+                <a href="index.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>

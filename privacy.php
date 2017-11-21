@@ -34,13 +34,13 @@
               &nbsp;
             </div>
             <div class="logo">
-              <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+              <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
             </div>
           </div>
           <div class="col-md-10">
               <nav class="circle hidden-sm hidden-xs text-right">
                 <ul>
-                  <li><a href="cierto.php">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="services.php">Service</a></li>
                   <li><a href="training.php">Training</a></li>
@@ -77,7 +77,7 @@
         <div class="overlay-content container-fluid">
           <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-              <a href="cierto.php">Home</a>
+              <a href="index.php">Home</a>
               <a href="about.php">About</a>
               <a href="services.php">Service</a>
               <a href="training.php">Training</a>
@@ -303,7 +303,7 @@
               <h3>Menu</h3>
               <br>
               <p>
-                <a href="cierto.php">CIERTO</a><br>
+                <a href="index.php">CIERTO</a><br>
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>

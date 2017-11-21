@@ -34,13 +34,13 @@
               &nbsp;
             </div>
             <div class="logo">
-              <a href="index.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
+              <a href="cierto.php"><img class="img-responsive" src="img/logo.png" alt=""></a>
             </div>
           </div>
           <div class="col-md-10">
               <nav class="circle hidden-sm hidden-xs text-right">
                 <ul>
-                  <li><a href="index.php">Inicio</a></li>
+                  <li><a href="cierto.php">Inicio</a></li>
                   <li><a href="acercade.php">Nosotros</a></li>
                   <li><a href="servicios.php">Servicios</a></li>
                   <li><a href="entrenamiento.php">Entrenamiento</a></li>
@@ -77,7 +77,7 @@
         <div class="overlay-content container-fluid">
           <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-              <a href="index.php">Inicio</a>
+              <a href="cierto.php">Inicio</a>
               <a href="acercade.php">Nosotros</a>
               <a href="servicios.php">Servicios</a>
               <a href="entrenamiento.php">Entrenamiento</a>
@@ -184,33 +184,33 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>01. Ayuda a contratar y retener a la mano de obra agrícola experimentada y profesional.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       01
                     </div>
                     <div class="texto col-xs-8">
                       Contrata
                     </div>
+                    <div class="col-xs-12">
+                      <p>Ayuda a contratar y retener a la mano de obra agrícola experimentada y profesional.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>02. Garantiza que tenga plena transparencia y comprenda su papel en la cadena de suministro de mano de obra.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       02
                     </div>
                     <div class="texto col-xs-8">
                       Asegura
                     </div>
+                    <div class="col-xs-12">
+                      <p>Garantiza que tenga plena transparencia y comprenda su papel en la cadena de suministro de mano de obra.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -220,33 +220,33 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>03. Garantiza que cumpla con los estándares federales de cumplimiento H-2A.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       03
                     </div>
                     <div class="texto col-xs-8">
                       Cumplimiento de Normas
                     </div>
+                    <div class="col-xs-12">
+                      <p>Garantiza que cumpla con los estándares federales de cumplimiento H-2A.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-8">
                   <div class="servicio" style="    padding-top: 4%;">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>04. Entrena a los trabajadores agrícolas para refinar las habilidades transferibles, que conducen a oportunidades laborales estables y una mayor satisfacción en el trabajo, mientras contribuyen a niveles más altos de productividad y cuidado en la cosecha de sus productos.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4 col-sm-2">
                       04
                     </div>
                     <div class="texto col-xs-8 col-sm-10" style="margin-top: 6%;">
                       Productividad
                     </div>
+                    <div class="col-xs-12">
+                      <p>Entrena a los trabajadores agrícolas para refinar las habilidades transferibles, que conducen a oportunidades laborales estables y una mayor satisfacción en el trabajo, mientras contribuyen a niveles más altos de productividad y cuidado en la cosecha de sus productos.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
@@ -256,48 +256,48 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
               <div class="row wow bounceInDown">
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>05. Diferencia su negocio entre minoristas y consumidores que valoran productos y prácticas socialmente responsables.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       05
                     </div>
                     <div class="texto col-xs-8">
                       Valor
                     </div>
+                    <div class="col-xs-12">
+                      <p>Diferencia su negocio entre minoristas y consumidores que valoran productos y prácticas socialmente responsables.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
 
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>06. Lo posiciona como líder en la implementación de prácticas de producción, distribución y consumo libres de explotación.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       06
                     </div>
                     <div class="texto col-xs-8">
                       Posiciona
                     </div>
+                    <div class="col-xs-12">
+                      <p>Lo posiciona como líder en la implementación de prácticas de producción, distribución y consumo libres de explotación.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="servicio">
-                    <div class="overlay">
-                      <div class="text col-xs-12">
-                        <p>07. Soluciona problemas y aborda las cuestiones pertinentes a lo largo de la duración del contrato de trabajo.</p>
-                      </div>
-                    </div>
                     <div class="numero col-xs-4">
                       07
                     </div>
                     <div class="texto col-xs-8">
                       Soluciona
                     </div>
+                    <div class="col-xs-12">
+                      <p>Soluciona problemas y aborda las cuestiones pertinentes a lo largo de la duración del contrato de trabajo.</p>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                   </div>
                 </div>
 
@@ -394,29 +394,7 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
         </div>
       </section>
 
-      <section class="seccion contacto">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 fondo">
-              <div class="row imgcierto">
-                <div class="col-sm-4 col-sm-offset-4 col-xs-12 ">
-                  <img src="images/ciertocontacto.png" class="img-responsive" alt="" style="width: 100%">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-6 cuadroblanco col-md-offset-6 wow bounceInRight">
-                  <span class="linea"></span>
-                  <h3>CONTÁCTANOS</h3>
-                  <p>&nbsp;</p>
-                  <p>Si tienes alguna pregunta envíanos un mensaje y nosotros nos pondremos en contacto contigo.</p>
-                  <p>&nbsp;</p>
-                  <a href="contacto.php" class="btn btn-primary btn-lg pull-right">Saber más</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
 
       <section class="seccion footer">
@@ -427,7 +405,7 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
               <h3>Menú</h3>
               <br>
               <p>
-                <a href="index.php">CIERTO</a><br>
+                <a href="cierto.php">CIERTO</a><br>
                 <a href="acercade.php">Nosotros</a><br>
                 <a href="servicios.php">Servicios</a><br>
                 <a href="entrenamiento.php">Entrenamiento</a><br>
