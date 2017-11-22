@@ -308,7 +308,7 @@
                 <a href="acercade.php">Nosotros</a><br>
                 <a href="servicios.php">Servicios</a><br>
                 <a href="entrenamiento.php">Entrenamiento</a><br>
-                <a href="equipo.php">Equipo</a><br>
+                <!--a href="equipo.php">Equipo</a><br-->
                 <a href="contacto.php">Contacto</a><br>
                 <a href="admin">Acceso</a><br>
                 <a href="privacidad.php">Aviso de privacidad</a>

@@ -307,7 +307,7 @@
                 <a href="about.php">About</a><br>
                 <a href="services.php">Service</a><br>
                 <a href="training.php">Training</a><br>
-                <a href="team.php">Team</a><br>
+                <!--a href="team.php">Team</a><br-->
                 <a href="contact.php">Contact Us</a><br>
                 <a href="admin">Access</a><br>
                 <a href="privacy.php">Privacy Notice</a>
