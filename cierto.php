@@ -154,7 +154,7 @@
                             02
                           </div>
                           <div class="texto col-xs-8">
-                            Reclutamiento de Mano <br>de Obra de Confianza
+                            Reclutamiento de Mano de Obra de Confianza
                           </div>
                           <div class="col-xs-12">
                             <p>La transparencia y la integridad en el proceso de contratación son fundamentales para nuestro trabajo.</p>

@@ -149,7 +149,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
       </section>
       <div class="container-fluid" style="background:#e2e2e2;">
         <div class="row" style="">
-          <div class="col-md-5 col-md-offset-1">
+          <div class="col-md-10 col-md-offset-1">
             <p style="text-style: italic; font-size: 17px; position: absolute; top: -20px;">"Full productive fresh food chain: Costco, Andrew & Williamson, Cierto, and the farmworkers"</p>
             <p>&nbsp;</p>
           </div>

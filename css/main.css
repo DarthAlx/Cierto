@@ -974,3 +974,9 @@ nav.circle ul li a:hover:after {
 nav.circle ul li:nth-child(5) {
     display: none;
 }
+.footer .col-xs-12 p a:nth-child(5) {
+    display: none;
+}
+.footer .col-xs-12 p br:nth-child(4) {
+    display: none;
+}

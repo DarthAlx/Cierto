@@ -145,7 +145,7 @@ CIERTO es un contratista de mano de obra agrícola certificado que recluta, entr
       </section>
       <div class="container-fluid" style="background:#e2e2e2;">
         <div class="row" style="">
-          <div class="col-md-5 col-md-offset-1">
+          <div class="col-md-10 col-md-offset-1">
             <p style="text-style: italic; font-size: 17px; position: absolute; top: -20px;">"Equipo de la cadena productiva alimentaria: Costco, Andrew y Williamson, CIERTO, y los trabajadores agrícolas"</p>
             <p>&nbsp;</p>
           </div>
