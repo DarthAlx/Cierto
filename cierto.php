@@ -119,7 +119,7 @@
         </div>
       </section>
 
-      <section class="servicios inicio">
+      <!--section class="servicios inicio">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -227,7 +227,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section-->
 
       <section class="seccion diferentes">
         <div class="container-fluid">
@@ -458,14 +458,14 @@
 
 
 
-      <section class="seccion frases">
+      <!--section class="seccion frases">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
               <div class="row">
                 <div class="col-md-12">
                   <div id="carrusel-frases" class="carousel slide" data-ride="carousel" style="height: 100vh;">
-                    <!-- Indicators -->
+                
                     <ol class="carousel-indicators">
                       <li data-target="#carrusel-frases" data-slide-to="0" class="active"></li>
                       <li data-target="#carrusel-frases" data-slide-to="1"></li>
@@ -514,7 +514,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section-->
 
 
 

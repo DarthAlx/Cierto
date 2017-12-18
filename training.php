@@ -97,7 +97,7 @@
       </div>
 
 
-      <section class="training1">
+      <!--section class="training1">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -107,8 +107,19 @@
             </div>
           </div>
         </div>
-      </section>
+      </section-->
+      <section class="training2">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 fondo">
+              <div class="row">
 
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </section>
       <section class="seccion about4 servicionums">
         <div class="container-fluid">
           <div class="row">
@@ -187,7 +198,9 @@
       </section>
 
 
-      <section class="training2">
+
+
+      <section class="training3">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -199,8 +212,6 @@
           </div>
         </div>
       </section>
-
-
 
       <section class="servicios3">
         <div class="container-fluid">
@@ -231,18 +242,7 @@
 
 
 
-      <section class="training3">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xs-12 fondo">
-              <div class="row">
 
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </section>
       <div class="separadorblanco " style="background: #fff;">
 
       </div>

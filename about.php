@@ -159,7 +159,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
       <img src="images/01_MODULO_W_P03.jpg" class="img-responsive" alt="">
 
 
-      <section class="entrada about2">
+      <!--section class="entrada about2">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -173,7 +173,7 @@ CIERTO is the only farm labor contractor monitored by an independent third party
             </div>
           </div>
         </div>
-      </section>
+      </section-->
 
       <section class="seccion about3" id="yp">
         <div class="container-fluid">

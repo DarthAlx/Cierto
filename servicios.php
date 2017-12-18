@@ -96,7 +96,7 @@
     </div>
 
 
-      <section class="servicios1">
+      <!--section class="servicios1">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -106,7 +106,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section-->
 
       <section class="seccion about4 servicionums">
         <div class="container-fluid">
