@@ -242,7 +242,7 @@
         </div>
       </section-->
 
-      <section class="seccion diferentes">
+      <!--section class="seccion diferentes">
         <div class="container-fluid">
           <div class="row">
             <div class="col-xs-12 fondo">
@@ -262,7 +262,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section-->
 
 
 
@@ -478,7 +478,7 @@
               <div class="row">
                 <div class="col-md-12">
                   <div id="carrusel-frases" class="carousel slide" data-ride="carousel" style="height: 100vh;">
-                  
+
                     <ol class="carousel-indicators">
                       <li data-target="#carrusel-frases" data-slide-to="0" class="active"></li>
                       <li data-target="#carrusel-frases" data-slide-to="1"></li>
