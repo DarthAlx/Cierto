@@ -933,11 +933,11 @@ nav.circle ul li a:hover:after {
     margin: auto;
     height: 1px;
     z-index: -1;
-    background: #eee;
+    background: #1E6D1F;
     border-radius: 100%;
   }
   100% {
-    background: #ccc;
+    background: #1E6D1F;
     height: 5000%;
     width: 5000%;
     z-index: -1;
@@ -973,4 +973,21 @@ nav.circle ul li a:hover:after {
 
 nav.circle ul li:nth-child(5) {
     display: none !important;
+}
+nav.circle ul{
+      margin: 0;
+      background: #017B01;
+      padding: 0;
+      margin-right: -15px;
+}
+nav.circle ul li{
+      background: #017B01;
+      margin: 0px;
+  padding: 0px;
+}
+nav.circle ul li a{
+      color: #fff;
+}
+nav.circle ul li:hover {
+    color: #fff;
 }
