@@ -29,6 +29,24 @@
 </head>
 
 <body class="sticky-header">
+  <?php
+    if($this->input->get_cookie('lang',false)){
+      if($this->input->get_cookie('lang',false)=="esp"){
+  ?>
+    <script type="text/javascript">
+      $('.labelesp').show();
+      $('.labeleng').hide();
+    </script>
+  <?php
+      }
+      else{ ?>
+        <script type="text/javascript">
+          $('.labelesp').hide();
+          $('.labeleng').show();
+        </script>
+  <?php   }
+    }
+  ?>
 
 <section>
     <!-- left side start--><img src="<?php echo base_url() ?>images/logo.png" alt="" class="visible-xs logo-movil" style="    margin-top: 5px;">
@@ -61,7 +79,7 @@
                         <h4><a href="#"><?=ucfirst($this->session->userdata('aliasuser'))?></a></h4>
                         <span><?php
                         if($this->session->userdata('tipo')==1){
-                          echo "<span class='labelesp'>Administrador</span>";
+                          echo "<span class='labelesp'>Administrador</span><span class='labeleng'>Administrator</span>";
                         }
                         if($this->session->userdata('tipo')==2){
                           echo "<span class='labelesp'>Vendedor</span>";
@@ -77,7 +95,9 @@
                 </div>
 
 
-                <ul class="nav nav-pills nav-stacked custom-nav">
+                <ul class="nav nav-pills nav-stacked custom-nav"><?php echo base_url() ?>images/logo.png
+                    <li><a href="<?php echo base_url() ?>index.php/idioma/esp"><i class="fa fa-sign-out"></i> <span class="labelesp">Español</span><span class="labeleng">Spanish</span></a></li>
+                    <li><a href="<?php echo base_url() ?>index.php/idioma/eng"><i class="fa fa-sign-out"></i> <span class="labelesp">Inglés</span><span class="labeleng">English</span></a></li>
                     <li><a href="<?php echo base_url() ?>index.php/usuarios/cerrar_sesion"><i class="fa fa-sign-out"></i> <span class="labelesp">Salir</span></a></li>
                 </ul>
             </div>

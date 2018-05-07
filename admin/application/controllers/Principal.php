@@ -36,5 +36,16 @@ class Principal extends CI_Controller {
 	//termina proceso de logueado
 
 	}
+	public function idioma($idioma){
+					$cookie = array(
+	          'name'   => 'lang',
+	          'value'  => $idioma,
+	          'domain' => '/',
+	          'secure' => FALSE
+          );
+
+					$this->input->set_cookie($cookie);
+					redirect($_SERVER['HTTP_REFERER']);
+	}
 
 }

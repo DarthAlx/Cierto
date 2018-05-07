@@ -74,3 +74,6 @@ $route['cuenta/perfilrancho/(:any)']="perfil/rancho/$1";
 
 $route['modificar/trabajador/(:any)']="perfil/modificarperfiltrabajador/$1";
 $route['cuenta/perfiltrabajador/(:any)']="perfil/trabajador/$1";
+
+
+$route['idioma/(:any)']="principal/idioma/$1";
