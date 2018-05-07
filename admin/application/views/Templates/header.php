@@ -61,16 +61,16 @@
                         <h4><a href="#"><?=ucfirst($this->session->userdata('aliasuser'))?></a></h4>
                         <span><?php
                         if($this->session->userdata('tipo')==1){
-                          echo "Administrador";
+                          echo "<span class='labelesp'>Administrador</span>";
                         }
                         if($this->session->userdata('tipo')==2){
-                          echo "Vendedor";
+                          echo "<span class='labelesp'>Vendedor</span>";
                         }
                         if($this->session->userdata('tipo')==3){
-                          echo "Rancho";
+                          echo "<span class='labelesp'>Rancho</span>";
                         }
                         if($this->session->userdata('tipo')==4){
-                          echo "Usuario";
+                          echo "<span class='labelesp'>Usuario</span>";
                         }
                         ?></span>
                     </div>
@@ -78,65 +78,65 @@
 
 
                 <ul class="nav nav-pills nav-stacked custom-nav">
-                    <li><a href="<?php echo base_url() ?>index.php/usuarios/cerrar_sesion"><i class="fa fa-sign-out"></i> <span>Salir</span></a></li>
+                    <li><a href="<?php echo base_url() ?>index.php/usuarios/cerrar_sesion"><i class="fa fa-sign-out"></i> <span class="labelesp">Salir</span></a></li>
                 </ul>
             </div>
 
             <!--sidebar 1 nav start-->
             <?php if($tipo==1){?>
             <ul class="nav nav-pills nav-stacked custom-nav">
-              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
-              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilintegrante/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span>Perfil</span></a></li>
-              <li id="Registro" class="menu-list"><a href="#"><i class="fa fa-pencil-square-o"></i> <span>Registro</span></a>
+              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span class="labelesp">Inicio</span></a></li>
+              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilintegrante/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span class="labelesp">Perfil</span></a></li>
+              <li id="Registro" class="menu-list"><a href="#"><i class="fa fa-pencil-square-o"></i> <span class="labelesp">Registro</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/registros/comunidad"> Comunidad</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/registros/trabajador"> Trabajador</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/registros/rancho"> Rancho</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/registros/vendedor"> Vendedor</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/registros/equipo"> Equipo CIERTO</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/comunidad"> <span class="labelesp">Comunidad</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/trabajador"> <span class="labelesp">Trabajador</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/rancho"> <span class="labelesp">Rancho</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/vendedor"> <span class="labelesp">Vendedor</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/equipo"> <span class="labelesp">Equipo CIERTO</span></a></li>
                   </ul>
               </li>
-              <li id="Contratos" class="menu-list"><a href="#"><i class="fa fa-file-text-o" aria-hidden="true"></i> <span>Contratos</span></a>
+              <li id="Contratos" class="menu-list"><a href="#"><i class="fa fa-file-text-o" aria-hidden="true"></i> <span class="labelesp">Contratos</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/contratos/contratocr"> CIERTO / Rancho</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/contratos/contratort"> Rancho / Trabajador</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/contratos/contratocr"> <span class="labelesp">CIERTO / Rancho</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/contratos/contratort"> <span class="labelesp">Rancho / Trabajador</span></a></li>
 
                   </ul>
               </li>
-              <li id="Evaluaciones" class="menu-list"><a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Evaluaciones</span></a>
+              <li id="Evaluaciones" class="menu-list"><a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i> <span class="labelesp">Evaluaciones</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/evaluaciones/evaluacion"> Trabajador</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/evaluaciones/evaluacion"> <span class="labelesp">Trabajador</span></a></li>
                   </ul>
               </li>
-              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span>Consultas</span></a>
+              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span class="labelesp">Consultas</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/comunidades"> Comunidades</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> Trabajadores</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> Ranchos</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> Contratos CIERTO / Rancho</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> Contratos Rancho / Trabajador</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/vendedores"> Vendedores</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/equipo"> Equipo CIERTO</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> Evaluaciones</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/articulo12"> Reporte semestral</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/comunidades"> <span class="labelesp">Comunidades</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> <span class="labelesp">Trabajadores</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> <span class="labelesp">Ranchos</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> <span class="labelesp">Contratos CIERTO / Rancho</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> <span class="labelesp">Contratos Rancho / Trabajador</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/vendedores"> <span class="labelesp">Vendedores</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/equipo"> <span class="labelesp">Equipo CIERTO</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> <span class="labelesp">Evaluaciones</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/articulo12"> <span class="labelesp">Reporte semestral</span></a></li>
                   </ul>
               </li>
-              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span>Archivos</span></a></li>
-              <li id="Contenidos" class="menu-list"><a href="#"><i class="fa fa-puzzle-piece" aria-hidden="true"></i> <span>Contenidos</span></a>
+              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span class="labelesp">Archivos</span></a></li>
+              <li id="Contenidos" class="menu-list"><a href="#"><i class="fa fa-puzzle-piece" aria-hidden="true"></i> <span class="labelesp">Contenidos</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/contenidos/boletin"> Publicar boletín</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/contenidos/boletin"> <span class="labelesp">Publicar boletín</span></a></li>
                       <!--li><a href="<?php echo base_url() ?>index.php/contenidos/foroeditor"> Categorias</a></li-->
-                      <li><a href="<?php echo base_url() ?>chat/php/app.php?login" target="_blank"> Chat</a></li>
+                      <li><a href="<?php echo base_url() ?>chat/php/app.php?login" target="_blank"> <span class="labelesp">Chat</span></a></li>
                   </ul>
               </li>
-              <li id="Foro" class=""><a href="<?php echo base_url() ?>index.php/foro/categorias"><i class="fa fa-bullhorn" aria-hidden="true"></i> <span>Foro</span></a></li>
+              <li id="Foro" class=""><a href="<?php echo base_url() ?>index.php/foro/categorias"><i class="fa fa-bullhorn" aria-hidden="true"></i> <span class="labelesp">Foro</span></a></li>
 
 
 
 
-              <li id="Usuarios" class="menu-list"><a href="#"><i class="fa fa-user" aria-hidden="true"></i> <span>Usuarios</span></a>
+              <li id="Usuarios" class="menu-list"><a href="#"><i class="fa fa-user" aria-hidden="true"></i> <span class="labelesp">Usuarios</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/usuarios/registrar"> Crear usuario</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/usuarios/registrar"> <span class="labelesp">Crear usuario</span></a></li>
                   </ul>
               </li>
 
@@ -146,21 +146,21 @@
             <!--sidebar 2 nav start vendedor-->
             <?php if($tipo==2){?>
             <ul class="nav nav-pills nav-stacked custom-nav">
-              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span>Inicio </span></a></li>
-              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilvendedor/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span>Perfil</span></a></li>
+              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span class="labelesp">Inicio </span></a></li>
+              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilvendedor/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span class="labelesp">Perfil</span></a></li>
 
-              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span>Consultas</span></a>
+              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span class="labelesp">Consultas</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/comunidades"> Comunidades</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> Trabajadores</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> Ranchos</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> Contratos CIERTO / Rancho</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> Contratos Rancho / Trabajador</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/vendedores"> Vendedores</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> Evaluaciones</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/comunidades"> <span class="labelesp">Comunidades</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> <span class="labelesp">Trabajadores</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> <span class="labelesp">Ranchos</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> <span class="labelesp">Contratos CIERTO / Rancho</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> <span class="labelesp">Contratos Rancho / Trabajador</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/vendedores"> <span class="labelesp">Vendedores</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> <span class="labelesp">Evaluaciones</span></a></li>
                   </ul>
               </li>
-              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span>Archivos</span></a></li>
+              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span class="labelesp">Archivos</span></a></li>
 
             </ul>
             <?php }?>
@@ -168,23 +168,23 @@
             <!--sidebar 3 nav start ranchos-->
             <?php if($tipo==3){?>
             <ul class="nav nav-pills nav-stacked custom-nav">
-              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
-              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilrancho/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span>Perfil</span></a></li>
-              <li id="Registro" class="menu-list"><a href="#"><i class="fa fa-pencil-square-o"></i> <span>Registro</span></a>
+              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span class="labelesp">Inicio</span></a></li>
+              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfilrancho/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span class="labelesp">Perfil</span></a></li>
+              <li id="Registro" class="menu-list"><a href="#"><i class="fa fa-pencil-square-o"></i> <span class="labelesp">Registro</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/registros/rancho"> Sedes</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/registros/rancho"> <span class="labelesp">Sedes</span></a></li>
                   </ul>
               </li>
-              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span>Consultas</span></a>
+              <li id="Consultas" class="menu-list"><a href="#"><i class="fa fa-search" aria-hidden="true"></i> <span class="labelesp">Consultas</span></a>
                   <ul class="sub-menu-list">
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> Trabajadores</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> Ranchos</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> Contratos CIERTO / Rancho</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> Contratos Rancho / Trabajador</a></li>
-                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> Evaluaciones</a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/trabajadores"> <span class="labelesp">Trabajadores</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/ranchos"> <span class="labelesp">Ranchos</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratoscr"> <span class="labelesp">Contratos CIERTO / Rancho</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/contratosrt"> <span class="labelesp">Contratos Rancho / Trabajador</span></a></li>
+                      <li><a href="<?php echo base_url() ?>index.php/consultas/evaluaciones"> <span class="labelesp">Evaluaciones</span></a></li>
                   </ul>
               </li>
-              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span>Archivos</span></a></li>
+              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span class="labelesp">Archivos</span></a></li>
 
             </ul>
             <?php }?>
@@ -192,19 +192,19 @@
 
             <!--sidebar 4 nav start trabajadores-->
             <?php if($tipo==4){
-            
+
                 $ids=$this->queries_model->customsql("SELECT * FROM cg_boletines WHERE id = (SELECT MAX(id) FROM cg_boletines) ");
                 foreach ($ids as $id) {
                   $boletin=$id->id;
                 }
               ?>
             <ul class="nav nav-pills nav-stacked custom-nav">
-              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span>Inicio</span></a></li>
-              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfiltrabajador/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span>Perfil</span></a></li>
-              <li id="Dudas" class=""><a href="<?php echo base_url() ?>index.php/perfil/faqs"><i class="fa fa-question" aria-hidden="true"></i> <span>¿Tienes dudas?</span></a></li>
-              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span>Archivos</span></a></li>
-              <li id="Boletín" class=""><a href="<?php echo base_url() ?>index.php/perfil/boletin/<?=$boletin?>"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Boletín</span></a></li>
-              <li id="Foro" class=""><a href="<?php echo base_url() ?>index.php/foro/categorias"><i class="fa fa-bullhorn" aria-hidden="true"></i> <span>Foro</span></a></li>
+              <li id="Inicio" class=""><a href="<?php echo base_url() ?>"><i class="fa fa-home"></i> <span class="labelesp">Inicio</span></a></li>
+              <li id="Perfil" class=""><a href="<?php echo base_url() ?>index.php/cuenta/perfiltrabajador/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i> <span class="labelesp">Perfil</span></a></li>
+              <li id="Dudas" class=""><a href="<?php echo base_url() ?>index.php/perfil/faqs"><i class="fa fa-question" aria-hidden="true"></i> <span class="labelesp">¿Tienes dudas?</span></a></li>
+              <li id="Archivos" class=""><a href="<?php echo base_url() ?>index.php/archivos"><i class="fa fa-files-o" aria-hidden="true"></i> <span class="labelesp">Archivos</span></a></li>
+              <li id="Boletín" class=""><a href="<?php echo base_url() ?>index.php/perfil/boletin/<?=$boletin?>"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="labelesp">Boletín</span></a></li>
+              <li id="Foro" class=""><a href="<?php echo base_url() ?>index.php/foro/categorias"><i class="fa fa-bullhorn" aria-hidden="true"></i> <span class="labelesp">Foro</span></a></li>
             </ul>
             <?php }?>
             <!--sidebar 4 nav end trabajadores-->
@@ -237,20 +237,20 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-usermenu pull-right">
                       <?php if($this->session->userdata('tipo')==1) { ?>
-                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilintegrante/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  Perfil</a></li>
+                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilintegrante/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  <span class="labelesp">Perfil</span></a></li>
                       <?php } ?>
                       <?php if($this->session->userdata('tipo')==2) { ?>
-                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilvendedor/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  Perfil</a></li>
+                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilvendedor/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  <span class="labelesp">Perfil</span></a></li>
                       <?php } ?>
                       <?php if($this->session->userdata('tipo')==3) { ?>
-                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilrancho/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  Perfil</a></li>
+                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfilrancho/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  <span class="labelesp">Perfil</span></a></li>
                       <?php } ?>
                       <?php if($this->session->userdata('tipo')==4) { ?>
-                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfiltrabajador/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  Perfil</a></li>
+                        <li><a href="<?php echo base_url() ?>index.php/cuenta/perfiltrabajador/<?php echo $this->session->userdata('idenlace') ?>"><i class="fa fa-user"></i>  <span class="labelesp">Perfil</span></a></li>
                       <?php } ?>
 
                         <!--li><a href="#"><i class="fa fa-cog"></i>  Configuración</a></li-->
-                        <li><a href="<?php echo base_url() ?>index.php/usuarios/cerrar_sesion"><i class="fa fa-sign-out"></i> Salir</a></li>
+                        <li><a href="<?php echo base_url() ?>index.php/usuarios/cerrar_sesion"><i class="fa fa-sign-out"></i> <span class="labelesp">Salir</span></a></li>
                     </ul>
                 </li>
 
